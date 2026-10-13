@@ -1,5 +1,5 @@
 // Generated from "Downtown Rochester Business Inventory 20260915.xlsx" — re-upload the sheet and ask to refresh.
-// Coordinates are APPROXIMATE (auto-geocoded); routes are placeholder lines pending City-verified geometry.
+// Coordinates are APPROXIMATE (auto-geocoded). Parking routes come from City ramps/lots and OpenStreetMap sidewalks (see README).
 window.WHATS_OPEN_DATA = {
  "meta": {
   "source": "https://www.downtownrochesterconstruction.org/whats-open",
@@ -38,42 +38,6 @@ window.WHATS_OPEN_DATA = {
    "cats": [
     "Retail & services"
    ],
-   "accessPoint": {
-    "name": "Pedestrian walkway",
-    "lng": -92.479631,
-    "lat": 44.02167
-   },
-   "parkingPoint": {
-    "name": "Customer parking via 1st Street SW",
-    "lng": -92.479691,
-    "lat": 44.022090000000006
-   },
-   "routes": {
-    "parking": [
-     [
-      -92.479691,
-      44.022090000000006
-     ],
-     [
-      -92.479631,
-      44.022090000000006
-     ],
-     [
-      -92.479631,
-      44.02179
-     ]
-    ],
-    "access": [
-     [
-      -92.479631,
-      44.02167
-     ],
-     [
-      -92.479631,
-      44.02179
-     ]
-    ]
-   },
    "schedule": {
     "type": "weekly",
     "days": {
@@ -140,42 +104,6 @@ window.WHATS_OPEN_DATA = {
    "cats": [
     "Lodging"
    ],
-   "accessPoint": {
-    "name": "Pedestrian walkway",
-    "lng": -92.479511,
-    "lat": 44.021739999999994
-   },
-   "parkingPoint": {
-    "name": "Nearby parking",
-    "lng": -92.479571,
-    "lat": 44.02216
-   },
-   "routes": {
-    "parking": [
-     [
-      -92.479571,
-      44.02216
-     ],
-     [
-      -92.479511,
-      44.02216
-     ],
-     [
-      -92.479511,
-      44.02186
-     ]
-    ],
-    "access": [
-     [
-      -92.479511,
-      44.021739999999994
-     ],
-     [
-      -92.479511,
-      44.02186
-     ]
-    ]
-   },
    "schedule": {
     "type": "weekly",
     "days": {
@@ -244,42 +172,6 @@ window.WHATS_OPEN_DATA = {
    "cats": [
     "Food & drink"
    ],
-   "accessPoint": {
-    "name": "Pedestrian walkway",
-    "lng": -92.48154,
-    "lat": 44.02166
-   },
-   "parkingPoint": {
-    "name": "Canadian Honker parking lot",
-    "lng": -92.4816,
-    "lat": 44.02208
-   },
-   "routes": {
-    "parking": [
-     [
-      -92.4816,
-      44.02208
-     ],
-     [
-      -92.48154,
-      44.02208
-     ],
-     [
-      -92.48154,
-      44.02178
-     ]
-    ],
-    "access": [
-     [
-      -92.48154,
-      44.02166
-     ],
-     [
-      -92.48154,
-      44.02178
-     ]
-    ]
-   },
    "schedule": {
     "type": "weekly",
     "days": {
@@ -360,50 +252,6 @@ window.WHATS_OPEN_DATA = {
     "Food & drink",
     "Lodging"
    ],
-   "accessPoint": {
-    "name": "2nd Street SW pedestrian walkway; 11th Ave SW; 1st Street SW",
-    "lng": -92.4795,
-    "lat": 44.02192
-   },
-   "parkingPoint": {
-    "name": "EVEN Hotel Parking",
-    "lng": -92.479202,
-    "lat": 44.022445000000005
-   },
-   "routes": {
-    "parking": [
-     [
-      -92.479202,
-      44.022445000000005
-     ],
-     [
-      -92.479142,
-      44.022445000000005
-     ],
-     [
-      -92.479142,
-      44.022145
-     ]
-    ],
-    "access": [
-     [
-      -92.4795,
-      44.02192
-     ],
-     [
-      -92.4795,
-      44.02218
-     ],
-     [
-      -92.479142,
-      44.02218
-     ],
-     [
-      -92.479142,
-      44.022145
-     ]
-    ]
-   },
    "schedule": {
     "type": "always"
    }
@@ -439,42 +287,6 @@ window.WHATS_OPEN_DATA = {
    "cats": [
     "Food & drink"
    ],
-   "accessPoint": {
-    "name": "Pedestrian walkway",
-    "lng": -92.480782,
-    "lat": 44.021528999999994
-   },
-   "parkingPoint": {
-    "name": "Parking lot near Uni Uni",
-    "lng": -92.48276899999999,
-    "lat": 44.022180000000006
-   },
-   "routes": {
-    "parking": [
-     [
-      -92.48276899999999,
-      44.022180000000006
-     ],
-     [
-      -92.480782,
-      44.022180000000006
-     ],
-     [
-      -92.480782,
-      44.021649
-     ]
-    ],
-    "access": [
-     [
-      -92.480782,
-      44.021528999999994
-     ],
-     [
-      -92.480782,
-      44.021649
-     ]
-    ]
-   },
    "schedule": {
     "type": "weekly",
     "days": {
@@ -542,42 +354,6 @@ window.WHATS_OPEN_DATA = {
    "cats": [
     "Lodging"
    ],
-   "accessPoint": {
-    "name": "Pedestrian walkway",
-    "lng": -92.480166,
-    "lat": 44.021909
-   },
-   "parkingPoint": {
-    "name": "SpringHill Suites Hotel Parking via 1st Street SW",
-    "lng": -92.480226,
-    "lat": 44.022329000000006
-   },
-   "routes": {
-    "parking": [
-     [
-      -92.480226,
-      44.022329000000006
-     ],
-     [
-      -92.480166,
-      44.022329000000006
-     ],
-     [
-      -92.480166,
-      44.022029
-     ]
-    ],
-    "access": [
-     [
-      -92.480166,
-      44.021909
-     ],
-     [
-      -92.480166,
-      44.022029
-     ]
-    ]
-   },
    "schedule": {
     "type": "always"
    }
@@ -615,50 +391,6 @@ window.WHATS_OPEN_DATA = {
    "cats": [
     "Lodging"
    ],
-   "accessPoint": {
-    "name": "2nd Street SW pedestrian walkway; 11th Ave SW; 1st Street SW",
-    "lng": -92.4795,
-    "lat": 44.02192
-   },
-   "parkingPoint": {
-    "name": "Staybridge Suites Parking",
-    "lng": -92.47917000000001,
-    "lat": 44.022800000000004
-   },
-   "routes": {
-    "parking": [
-     [
-      -92.47917000000001,
-      44.022800000000004
-     ],
-     [
-      -92.47911,
-      44.022800000000004
-     ],
-     [
-      -92.47911,
-      44.0225
-     ]
-    ],
-    "access": [
-     [
-      -92.4795,
-      44.02192
-     ],
-     [
-      -92.4795,
-      44.02218
-     ],
-     [
-      -92.47911,
-      44.02218
-     ],
-     [
-      -92.47911,
-      44.0225
-     ]
-    ]
-   },
    "schedule": {
     "type": "always"
    }
@@ -696,42 +428,6 @@ window.WHATS_OPEN_DATA = {
    "cats": [
     "Food & drink"
    ],
-   "accessPoint": {
-    "name": "Pedestrian walkway",
-    "lng": -92.482286,
-    "lat": 44.021729
-   },
-   "parkingPoint": {
-    "name": "Parking lot near Uni Uni",
-    "lng": -92.48276899999999,
-    "lat": 44.022180000000006
-   },
-   "routes": {
-    "parking": [
-     [
-      -92.48276899999999,
-      44.022180000000006
-     ],
-     [
-      -92.482286,
-      44.022180000000006
-     ],
-     [
-      -92.482286,
-      44.021849
-     ]
-    ],
-    "access": [
-     [
-      -92.482286,
-      44.021729
-     ],
-     [
-      -92.482286,
-      44.021849
-     ]
-    ]
-   },
    "schedule": {
     "type": "weekly",
     "days": {
@@ -829,42 +525,6 @@ window.WHATS_OPEN_DATA = {
    "cats": [
     "Food & drink"
    ],
-   "accessPoint": {
-    "name": "Pedestrian walkway",
-    "lng": -92.49319,
-    "lat": 44.021778
-   },
-   "parkingPoint": {
-    "name": "Rear dedicated 60-car parking lot",
-    "lng": -92.49325,
-    "lat": 44.022198
-   },
-   "routes": {
-    "parking": [
-     [
-      -92.49325,
-      44.022198
-     ],
-     [
-      -92.49319,
-      44.022198
-     ],
-     [
-      -92.49319,
-      44.021898
-     ]
-    ],
-    "access": [
-     [
-      -92.49319,
-      44.021778
-     ],
-     [
-      -92.49319,
-      44.021898
-     ]
-    ]
-   },
    "schedule": {
     "type": "weekly",
     "days": {
@@ -938,42 +598,6 @@ window.WHATS_OPEN_DATA = {
    "cats": [
     "Retail & services"
    ],
-   "accessPoint": {
-    "name": "Pedestrian walkway",
-    "lng": -92.493075,
-    "lat": 44.021778
-   },
-   "parkingPoint": {
-    "name": "Tyrol dedicated parking",
-    "lng": -92.49313500000001,
-    "lat": 44.022198
-   },
-   "routes": {
-    "parking": [
-     [
-      -92.49313500000001,
-      44.022198
-     ],
-     [
-      -92.493075,
-      44.022198
-     ],
-     [
-      -92.493075,
-      44.021898
-     ]
-    ],
-    "access": [
-     [
-      -92.493075,
-      44.021778
-     ],
-     [
-      -92.493075,
-      44.021898
-     ]
-    ]
-   },
    "schedule": {
     "type": "varies"
    }
@@ -1009,42 +633,6 @@ window.WHATS_OPEN_DATA = {
    "cats": [
     "Food & drink"
    ],
-   "accessPoint": {
-    "name": "Pedestrian walkway",
-    "lng": -92.482689,
-    "lat": 44.02176
-   },
-   "parkingPoint": {
-    "name": "Parking lot near Uni Uni",
-    "lng": -92.48276899999999,
-    "lat": 44.022180000000006
-   },
-   "routes": {
-    "parking": [
-     [
-      -92.48276899999999,
-      44.022180000000006
-     ],
-     [
-      -92.482689,
-      44.022180000000006
-     ],
-     [
-      -92.482689,
-      44.02188
-     ]
-    ],
-    "access": [
-     [
-      -92.482689,
-      44.02176
-     ],
-     [
-      -92.482689,
-      44.02188
-     ]
-    ]
-   },
    "schedule": {
     "type": "weekly",
     "days": {
@@ -1118,42 +706,6 @@ window.WHATS_OPEN_DATA = {
    "cats": [
     "Food & drink"
    ],
-   "accessPoint": {
-    "name": "Nearest open sidewalk",
-    "lng": -92.464823,
-    "lat": 44.022112
-   },
-   "parkingPoint": {
-    "name": "Nearby public ramp",
-    "lng": -92.464883,
-    "lat": 44.022532000000005
-   },
-   "routes": {
-    "parking": [
-     [
-      -92.464883,
-      44.022532000000005
-     ],
-     [
-      -92.464823,
-      44.022532000000005
-     ],
-     [
-      -92.464823,
-      44.022232
-     ]
-    ],
-    "access": [
-     [
-      -92.464823,
-      44.022112
-     ],
-     [
-      -92.464823,
-      44.022232
-     ]
-    ]
-   },
    "schedule": {
     "type": "weekly",
     "days": {
@@ -1227,42 +779,6 @@ window.WHATS_OPEN_DATA = {
    "cats": [
     "Retail & services"
    ],
-   "accessPoint": {
-    "name": "Nearest open sidewalk",
-    "lng": -92.462707,
-    "lat": 44.019925
-   },
-   "parkingPoint": {
-    "name": "Nearby public ramp",
-    "lng": -92.462767,
-    "lat": 44.020345000000006
-   },
-   "routes": {
-    "parking": [
-     [
-      -92.462767,
-      44.020345000000006
-     ],
-     [
-      -92.462707,
-      44.020345000000006
-     ],
-     [
-      -92.462707,
-      44.020045
-     ]
-    ],
-    "access": [
-     [
-      -92.462707,
-      44.019925
-     ],
-     [
-      -92.462707,
-      44.020045
-     ]
-    ]
-   },
    "schedule": {
     "type": "weekly",
     "days": {
@@ -1336,42 +852,6 @@ window.WHATS_OPEN_DATA = {
    "cats": [
     "Food & drink"
    ],
-   "accessPoint": {
-    "name": "Nearest open sidewalk",
-    "lng": -92.463406,
-    "lat": 44.020176
-   },
-   "parkingPoint": {
-    "name": "Nearby public ramp",
-    "lng": -92.46346600000001,
-    "lat": 44.020596000000005
-   },
-   "routes": {
-    "parking": [
-     [
-      -92.46346600000001,
-      44.020596000000005
-     ],
-     [
-      -92.463406,
-      44.020596000000005
-     ],
-     [
-      -92.463406,
-      44.020296
-     ]
-    ],
-    "access": [
-     [
-      -92.463406,
-      44.020176
-     ],
-     [
-      -92.463406,
-      44.020296
-     ]
-    ]
-   },
    "schedule": {
     "type": "weekly",
     "days": {
@@ -1439,42 +919,6 @@ window.WHATS_OPEN_DATA = {
    "cats": [
     "Lodging"
    ],
-   "accessPoint": {
-    "name": "Nearest open sidewalk",
-    "lng": -92.465677,
-    "lat": 44.022921
-   },
-   "parkingPoint": {
-    "name": "Nearby public ramp",
-    "lng": -92.465737,
-    "lat": 44.023341
-   },
-   "routes": {
-    "parking": [
-     [
-      -92.465737,
-      44.023341
-     ],
-     [
-      -92.465677,
-      44.023341
-     ],
-     [
-      -92.465677,
-      44.023041
-     ]
-    ],
-    "access": [
-     [
-      -92.465677,
-      44.022921
-     ],
-     [
-      -92.465677,
-      44.023041
-     ]
-    ]
-   },
    "schedule": {
     "type": "always"
    }
@@ -1504,42 +948,6 @@ window.WHATS_OPEN_DATA = {
    "cats": [
     "Retail & services"
    ],
-   "accessPoint": {
-    "name": "Nearest open sidewalk",
-    "lng": -92.464739,
-    "lat": 44.02191
-   },
-   "parkingPoint": {
-    "name": "Nearby public ramp",
-    "lng": -92.464799,
-    "lat": 44.022330000000004
-   },
-   "routes": {
-    "parking": [
-     [
-      -92.464799,
-      44.022330000000004
-     ],
-     [
-      -92.464739,
-      44.022330000000004
-     ],
-     [
-      -92.464739,
-      44.02203
-     ]
-    ],
-    "access": [
-     [
-      -92.464739,
-      44.02191
-     ],
-     [
-      -92.464739,
-      44.02203
-     ]
-    ]
-   },
    "schedule": {
     "type": "weekly",
     "days": {
@@ -1607,42 +1015,6 @@ window.WHATS_OPEN_DATA = {
    "cats": [
     "Food & drink"
    ],
-   "accessPoint": {
-    "name": "Nearest open sidewalk",
-    "lng": -92.463093,
-    "lat": 44.026809
-   },
-   "parkingPoint": {
-    "name": "Nearby public ramp",
-    "lng": -92.463153,
-    "lat": 44.027229000000005
-   },
-   "routes": {
-    "parking": [
-     [
-      -92.463153,
-      44.027229000000005
-     ],
-     [
-      -92.463093,
-      44.027229000000005
-     ],
-     [
-      -92.463093,
-      44.026929
-     ]
-    ],
-    "access": [
-     [
-      -92.463093,
-      44.026809
-     ],
-     [
-      -92.463093,
-      44.026929
-     ]
-    ]
-   },
    "schedule": {
     "type": "weekly",
     "days": {
@@ -1710,42 +1082,6 @@ window.WHATS_OPEN_DATA = {
    "cats": [
     "Retail & services"
    ],
-   "accessPoint": {
-    "name": "Nearest open sidewalk",
-    "lng": -92.459237,
-    "lat": 44.022656999999995
-   },
-   "parkingPoint": {
-    "name": "Nearby public ramp",
-    "lng": -92.459297,
-    "lat": 44.023077
-   },
-   "routes": {
-    "parking": [
-     [
-      -92.459297,
-      44.023077
-     ],
-     [
-      -92.459237,
-      44.023077
-     ],
-     [
-      -92.459237,
-      44.022777
-     ]
-    ],
-    "access": [
-     [
-      -92.459237,
-      44.022656999999995
-     ],
-     [
-      -92.459237,
-      44.022777
-     ]
-    ]
-   },
    "schedule": {
     "type": "weekly",
     "days": {
@@ -1819,42 +1155,6 @@ window.WHATS_OPEN_DATA = {
    "cats": [
     "Retail & services"
    ],
-   "accessPoint": {
-    "name": "Nearest open sidewalk",
-    "lng": -92.463948,
-    "lat": 44.020151999999996
-   },
-   "parkingPoint": {
-    "name": "Nearby public ramp",
-    "lng": -92.464008,
-    "lat": 44.020572
-   },
-   "routes": {
-    "parking": [
-     [
-      -92.464008,
-      44.020572
-     ],
-     [
-      -92.463948,
-      44.020572
-     ],
-     [
-      -92.463948,
-      44.020272
-     ]
-    ],
-    "access": [
-     [
-      -92.463948,
-      44.020151999999996
-     ],
-     [
-      -92.463948,
-      44.020272
-     ]
-    ]
-   },
    "schedule": {
     "type": "weekly",
     "days": {
@@ -1891,360 +1191,5 @@ window.WHATS_OPEN_DATA = {
     }
    }
   }
- ],
- "closures": {
-  "type": "FeatureCollection",
-  "features": [
-   {
-    "type": "Feature",
-    "properties": {
-     "zoneType": "construction",
-     "name": "Link BRT — 2nd St SW",
-     "detail": "Link construction on the south side of 2nd St SW between 18th Ave SW and 20th Ave SW. Traffic reduced to a single lane each direction; businesses remain accessible from the north-side pedestrian walkway."
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        -92.4943,
-        44.0215
-       ],
-       [
-        -92.4914,
-        44.0215
-       ],
-       [
-        -92.4914,
-        44.02176
-       ],
-       [
-        -92.4943,
-        44.02176
-       ],
-       [
-        -92.4943,
-        44.0215
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zoneType": "closed",
-     "name": "Closed — 11th Ave SW crossing",
-     "detail": "11th Ave SW crossing at 2nd St SW fully closed. Use the signed crossing one block west; hotel entrances remain open from the north."
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        -92.4793,
-        44.02188
-       ],
-       [
-        -92.47898,
-        44.02188
-       ],
-       [
-        -92.47898,
-        44.02228
-       ],
-       [
-        -92.4793,
-        44.02228
-       ],
-       [
-        -92.4793,
-        44.02188
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zoneType": "construction",
-     "name": "Link BRT — 2nd St SW (11th–14th Ave)",
-     "detail": "Roadway reconstruction. Sidewalk open on the north side only; business entrances signed and maintained."
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        -92.4832,
-        44.0216
-       ],
-       [
-        -92.4796,
-        44.0216
-       ],
-       [
-        -92.4796,
-        44.02185
-       ],
-       [
-        -92.4832,
-        44.02185
-       ],
-       [
-        -92.4832,
-        44.0216
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zoneType": "closed",
-     "name": "Closed — 3rd Ave SW",
-     "detail": "3rd Ave SW completely closed from 2nd St SW to West Center Street. Flaggers assist with local access."
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        -92.4671,
-        44.0214
-       ],
-       [
-        -92.4665,
-        44.0214
-       ],
-       [
-        -92.4665,
-        44.0236
-       ],
-       [
-        -92.4671,
-        44.0236
-       ],
-       [
-        -92.4671,
-        44.0214
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zoneType": "closed",
-     "name": "Closed — Civic Center Dr SE",
-     "detail": "Civic Center Drive SE completely closed south of the Zumbro River bridge to 1st St SE. Detour via 4th St SE to Broadway."
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        -92.4601,
-        44.0236
-       ],
-       [
-        -92.4591,
-        44.0236
-       ],
-       [
-        -92.4591,
-        44.0252
-       ],
-       [
-        -92.4601,
-        44.0252
-       ],
-       [
-        -92.4601,
-        44.0236
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zoneType": "construction",
-     "name": "Peace Plaza streetscape",
-     "detail": "Plaza paving work. East and skyway entrances remain open."
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        -92.4653,
-        44.0219
-       ],
-       [
-        -92.4647,
-        44.0219
-       ],
-       [
-        -92.4647,
-        44.0223
-       ],
-       [
-        -92.4653,
-        44.0223
-       ],
-       [
-        -92.4653,
-        44.0219
-       ]
-      ]
-     ]
-    }
-   }
-  ]
- },
- "accessPoints": {
-  "type": "FeatureCollection",
-  "features": [
-   {
-    "type": "Feature",
-    "properties": {
-     "kind": "walk",
-     "name": "Pedestrian walkway — north side 2nd St SW",
-     "detail": "Signed, protected walkway along the north side of 2nd St SW. Maintained through construction."
-    },
-    "geometry": {
-     "type": "Point",
-     "coordinates": [
-      -92.4801,
-      44.02195
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "kind": "walk",
-     "name": "Signed crossing — 12th Ave SW",
-     "detail": "Temporary signalized crossing while the 11th Ave crossing is closed."
-    },
-    "geometry": {
-     "type": "Point",
-     "coordinates": [
-      -92.4795,
-      44.02192
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "kind": "walk",
-     "name": "Walkway entrance — 18th Ave SW",
-     "detail": "West entrance to the 2nd St pedestrian walkway near Tyrol and Thesis."
-    },
-    "geometry": {
-     "type": "Point",
-     "coordinates": [
-      -92.493,
-      44.02195
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "kind": "walk",
-     "name": "Skyway access — Peace Plaza",
-     "detail": "All-weather skyway and subway connections remain open during plaza work."
-    },
-    "geometry": {
-     "type": "Point",
-     "coordinates": [
-      -92.4652,
-      44.0226
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "kind": "parking",
-     "name": "Public ramp — 2nd St SW",
-     "detail": "Public parking ramp, entrance from the north frontage. Short walk to 2nd St businesses."
-    },
-    "geometry": {
-     "type": "Point",
-     "coordinates": [
-      -92.4827,
-      44.0222
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "kind": "parking",
-     "name": "Hotel & visitor lot — 11th Ave SW",
-     "detail": "Surface lot serving hotels north of 2nd St SW. Enter from the north; 11th Ave crossing is closed."
-    },
-    "geometry": {
-     "type": "Point",
-     "coordinates": [
-      -92.479,
-      44.0228
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "kind": "parking",
-     "name": "West lot — 19th Ave SW",
-     "detail": "Surface parking for Tyrol and Thesis Beer Project."
-    },
-    "geometry": {
-     "type": "Point",
-     "coordinates": [
-      -92.4935,
-      44.0223
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "kind": "parking",
-     "name": "City Lot 12 — 3rd St SW",
-     "detail": "On-street and lot parking one block from Historic Third Street."
-    },
-    "geometry": {
-     "type": "Point",
-     "coordinates": [
-      -92.4646,
-      44.0201
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "kind": "parking",
-     "name": "Broadway ramp",
-     "detail": "Public ramp serving South Broadway businesses. Unaffected by closures."
-    },
-    "geometry": {
-     "type": "Point",
-     "coordinates": [
-      -92.4622,
-      44.0207
-     ]
-    }
-   }
-  ]
- }
+ ]
 };
