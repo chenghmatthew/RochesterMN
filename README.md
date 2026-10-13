@@ -71,6 +71,10 @@ py scripts/build_walk_network.py --overpass-json osm.json
 
 Commit both `data/walk-network.json` and `index.html`.
 
+## Previewing the phone layout
+
+On a desktop browser, open `index.html` locally (or the live site with `?preview` added, e.g. `https://chenghmatthew.github.io/RochesterMN/?preview`) and select **Phone preview** next to the Map / Cards / List tabs. The page reloads inside a phone-sized frame (Android 360×800, iPhone 390×844 or iPhone Pro Max 430×932), so it shows the real mobile layout. Press Esc to close. The button is hidden in the Squarespace embed and on the live site without `?preview`.
+
 ## Before launch
 
 - Remove the eight sample businesses (IDs beginning with `sample-`).
