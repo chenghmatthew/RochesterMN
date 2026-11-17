@@ -2,7 +2,7 @@
 
 Interactive directory of downtown Rochester businesses that remain open during construction. Visitors can browse by map, cards, or list, check hours and construction access notes, and see walking routes from the closest public parking ramp, lot, or open block of on-street parking.
 
-Live site (after GitHub Pages is enabled): `https://YOUR-GITHUB-USERNAME.github.io/REPO-NAME/`
+Live site: <https://chenghmatthew.github.io/RochesterMN/>
 
 ## Repository structure
 
@@ -32,11 +32,11 @@ Live site (after GitHub Pages is enabled): `https://YOUR-GITHUB-USERNAME.github.
    ```
 3. On GitHub, go to **Settings → Pages**.
 4. Under **Build and deployment**, set **Source** to *Deploy from a branch*, **Branch** to `main`, folder `/ (root)`, then **Save**.
-5. After a minute or two the site is live at `https://YOUR-GITHUB-USERNAME.github.io/REPO-NAME/`.
+5. After a minute or two the site is live at <https://chenghmatthew.github.io/RochesterMN/>.
 
 ## Add it to Squarespace
 
-1. Open `embed/squarespace-code-block.html` and replace `YOUR-GITHUB-USERNAME` and `REPO-NAME`.
+1. Open `embed/squarespace-code-block.html`. It already points at the live site above; only change it if the site moves.
 2. On the What's Open page, add a **Code** block, set it to HTML, and paste the contents.
 3. Check the page in a private/incognito window. Code blocks may not render while you are logged in.
 
@@ -79,7 +79,7 @@ On a desktop browser, open `index.html` locally (or the live site with `?preview
 
 - Remove the eight sample businesses (IDs beginning with `sample-`).
 - Add photo URLs to the spreadsheet's image column. Photos dropped onto cards in the design tool are saved only in that browser.
-- In your Mapbox account, restrict the access token to `YOUR-GITHUB-USERNAME.github.io` and your Squarespace domain.
+- In your Mapbox account, restrict the access token to `chenghmatthew.github.io` and your Squarespace domain.
 
 ## Technical notes
 
