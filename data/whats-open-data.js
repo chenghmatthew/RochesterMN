@@ -3,7 +3,7 @@
 window.WHATS_OPEN_DATA = {
  "meta": {
   "source": "https://www.downtownrochesterconstruction.org/whats-open",
-  "sheetDate": "2026-09-15",
+  "sheetDate": "2026-11-16",
   "note": "Business hours are subject to change according to the source page."
  },
  "businesses": [
