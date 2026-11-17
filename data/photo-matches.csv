@@ -133,6 +133,7 @@ spices.png,International Spices,international-spices,1,sheet,
 krom.png,James Krom Natural Images Art Museum Gallery,james-krom-natural-images-art-museum-gallery,1,sheet,
 kruessel.jpg,John Kruesel's General Merchandise,john-kruesels-general-merchandise,1,sheet,
 barber.png,Kahler Barbershop,kahler-barbershop,1,sheet,
+kahler.png,Kahler Grand Hotel,kahler-grand-hotel,1,sheet,
 pub.png,Kathy's Pub,kathys-pub,1,sheet,
 kimball.png,"Kimball G. Orwoll, Attorney at Law",kimball-g-orwoll-attorney-at-law,1,sheet,
 kimley.png,Kimley Horn,kimley-horn,1,sheet,
@@ -147,6 +148,7 @@ mango.jpg,Mango Thai,mango-thai,1,sheet,
 mayo clinic1-10 145024.png,Mayo Clinic Store,mayo-clinic-store,1,sheet,
 metropolitan-market-place-rochester-mn-primary-photo.jpg,Metropolitan Market Place,metropolitan-market-place,1,sheet,
 MillCreekLifeSciences_Stacked-01.png,Mill Creek Life Sciences,mill-creek-life-sciences,1,sheet,
+Moka.jpg,MOKA,moka,1,sheet,
 murakami37.png,"Murakami Law Firm, LLC",murakami-law-firm-llc,1,sheet,
 neone.png,Neon Green Studio,neon-green-studio,1,sheet,
 newtpng.png,Newt's Express,newts-express,1,sheet,
@@ -257,6 +259,7 @@ homewood.jpg,Homewood Suites,homewood-suites,1,sheet,
 jersey.jpg,Jersey Jo's,jersey-jos,1,sheet,
 joes.jpg,Joe's Liquor,joes-liquor,1,sheet,
 kff.png,KFC,kfc,1,sheet,
+Kitchen-Refresh.png,Kitchen Refresh,kitchen-refresh,1,sheet,
 kwik trip.jpg,Kwik Trip,kwik-trip,1,sheet,
 landmarks.png,Landmark Financial,landmark-financial,1,sheet,
 lasata.jpg,Lasata Salon & Spa,lasata-salon-and-spa,1,sheet,
@@ -305,43 +308,43 @@ towneplace.jpg,TownePlace Suites Rochester Mayo Clinic Area,towneplace-suites-ro
 Uptown Smokeshop.png,Uptown Rochester Smoke Shop,uptown-rochester-smoke-shop,1,sheet,
 Vanity Fur.png,Vanity Fur,vanity-fur,1,sheet,
 west end.jpg,West End Salon & Spa,west-end-salon-and-spa,1,sheet,
-507 Social/R1__3474.jpg,,,0.3,none,closest: MOKA
-507 Social/R1__3476.jpg,,,0.3,none,closest: MOKA
-507 Social/R1__3477.jpg,,,0.3,none,closest: MOKA
-507 Social/R1__3478.jpg,,,0.3,none,closest: MOKA
-507 Social/R1__3480.jpg,,,0.3,none,closest: MOKA
-507 Social/R1__3481.jpg,,,0.3,none,closest: MOKA
-507 Social/R1__3484.jpg,,,0.3,none,closest: MOKA
-507 Social/R1__3485.jpg,,,0.3,none,closest: MOKA
-507 Social/R1__3486.jpg,,,0.3,none,closest: MOKA
-507 Social/R1__3487.jpg,,,0.3,none,closest: MOKA
-507 Social/R1__3488.jpg,,,0.3,none,closest: MOKA
-507 Social/R1__3490.jpg,,,0.3,none,closest: MOKA
-507 Social/R1__3492.jpg,,,0.3,none,closest: MOKA
-507 Social/R1__3494.jpg,,,0.3,none,closest: MOKA
-507 Social/R1__3498.jpg,,,0.3,none,closest: MOKA
-bank.png,,,0.15,none,closest: MOKA
-benedict.png,,,0.173,none,closest: Kitchen Refresh
-bitter.png,,,0.3,none,closest: Kitchen Refresh
-chabad.jpg,,,0.173,none,closest: Kahler Grand Hotel
-circle k.jpg,,,0.2,none,closest: Kitchen Refresh
-countryd.jpg,,,0.173,none,closest: Kitchen Refresh
-dental.jpg,,,0.173,none,closest: Kahler Grand Hotel
-Gaffer-front-view-qn3tv9y0e5q5re634dokxnrkq9cnw2zxzrwn407u3s.jpg,,,0.159,none,closest: Kahler Grand Hotel
-hilton.png,,,0.173,none,closest: Kahler Grand Hotel
-hyatt.jpg,,,0.186,none,closest: Kahler Grand Hotel
-james.jpg,,,0.122,none,closest: MOKA
-Kitchen-Refresh.png,Kitchen Refresh,kitchen-refresh,1.0,high,
-krause.jpg,,,0.3,none,closest: MOKA
-kruger.png,,,0.3,none,closest: Kitchen Refresh
-navi.png,,,0.15,none,closest: MOKA
-nietz.png,,,0.111,none,closest: Kitchen Refresh
-R1__0226.jpg,,,0.0,none,closest: Kahler Grand Hotel
-R1__0242.jpg,,,0.0,none,closest: Kahler Grand Hotel
-R1__0493.jpg,,,0.0,none,closest: Kahler Grand Hotel
-R1__3498.jpg,,,0.0,none,closest: Kahler Grand Hotel
-R1__4120.jpg,,,0.0,none,closest: Kahler Grand Hotel
-R1__4157.jpg,,,0.0,none,closest: Kahler Grand Hotel
-R1__4178.jpg,,,0.0,none,closest: Kahler Grand Hotel
-RMH.Knutson-1253.jpg,,,0.186,none,closest: MOKA
-Smoke Shop.jpg,,,0.362,none,closest: MOKA
+507 Social/R1__3474.jpg,,,0,none,
+507 Social/R1__3476.jpg,,,0,none,
+507 Social/R1__3477.jpg,,,0,none,
+507 Social/R1__3478.jpg,,,0,none,
+507 Social/R1__3480.jpg,,,0,none,
+507 Social/R1__3481.jpg,,,0,none,
+507 Social/R1__3484.jpg,,,0,none,
+507 Social/R1__3485.jpg,,,0,none,
+507 Social/R1__3486.jpg,,,0,none,
+507 Social/R1__3487.jpg,,,0,none,
+507 Social/R1__3488.jpg,,,0,none,
+507 Social/R1__3490.jpg,,,0,none,
+507 Social/R1__3492.jpg,,,0,none,
+507 Social/R1__3494.jpg,,,0,none,
+507 Social/R1__3498.jpg,,,0,none,
+bank.png,,,0,none,
+benedict.png,,,0,none,
+bitter.png,,,0,none,
+chabad.jpg,,,0,none,
+circle k.jpg,,,0,none,
+countryd.jpg,,,0,none,
+dental.jpg,,,0,none,
+Gaffer-front-view-qn3tv9y0e5q5re634dokxnrkq9cnw2zxzrwn407u3s.jpg,,,0,none,
+hilton.png,,,0,none,
+hyatt.jpg,,,0,none,
+james.jpg,,,0,none,
+kahler_hotel.jpg,,,0,none,
+krause.jpg,,,0,none,
+kruger.png,,,0,none,
+navi.png,,,0,none,
+nietz.png,,,0,none,
+R1__0226.jpg,,,0,none,
+R1__0242.jpg,,,0,none,
+R1__0493.jpg,,,0,none,
+R1__3498.jpg,,,0,none,
+R1__4120.jpg,,,0,none,
+R1__4157.jpg,,,0,none,
+R1__4178.jpg,,,0,none,
+RMH.Knutson-1253.jpg,,,0,none,
+Smoke Shop.jpg,,,0,none,

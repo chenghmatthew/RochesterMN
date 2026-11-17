@@ -161,6 +161,10 @@ def main():
                 continue
             ranked = sorted(((score(photo_tokens(photo, args.photos), b["tok"]), b) for b in candidates),
                             key=lambda x: -x[0])
+            if not ranked:  # every business already has a photo named in the sheet
+                out.writerow([rel, "", "", 0, "none", ""])
+                counts["none"] += 1
+                continue
             top_score, top = ranked[0]
             others = "; ".join(f"{b['name']} ({s})" for s, b in ranked[1:4] if s >= REVIEW)
             if rel in overrides:
