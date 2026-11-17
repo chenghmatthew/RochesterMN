@@ -16,7 +16,7 @@ window.WHATS_OPEN_DATA = {
    "address": "1117 2nd Street SW, Rochester, MN 55902",
    "geocodeStatus": "Geocoded via Mapbox (rooftop)",
    "status": "Open during construction",
-   "description": "Anderson Wheelchair, located directly across from Rochester May Clinic St. Marys Hospital Facility, supplies a complete line of home medical equipment and supplies. Wheelchairs remain their specialty.",
+   "description": "Anderson Wheelchair, located directly across from Rochester Mayo Clinic St. Marys Hospital Facility, supplies a complete line of home medical equipment and supplies. Wheelchairs remain their specialty.",
    "accessNotes": "Customers can access Anderson Wheelchair via the pedestrian walkway. Access to and from Mayo's St. Marys Campus is also available via the pedestrian walkway.",
    "parkingNotes": "Anderson Wheelchair customer parking area remains open and accessible via 1st Street SW.",
    "hoursText": "Monday - Friday 8 a.m. to 5 p.m.",
@@ -396,178 +396,6 @@ window.WHATS_OPEN_DATA = {
    }
   },
   {
-   "id": "thai-rific",
-   "name": "Thai-rific",
-   "category": "Food and drink",
-   "subcategory": "Restaurant",
-   "addressSource": "1217 2nd Street SW, Rochester, MN 55902",
-   "address": "1217 2nd Street SW, Rochester, MN 55902",
-   "geocodeStatus": "Geocoded via Mapbox (rooftop)",
-   "status": "Open during construction",
-   "description": "The Thai-riffic menu features a delightful array of Thai dishes inspired by owner Pen's experiences and a love for wholesome, homemade flavors.",
-   "accessNotes": "Patrons and food delivery persons can access Thai-rific via the pedestrian walkway. Access to and from Mayo's St. Marys Campus is also available via the pedestrian walkway.",
-   "parkingNotes": "The parking lot near Uni Uni remains open and accessible.",
-   "hoursText": "Monday - Saturday 11 a.m. to 8 p.m. with a kitchen break from 3 to 4 p.m.",
-   "hoursVerification": "Needs verification",
-   "website": "https://thairifficrochester.com/",
-   "constructionRoute": "Pedestrian walkway",
-   "nearbyParking": "Parking lot near Uni Uni",
-   "icon": "restaurant",
-   "popupText": "Thai-rific\r\n1217 2nd Street SW, Rochester, MN 55902\r\nMonday - Saturday 11 a.m. to 8 p.m. with a kitchen break from 3 to 4 p.m.\r\nPatrons and food delivery persons can access Thai-rific via the pedestrian walkway. Access to and from Mayo's St. Marys Campus is also available via the pedestrian walkway.",
-   "priority": "Medium",
-   "lastVerified": "2026-09-14",
-   "verificationSource": "https://www.downtownrochesterconstruction.org/whats-open",
-   "reviewFlag": "Name spelling review",
-   "addressNotes": "The page heading says Thai-rific while the description and website use Thai-riffic.",
-   "accessPointName": "Pedestrian walkway",
-   "parkingPointName": "Parking lot near Uni Uni",
-   "routeStart": "Parking point",
-   "routeMode": "Walking",
-   "lat": 44.021849,
-   "lng": -92.482286,
-   "cats": [
-    "Food & drink"
-   ],
-   "schedule": {
-    "type": "weekly",
-    "days": {
-     "1": [
-      [
-       660,
-       900
-      ],
-      [
-       960,
-       1200
-      ]
-     ],
-     "2": [
-      [
-       660,
-       900
-      ],
-      [
-       960,
-       1200
-      ]
-     ],
-     "3": [
-      [
-       660,
-       900
-      ],
-      [
-       960,
-       1200
-      ]
-     ],
-     "4": [
-      [
-       660,
-       900
-      ],
-      [
-       960,
-       1200
-      ]
-     ],
-     "5": [
-      [
-       660,
-       900
-      ],
-      [
-       960,
-       1200
-      ]
-     ],
-     "6": [
-      [
-       660,
-       900
-      ],
-      [
-       960,
-       1200
-      ]
-     ]
-    }
-   }
-  },
-  {
-   "id": "thesis-beer-project",
-   "name": "Thesis Beer Project",
-   "category": "Food and drink",
-   "subcategory": "Brewery",
-   "addressSource": "1929 2nd St. SW, Rochester, MN 55902",
-   "address": "1929 2nd St. SW, Rochester, MN 55902",
-   "geocodeStatus": "Geocoded via Mapbox (rooftop)",
-   "status": "Open during construction",
-   "description": "Thesis is a local brewery and tasting room located on 2nd Street SW near Tyrol Ski & Sports. They offer one-of-a-kind beer and host live music every Friday and Saturday night. Dog Friendly Patios are located on the front and rear of the building.",
-   "accessNotes": "Patrons and food delivery persons can access Thesis via the pedestrian walkway.",
-   "parkingNotes": "Thesis' dedicated 60-car parking lot is located in the rear of the building and remains open and accessible.",
-   "hoursText": "Tuesday- Thursday 3 p.m. to 9 p.m., Friday - Saturday noon to 11 p.m., Sunday noon to 7 p.m., Closed Monday.",
-   "hoursVerification": "Needs verification",
-   "website": "https://thesis.beer/",
-   "constructionRoute": "Pedestrian walkway",
-   "nearbyParking": "Rear dedicated 60-car parking lot",
-   "icon": "brewery",
-   "popupText": "Thesis Beer Project\r\n1929 2nd St. SW, Rochester, MN 55902\r\nTuesday- Thursday 3 p.m. to 9 p.m., Friday - Saturday noon to 11 p.m., Sunday noon to 7 p.m., Closed Monday.\r\nPatrons and food delivery persons can access Thesis via the pedestrian walkway.",
-   "priority": "Medium",
-   "lastVerified": "2026-09-14",
-   "verificationSource": "https://www.downtownrochesterconstruction.org/whats-open",
-   "accessPointName": "Pedestrian walkway",
-   "parkingPointName": "Rear dedicated 60-car parking lot",
-   "routeStart": "Parking point",
-   "routeMode": "Walking",
-   "lat": 44.021898,
-   "lng": -92.49319,
-   "cats": [
-    "Food & drink"
-   ],
-   "schedule": {
-    "type": "weekly",
-    "days": {
-     "0": [
-      [
-       720,
-       1140
-      ]
-     ],
-     "2": [
-      [
-       900,
-       1260
-      ]
-     ],
-     "3": [
-      [
-       900,
-       1260
-      ]
-     ],
-     "4": [
-      [
-       900,
-       1260
-      ]
-     ],
-     "5": [
-      [
-       720,
-       1380
-      ]
-     ],
-     "6": [
-      [
-       720,
-       1380
-      ]
-     ]
-    }
-   }
-  },
-  {
    "id": "tyrol-ski-sport",
    "name": "Tyrol Ski & Sport",
    "category": "Retail and services",
@@ -682,109 +510,1164 @@ window.WHATS_OPEN_DATA = {
    }
   },
   {
-   "id": "sample-peace-plaza-cafe",
-   "name": "Peace Plaza Cafe",
-   "category": "Food and drink",
-   "subcategory": "Cafe",
-   "address": "101 1st Ave SW, Rochester, MN 55902",
-   "addressSource": "101 1st Ave SW, Rochester, MN 55902",
-   "lat": 44.022232,
-   "lng": -92.464823,
-   "geocodeStatus": "Geocoded via Mapbox (rooftop)",
+   "id": "isg",
+   "name": "ISG",
    "status": "Open during construction",
-   "description": "Sample listing: a downtown cafe on Peace Plaza, steps from the Mayo and Gonda buildings.",
-   "accessNotes": "Enter from 1st Ave SW; the plaza-side entrance remains open.",
-   "parkingNotes": "Public parking available in the 1st Ave ramp.",
-   "hoursText": "Daily 6:30 a.m. to 6 p.m.",
-   "hoursVerification": "Sample listing",
-   "website": "",
-   "icon": "cafe",
-   "priority": "Low",
-   "lastVerified": "2026-09-15",
-   "verificationSource": "Sample data for demonstration",
-   "reviewFlag": "Illustrative sample listing — replace with real inventory data.",
+   "cats": [
+    "Retail & services"
+   ],
+   "category": "Professional services",
+   "subcategory": "Architecture and engineering",
+   "lat": 44.020389,
+   "lng": -92.462721,
+   "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "ISG is a dynamic, multidisciplinart architecture and engineering firm serving clients nationwide."
+  },
+  {
+   "id": "luckys-bar-and-grill",
+   "name": "Lucky's Bar and Grill",
+   "status": "Open during construction",
    "cats": [
     "Food & drink"
    ],
+   "category": "Food and drink",
+   "subcategory": "Bar and grill",
+   "lat": 44.020359,
+   "lng": -92.464421,
+   "description": "Lucky's Bar and Grill is a lively American sports bar serving elevated pub food and unique cocktails.",
+   "hoursVerification": "Needs verification",
+   "hoursText": "Open daily 11 a.m. to 1 a.m.",
    "schedule": {
     "type": "weekly",
     "days": {
      "0": [
       [
-       390,
-       1080
+       0,
+       60
+      ],
+      [
+       660,
+       1440
       ]
      ],
      "1": [
       [
-       390,
-       1080
+       0,
+       60
+      ],
+      [
+       660,
+       1440
       ]
      ],
      "2": [
       [
-       390,
-       1080
+       0,
+       60
+      ],
+      [
+       660,
+       1440
       ]
      ],
      "3": [
       [
-       390,
-       1080
+       0,
+       60
+      ],
+      [
+       660,
+       1440
       ]
      ],
      "4": [
       [
-       390,
-       1080
+       0,
+       60
+      ],
+      [
+       660,
+       1440
       ]
      ],
      "5": [
       [
-       390,
-       1080
+       0,
+       60
+      ],
+      [
+       660,
+       1440
       ]
      ],
      "6": [
       [
-       390,
-       1080
+       0,
+       60
+      ],
+      [
+       660,
+       1440
       ]
      ]
     }
    }
   },
   {
-   "id": "sample-broadway-books",
-   "name": "Broadway Books & Paper",
-   "category": "Retail and services",
-   "subcategory": "Bookstore",
-   "address": "310 S Broadway, Rochester, MN 55904",
-   "addressSource": "310 S Broadway, Rochester, MN 55904",
-   "lat": 44.020045,
-   "lng": -92.462707,
-   "geocodeStatus": "Geocoded via Mapbox (rooftop)",
+   "id": "the-taco-shop",
+   "name": "The Taco Shop",
    "status": "Open during construction",
-   "description": "Sample listing: an independent bookstore on South Broadway.",
-   "accessNotes": "Sidewalk on the west side of Broadway remains open.",
-   "parkingNotes": "On-street parking on 3rd St SE and the Broadway ramp.",
-   "hoursText": "Monday - Saturday 10 a.m. to 7 p.m.; Sunday noon to 5 p.m.",
-   "hoursVerification": "Sample listing",
-   "website": "",
-   "icon": "retail",
-   "priority": "Low",
-   "lastVerified": "2026-09-15",
-   "verificationSource": "Sample data for demonstration",
-   "reviewFlag": "Illustrative sample listing — replace with real inventory data.",
+   "cats": [
+    "Food & drink"
+   ],
+   "category": "Fast Food",
+   "subcategory": "Mexican",
+   "lat": 44.022402,
+   "lng": -92.464109,
+   "description": "One block from the Mayo Clinic, The Taco Shop is renowend for its fresh, flavorful Mexican dishes.",
+   "hoursVerification": "Needs verification",
+   "hoursText": "Sunday - Thursday 11 a.m. to 9 p.m.; Friday - Saturday 11 a.m. to 10 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "1": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       660,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       660,
+       1320
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "our-paladar",
+   "name": "Our Paladar",
+   "status": "Open during construction",
+   "cats": [
+    "Food & drink"
+   ],
+   "category": "Food and drink",
+   "subcategory": "Latin restaurant",
+   "lat": 44.019233,
+   "lng": -92.461404,
+   "description": "Our Paladar is an upscale yet unpretentious restaurant in the historic train depot that serves a frequently rotating, locally sourced menu of handmade pastas and seasonal dishes.",
+   "hoursVerification": "Needs verification",
+   "hoursText": "Tuesday - Thursday 4 p.m. to 10 p.m.; Friday - Saturday 4 p.m. to 11 p.m.; Sunday 2 p.m. to 9 p.m.; Closed Monday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       840,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       960,
+       1320
+      ]
+     ],
+     "3": [
+      [
+       960,
+       1320
+      ]
+     ],
+     "4": [
+      [
+       960,
+       1320
+      ]
+     ],
+     "5": [
+      [
+       960,
+       1380
+      ]
+     ],
+     "6": [
+      [
+       960,
+       1380
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "sal-terrae-boutique",
+   "name": "Sal Terrae Boutique",
+   "status": "Open during construction",
    "cats": [
     "Retail & services"
    ],
+   "category": "Retail",
+   "subcategory": "Boutique",
+   "lat": 44.020136,
+   "lng": -92.462955,
+   "description": "Sal Terrae is a family owned clothing botique with a welcoming and inclusive environment.",
+   "hoursVerification": "Needs verification",
+   "hoursText": "Tuesday - Friday 11 a.m. to 6 p.m.; Saturday 11 a.m. to 4 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "2": [
+      [
+       660,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       660,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       660,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       660,
+       1080
+      ]
+     ],
+     "6": [
+      [
+       660,
+       960
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "aloha-poke-co",
+   "name": "Aloha Poke Co",
+   "status": "Open during construction",
+   "cats": [
+    "Food & drink"
+   ],
+   "category": "Food and drink",
+   "subcategory": "Poke",
+   "lat": 44.022605,
+   "lng": -92.464575,
+   "description": "Aloha Poke Co., located one block from the Mayo Clinic, serves fast, delicious, healthy bowls packed with sushi-grade fish and Hawaiian inspired raw ingredients to fuel your day.",
+   "hoursText": "Monday - Friday 10 a.m. to 3 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       600,
+       900
+      ]
+     ],
+     "2": [
+      [
+       600,
+       900
+      ]
+     ],
+     "3": [
+      [
+       600,
+       900
+      ]
+     ],
+     "4": [
+      [
+       600,
+       900
+      ]
+     ],
+     "5": [
+      [
+       600,
+       900
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "cedar-taste-mediterranean-food",
+   "name": "Cedar Taste Mediterranean Food",
+   "status": "Open during construction",
+   "cats": [
+    "Food & drink"
+   ],
+   "category": "Food and drink",
+   "subcategory": "Mediterranean restaurant",
+   "lat": 44.022391,
+   "lng": -92.464418,
+   "hoursVerification": "Needs verification",
+   "hoursText": "Monday - Friday 9:30 a.m. to 4 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       570,
+       960
+      ]
+     ],
+     "2": [
+      [
+       570,
+       960
+      ]
+     ],
+     "3": [
+      [
+       570,
+       960
+      ]
+     ],
+     "4": [
+      [
+       570,
+       960
+      ]
+     ],
+     "5": [
+      [
+       570,
+       960
+      ]
+     ]
+    }
+   },
+   "description": "Cedar Taste Mediterranean is an authentic Lebanese restaurant serving shawarma and fresh Mediterranean dishes."
+  },
+  {
+   "id": "bioglo-aesthetics-at-the-kahler-grand-hotel",
+   "name": "BioGlo Aesthetics at The Kahler Grand Hotel",
+   "status": "Open during construction",
+   "cats": [
+    "Retail & services"
+   ],
+   "category": "Personal care and wellness",
+   "subcategory": "Medspa",
+   "lat": 44.023251,
+   "lng": -92.46574,
+   "description": "Directly across from the Mayo Clinic's Gonda Building, Bio Glow Aesthetics offers permier skin rejuvenation and advanced regenerative hair restoration.",
+   "hoursText": "Open daily 9 a.m. to 8 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       540,
+       1200
+      ]
+     ],
+     "1": [
+      [
+       540,
+       1200
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1200
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1200
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1200
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1200
+      ]
+     ],
+     "6": [
+      [
+       540,
+       1200
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "masjid-abubakar-siddiq-rochester-mosque",
+   "name": "Masjid Abubakar Siddiq (Rochester Mosque)",
+   "status": "Open during construction",
+   "cats": [
+    "Retail & services"
+   ],
+   "category": "Community and nonprofit",
+   "subcategory": "Place of worship",
+   "lat": 44.023661,
+   "lng": -92.463106,
+   "description": "Masjid Abubakar Siddiq is a Sunni mosque located two blocks from the Mayo Clinic."
+  },
+  {
+   "id": "diseno-floral-moreno",
+   "name": "Diseno Floral Moreno",
+   "status": "Open during construction",
+   "cats": [
+    "Retail & services"
+   ],
+   "category": "Retail",
+   "subcategory": "Florist",
+   "lat": 44.02649,
+   "lng": -92.46441,
+   "description": "Diseno Floral Moreno is a family-owned floral botique with premium hand-crafted floral arrangements and timely delivery services to nearby destinations like the Mayo Clinic.",
+   "hoursText": "Monday 10 a.m. to 10 p.m.; Tuesday - Friday 10 a.m. to 9 p.m.; Saturday - Sunday 12: p.m. to 9 p.m.",
    "schedule": {
     "type": "weekly",
     "days": {
      "0": [
       [
        720,
+       1260
+      ]
+     ],
+     "1": [
+      [
+       600,
+       1320
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1260
+      ]
+     ],
+     "6": [
+      [
+       720,
+       1260
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "smile-orthodontics-rochester",
+   "name": "Smile Orthodontics Rochester",
+   "status": "Open during construction",
+   "cats": [
+    "Retail & services"
+   ],
+   "category": "Healthcare",
+   "subcategory": "Orthodontics",
+   "lat": 44.020389,
+   "lng": -92.462721,
+   "description": "Smile Orthodontics is a modern, tech-driven orthodontic practice specializing in advanced teeth straightening solutions with and emphasis on precision, convenience and fewer office visits.",
+   "hoursText": "Monday - Thursday 9 a.m. to 4 p.m.; Closed Friday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       960
+      ]
+     ],
+     "2": [
+      [
+       540,
+       960
+      ]
+     ],
+     "3": [
+      [
+       540,
+       960
+      ]
+     ],
+     "4": [
+      [
+       540,
+       960
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "bebap-korean-eats",
+   "name": "Bebap Korean Eats",
+   "status": "Open during construction",
+   "cats": [
+    "Food & drink"
+   ],
+   "category": "Food and drink",
+   "subcategory": "Korean restaurant",
+   "lat": 44.021352,
+   "lng": -92.464425,
+   "description": "Serving up modern Korean inspired comfort food, Bebap Korean Eats designed a menu packed with color, flavor and variety. Bebap's atmosphere is modern, energetic and cozy.",
+   "hoursText": "Monday - Thursday 11 a.m. to 9 p.m.; Friday - Saturday 11 a.m. to 10 p.m.; Sunday 11 a.m. to 8 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       660,
+       1200
+      ]
+     ],
+     "1": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       660,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       660,
+       1320
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "the-stubborn-donkey",
+   "name": "The Stubborn Donkey",
+   "status": "Open during construction",
+   "cats": [
+    "Food & drink"
+   ],
+   "category": "Food and drink",
+   "subcategory": "Bar and restaurant",
+   "lat": 44.021352,
+   "lng": -92.464425,
+   "description": "The Stubborn Donkey is a Latin inspired cocktail lounge and restaurant specializing in hand crafted agave cocktails, house made mixers, tapas and bites.",
+   "hoursText": "Friday - Saturday 5 p.m. to 12 a.m.; Closed Monday - Thursday, Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "5": [
+      [
+       1020,
+       1440
+      ]
+     ],
+     "6": [
+      [
+       1020,
+       1440
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "carrolls-corner-store",
+   "name": "Carroll's Corner Store",
+   "status": "Open during construction",
+   "cats": [
+    "Retail & services"
+   ],
+   "category": "Retail",
+   "subcategory": "Convenience store",
+   "lat": 44.023251,
+   "lng": -92.46574,
+   "description": "Caroll's Corner Store is an extension of Rochester's famous pop shop Carroll's Corn. You can find a large selection of snacks drinks and gourmet popcorn.",
+   "hoursText": "Monday - Thursday 7 a.m. to 5:30 p.m.; Friday 7 a.m. to 4:30 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       420,
+       1050
+      ]
+     ],
+     "2": [
+      [
+       420,
+       1050
+      ]
+     ],
+     "3": [
+      [
+       420,
+       1050
+      ]
+     ],
+     "4": [
+      [
+       420,
+       1050
+      ]
+     ],
+     "5": [
+      [
+       420,
+       990
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "latitude-44",
+   "name": "Latitude 44",
+   "status": "Open during construction",
+   "cats": [
+    "Food & drink"
+   ],
+   "category": "Food and drink",
+   "subcategory": "Restaurant",
+   "lat": 44.024626,
+   "lng": -92.46309,
+   "description": "Latitude 44 is a modern American restaurant, featuring thoughtful food and beverages with an energetic, casual ambiance.",
+   "hoursText": "Monday - Thursday 4: p.m. to 9 p.m.; Friday 4: p.m. to 10 p.m.; Saturday 10 a.m. to 10 p.m.; Sunday 10 a.m. to 3 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       600,
+       900
+      ]
+     ],
+     "1": [
+      [
+       960,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       960,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       960,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       960,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       960,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       600,
+       1320
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "simply-bao-wellness-studio",
+   "name": "Simply Bao Wellness Studio",
+   "status": "Open during construction",
+   "cats": [
+    "Retail & services"
+   ],
+   "category": "Personal care and wellness",
+   "subcategory": "Wellness studio",
+   "lat": 44.022605,
+   "lng": -92.464575,
+   "description": "Simply Bao wellness studio offers persinalized, one-on-one wellnes and relaxation services in a warm, peaceful and comfortable setting.",
+   "hoursText": "Monday 9:30 a.m. to 6:30 p.m.; Tuesday 9:30 a.m. to 6:30 a.m.; Wednesday - Friday 9:30 a.m. to 6:30 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       570,
+       1110
+      ]
+     ],
+     "2": [
+      [
+       570,
+       1110
+      ]
+     ],
+     "3": [
+      [
+       570,
+       1110
+      ]
+     ],
+     "4": [
+      [
+       570,
+       1110
+      ]
+     ],
+     "5": [
+      [
+       570,
+       1110
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "lord-essex-tavern-and-grill",
+   "name": "Lord Essex Tavern and Grill",
+   "status": "Open during construction",
+   "cats": [
+    "Food & drink"
+   ],
+   "category": "Food and drink",
+   "subcategory": "Bar and grill",
+   "lat": 44.023251,
+   "lng": -92.46574,
+   "description": "Lord Essex Tavern and Grill blends traditional American cuisine with fresh innovation and new tavern concept. Guests can enjoy a hearty menu and big selection of craft beers.",
+   "hoursText": "Monday - Friday 6:30 a.m. to 9 p.m.; Saturday - Sunday 7 a.m. to 9 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       420,
+       1260
+      ]
+     ],
+     "1": [
+      [
+       390,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       390,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       390,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       390,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       390,
+       1260
+      ]
+     ],
+     "6": [
+      [
+       420,
+       1260
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "j-powers-events",
+   "name": "J. Powers Events",
+   "status": "Open during construction",
+   "cats": [
+    "Retail & services"
+   ],
+   "category": "Professional services",
+   "subcategory": "Event planning",
+   "lat": 44.023413,
+   "lng": -92.462859,
+   "description": "J Powers Events is an upscale venue offering elegeant event spaces, catering, planned support, modern AV capabilities, and city views for weddings, corporate meetings, and social gatherings.",
+   "hoursText": "Open daily 8 a.m. to 8 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       480,
+       1200
+      ]
+     ],
+     "1": [
+      [
+       480,
+       1200
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1200
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1200
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1200
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1200
+      ]
+     ],
+     "6": [
+      [
+       480,
+       1200
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "cambria-gallery-rochester-hilton",
+   "name": "Cambria Gallery - Rochester Hilton",
+   "status": "Open during construction",
+   "cats": [
+    "Retail & services"
+   ],
+   "category": "Retail",
+   "subcategory": "Home design showroom",
+   "lat": 44.023413,
+   "lng": -92.462859,
+   "description": "At the Cambria Gallery in Rochester, you can see Cambria quartz surfaces in a wide range of designs, consult with experts and utilize a variety of visualization tools.",
+   "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "downtown-smoke-shop-and-breakroom",
+   "name": "Downtown Smoke Shop and Breakroom",
+   "status": "Open during construction",
+   "cats": [
+    "Retail & services"
+   ],
+   "category": "Retail",
+   "subcategory": "Smoke shop",
+   "lat": 44.020137,
+   "lng": -92.463115,
+   "description": "Downtown Smoke Shop and Break Room is a convenient shop offering tobacco, e-cigarettes and smoking accessories.",
+   "hoursText": "Monday - Saturday 10 a.m. to 1 a.m.; Sunday noon to 12 a.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       0,
+       60
+      ],
+      [
+       720,
+       1440
+      ]
+     ],
+     "1": [
+      [
+       600,
+       1440
+      ]
+     ],
+     "2": [
+      [
+       0,
+       60
+      ],
+      [
+       600,
+       1440
+      ]
+     ],
+     "3": [
+      [
+       0,
+       60
+      ],
+      [
+       600,
+       1440
+      ]
+     ],
+     "4": [
+      [
+       0,
+       60
+      ],
+      [
+       600,
+       1440
+      ]
+     ],
+     "5": [
+      [
+       0,
+       60
+      ],
+      [
+       600,
+       1440
+      ]
+     ],
+     "6": [
+      [
+       0,
+       60
+      ],
+      [
+       600,
+       1440
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "botanical-rhapsody-organics-of-rochester",
+   "name": "Botanical Rhapsody Organics of Rochester",
+   "status": "Open during construction",
+   "cats": [
+    "Retail & services"
+   ],
+   "category": "Retail",
+   "subcategory": "Natural products",
+   "lat": 44.023251,
+   "lng": -92.46574,
+   "description": "Botanical Rhapsody Organics is a wellness shop specializing in CBD, hemp-derived products, herbal suppliments, skincare and other natural health products.",
+   "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "midwest-vintage-toys",
+   "name": "Midwest Vintage Toys",
+   "status": "Open during construction",
+   "cats": [
+    "Retail & services"
+   ],
+   "category": "Retail",
+   "subcategory": "Toys and collectibles",
+   "lat": 44.025407,
+   "lng": -92.462412,
+   "description": "Midwest Vintage Toys is full of nostalgic finds with a large selection of vintage toys, action figures, trading cards, comics and die-cast vehicles.",
+   "hoursText": "Monday - Saturday 10 a.m. to 7 p.m.; Sunday 10 a.m. to 5 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       600,
        1020
       ]
      ],
@@ -828,634 +1711,6 @@ window.WHATS_OPEN_DATA = {
    }
   },
   {
-   "id": "sample-zumbro-taproom",
-   "name": "Zumbro River Taproom",
-   "category": "Food and drink",
-   "subcategory": "Brewery",
-   "address": "4 3rd St SW, Rochester, MN 55902",
-   "addressSource": "4 3rd St SW, Rochester, MN 55902",
-   "lat": 44.020296,
-   "lng": -92.463406,
-   "geocodeStatus": "Geocoded via Mapbox (rooftop)",
-   "status": "Open during construction",
-   "description": "Sample listing: a riverside taproom two blocks from the government center.",
-   "accessNotes": "Access via 3rd St SW; follow wayfinding signage around utility work.",
-   "parkingNotes": "City Lot 12 remains open one block west.",
-   "hoursText": "Tuesday - Sunday 2 p.m. to 10 p.m.; Closed Monday",
-   "hoursVerification": "Sample listing",
-   "website": "",
-   "icon": "brewery",
-   "priority": "Low",
-   "lastVerified": "2026-09-15",
-   "verificationSource": "Sample data for demonstration",
-   "reviewFlag": "Illustrative sample listing — replace with real inventory data.",
-   "cats": [
-    "Food & drink"
-   ],
-   "schedule": {
-    "type": "weekly",
-    "days": {
-     "0": [
-      [
-       840,
-       1320
-      ]
-     ],
-     "2": [
-      [
-       840,
-       1320
-      ]
-     ],
-     "3": [
-      [
-       840,
-       1320
-      ]
-     ],
-     "4": [
-      [
-       840,
-       1320
-      ]
-     ],
-     "5": [
-      [
-       840,
-       1320
-      ]
-     ],
-     "6": [
-      [
-       840,
-       1320
-      ]
-     ]
-    }
-   }
-  },
-  {
-   "id": "sample-kahler-grand",
-   "name": "Grand Kahler Hotel",
-   "category": "Lodging",
-   "subcategory": "Hotel",
-   "address": "20 2nd Ave SW, Rochester, MN 55902",
-   "addressSource": "20 2nd Ave SW, Rochester, MN 55902",
-   "lat": 44.023041,
-   "lng": -92.465677,
-   "geocodeStatus": "Geocoded via Mapbox (rooftop)",
-   "status": "Open during construction",
-   "description": "Sample listing: a historic downtown hotel connected to the skyway and subway system.",
-   "accessNotes": "Skyway and subway connections to the Mayo campus remain open.",
-   "parkingNotes": "Valet at the 2nd Ave entrance; self-park in the adjacent ramp.",
-   "hoursText": "24/7 front desk",
-   "hoursVerification": "Sample listing",
-   "website": "",
-   "icon": "lodging",
-   "priority": "Low",
-   "lastVerified": "2026-09-15",
-   "verificationSource": "Sample data for demonstration",
-   "reviewFlag": "Illustrative sample listing — replace with real inventory data.",
-   "cats": [
-    "Lodging"
-   ],
-   "schedule": {
-    "type": "always"
-   }
-  },
-  {
-   "id": "sample-first-ave-pharmacy",
-   "name": "First Avenue Pharmacy",
-   "category": "Retail and services",
-   "subcategory": "Pharmacy",
-   "address": "115 1st Ave SW, Rochester, MN 55902",
-   "addressSource": "115 1st Ave SW, Rochester, MN 55902",
-   "lat": 44.02203,
-   "lng": -92.464739,
-   "geocodeStatus": "Geocoded via Mapbox (approximate)",
-   "status": "Open during construction",
-   "description": "Sample listing: a full-service pharmacy near the clinic campus.",
-   "accessNotes": "Entrance on 1st Ave SW; crosswalk at 1st St SW remains open.",
-   "parkingNotes": "15-minute pickup spots on 1st Ave SW.",
-   "hoursText": "Monday - Friday 8:30 a.m. to 6 p.m.; Saturday 9 a.m. to 1 p.m.",
-   "hoursVerification": "Sample listing",
-   "website": "",
-   "icon": "medical",
-   "priority": "Low",
-   "lastVerified": "2026-09-15",
-   "verificationSource": "Sample data for demonstration",
-   "reviewFlag": "Illustrative sample listing — replace with real inventory data.",
-   "cats": [
-    "Retail & services"
-   ],
-   "schedule": {
-    "type": "weekly",
-    "days": {
-     "1": [
-      [
-       510,
-       1080
-      ]
-     ],
-     "2": [
-      [
-       510,
-       1080
-      ]
-     ],
-     "3": [
-      [
-       510,
-       1080
-      ]
-     ],
-     "4": [
-      [
-       510,
-       1080
-      ]
-     ],
-     "5": [
-      [
-       510,
-       1080
-      ]
-     ],
-     "6": [
-      [
-       540,
-       780
-      ]
-     ]
-    }
-   }
-  },
-  {
-   "id": "sample-silver-lake-deli",
-   "name": "Silver Lake Deli",
-   "category": "Food and drink",
-   "subcategory": "Deli",
-   "address": "505 N Broadway, Rochester, MN 55906",
-   "addressSource": "505 N Broadway, Rochester, MN 55906",
-   "lat": 44.026929,
-   "lng": -92.463093,
-   "geocodeStatus": "Geocoded via Mapbox (interpolated)",
-   "status": "Open during construction",
-   "description": "Sample listing: a breakfast-and-lunch deli on the newly reopened North Broadway corridor.",
-   "accessNotes": "North Broadway sidewalks fully reopened after reconstruction.",
-   "parkingNotes": "Dedicated lot behind the building.",
-   "hoursText": "Monday - Saturday 7 a.m. to 3 p.m.",
-   "hoursVerification": "Sample listing",
-   "website": "",
-   "icon": "restaurant",
-   "priority": "Low",
-   "lastVerified": "2026-09-15",
-   "verificationSource": "Sample data for demonstration",
-   "reviewFlag": "Illustrative sample listing — replace with real inventory data.",
-   "cats": [
-    "Food & drink"
-   ],
-   "schedule": {
-    "type": "weekly",
-    "days": {
-     "1": [
-      [
-       420,
-       900
-      ]
-     ],
-     "2": [
-      [
-       420,
-       900
-      ]
-     ],
-     "3": [
-      [
-       420,
-       900
-      ]
-     ],
-     "4": [
-      [
-       420,
-       900
-      ]
-     ],
-     "5": [
-      [
-       420,
-       900
-      ]
-     ],
-     "6": [
-      [
-       420,
-       900
-      ]
-     ]
-    }
-   }
-  },
-  {
-   "id": "sample-civic-fitness",
-   "name": "Civic Center Fitness",
-   "category": "Retail and services",
-   "subcategory": "Fitness studio",
-   "address": "30 Civic Center Dr SE, Rochester, MN 55904",
-   "addressSource": "30 Civic Center Dr SE, Rochester, MN 55904",
-   "lat": 44.022777,
-   "lng": -92.459237,
-   "geocodeStatus": "Geocoded via Mapbox (rooftop)",
-   "status": "Open during construction",
-   "description": "Sample listing: a fitness studio near the civic center.",
-   "accessNotes": "Use the 1st Ave SE entrance while Civic Center Drive work is underway.",
-   "parkingNotes": "Members lot accessible from 1st Ave SE.",
-   "hoursText": "Daily 5 a.m. to 11 p.m.",
-   "hoursVerification": "Sample listing",
-   "website": "",
-   "icon": "retail",
-   "priority": "Low",
-   "lastVerified": "2026-09-15",
-   "verificationSource": "Sample data for demonstration",
-   "reviewFlag": "Illustrative sample listing — replace with real inventory data.",
-   "cats": [
-    "Retail & services"
-   ],
-   "schedule": {
-    "type": "weekly",
-    "days": {
-     "0": [
-      [
-       300,
-       1380
-      ]
-     ],
-     "1": [
-      [
-       300,
-       1380
-      ]
-     ],
-     "2": [
-      [
-       300,
-       1380
-      ]
-     ],
-     "3": [
-      [
-       300,
-       1380
-      ]
-     ],
-     "4": [
-      [
-       300,
-       1380
-      ]
-     ],
-     "5": [
-      [
-       300,
-       1380
-      ]
-     ],
-     "6": [
-      [
-       300,
-       1380
-      ]
-     ]
-    }
-   }
-  },
-  {
-   "id": "sample-historic-third-gallery",
-   "name": "Historic Third Street Gallery",
-   "category": "Retail and services",
-   "subcategory": "Art gallery",
-   "address": "18 3rd St SW, Rochester, MN 55902",
-   "addressSource": "18 3rd St SW, Rochester, MN 55902",
-   "lat": 44.020272,
-   "lng": -92.463948,
-   "geocodeStatus": "Geocoded via Mapbox (rooftop)",
-   "status": "Open during construction",
-   "description": "Sample listing: a local art gallery in the historic Third Street district.",
-   "accessNotes": "Sidewalk open on the south side of 3rd St SW.",
-   "parkingNotes": "On-street parking and City Lot 12 nearby.",
-   "hoursText": "Wednesday - Sunday 11 a.m. to 6 p.m.",
-   "hoursVerification": "Sample listing",
-   "website": "",
-   "icon": "retail",
-   "priority": "Low",
-   "lastVerified": "2026-09-15",
-   "verificationSource": "Sample data for demonstration",
-   "reviewFlag": "Illustrative sample listing — replace with real inventory data.",
-   "cats": [
-    "Retail & services"
-   ],
-   "schedule": {
-    "type": "weekly",
-    "days": {
-     "0": [
-      [
-       660,
-       1080
-      ]
-     ],
-     "3": [
-      [
-       660,
-       1080
-      ]
-     ],
-     "4": [
-      [
-       660,
-       1080
-      ]
-     ],
-     "5": [
-      [
-       660,
-       1080
-      ]
-     ],
-     "6": [
-      [
-       660,
-       1080
-      ]
-     ]
-    }
-   }
-  },
-  {
-   "id": "isg",
-   "name": "ISG",
-   "status": "Open during construction",
-   "cats": [
-    "Retail & services"
-   ],
-   "category": "Professional services",
-   "subcategory": "Architecture and engineering",
-   "lat": 44.020389,
-   "lng": -92.462721
-  },
-  {
-   "id": "luckys-bar-and-grill",
-   "name": "Lucky's Bar and Grill",
-   "status": "Open during construction",
-   "cats": [
-    "Food & drink"
-   ],
-   "category": "Food and drink",
-   "subcategory": "Bar and grill",
-   "lat": 44.020359,
-   "lng": -92.464421
-  },
-  {
-   "id": "the-taco-shop",
-   "name": "The Taco Shop",
-   "status": "Open during construction",
-   "cats": [
-    "Food & drink"
-   ],
-   "category": "Fast Food",
-   "subcategory": "Mexican",
-   "lat": 44.022402,
-   "lng": -92.464109
-  },
-  {
-   "id": "our-paladar",
-   "name": "Our Paladar",
-   "status": "Open during construction",
-   "cats": [
-    "Food & drink"
-   ],
-   "category": "Food and drink",
-   "subcategory": "Latin restaurant",
-   "lat": 44.019233,
-   "lng": -92.461404
-  },
-  {
-   "id": "sal-terrae-boutique",
-   "name": "Sal Terrae Boutique",
-   "status": "Open during construction",
-   "cats": [
-    "Retail & services"
-   ],
-   "category": "Retail",
-   "subcategory": "Boutique",
-   "lat": 44.020136,
-   "lng": -92.462955
-  },
-  {
-   "id": "aloha-poke-co",
-   "name": "Aloha Poke Co",
-   "status": "Open during construction",
-   "cats": [
-    "Food & drink"
-   ],
-   "category": "Food and drink",
-   "subcategory": "Poke",
-   "lat": 44.022605,
-   "lng": -92.464575
-  },
-  {
-   "id": "cedar-taste-mediterranean-food",
-   "name": "Cedar Taste Mediterranean Food",
-   "status": "Open during construction",
-   "cats": [
-    "Food & drink"
-   ],
-   "category": "Food and drink",
-   "subcategory": "Mediterranean restaurant",
-   "lat": 44.022391,
-   "lng": -92.464418
-  },
-  {
-   "id": "bioglo-aesthetics-at-the-kahler-grand-hotel",
-   "name": "BioGlo Aesthetics at The Kahler Grand Hotel",
-   "status": "Open during construction",
-   "cats": [
-    "Retail & services"
-   ],
-   "category": "Personal care and wellness",
-   "subcategory": "Medspa",
-   "lat": 44.023251,
-   "lng": -92.46574
-  },
-  {
-   "id": "masjid-abubakar-siddiq-rochester-mosque",
-   "name": "Masjid Abubakar Siddiq (Rochester Mosque)",
-   "status": "Open during construction",
-   "cats": [
-    "Retail & services"
-   ],
-   "category": "Community and nonprofit",
-   "subcategory": "Place of worship",
-   "lat": 44.023661,
-   "lng": -92.463106
-  },
-  {
-   "id": "diseno-floral-moreno",
-   "name": "Diseno Floral Moreno",
-   "status": "Open during construction",
-   "cats": [
-    "Retail & services"
-   ],
-   "category": "Retail",
-   "subcategory": "Florist",
-   "lat": 44.02649,
-   "lng": -92.46441
-  },
-  {
-   "id": "smile-orthodontics-rochester",
-   "name": "Smile Orthodontics Rochester",
-   "status": "Open during construction",
-   "cats": [
-    "Retail & services"
-   ],
-   "category": "Healthcare",
-   "subcategory": "Orthodontics",
-   "lat": 44.020389,
-   "lng": -92.462721
-  },
-  {
-   "id": "bebap-korean-eats",
-   "name": "Bebap Korean Eats",
-   "status": "Open during construction",
-   "cats": [
-    "Food & drink"
-   ],
-   "category": "Food and drink",
-   "subcategory": "Korean restaurant",
-   "lat": 44.021352,
-   "lng": -92.464425
-  },
-  {
-   "id": "the-stubborn-donkey",
-   "name": "The Stubborn Donkey",
-   "status": "Open during construction",
-   "cats": [
-    "Food & drink"
-   ],
-   "category": "Food and drink",
-   "subcategory": "Bar and restaurant",
-   "lat": 44.021352,
-   "lng": -92.464425
-  },
-  {
-   "id": "carrolls-corner-store",
-   "name": "Carroll's Corner Store",
-   "status": "Open during construction",
-   "cats": [
-    "Retail & services"
-   ],
-   "category": "Retail",
-   "subcategory": "Convenience store",
-   "lat": 44.023251,
-   "lng": -92.46574
-  },
-  {
-   "id": "latitude-44",
-   "name": "Latitude 44",
-   "status": "Open during construction",
-   "cats": [
-    "Food & drink"
-   ],
-   "category": "Food and drink",
-   "subcategory": "Restaurant",
-   "lat": 44.024626,
-   "lng": -92.46309
-  },
-  {
-   "id": "simply-bao-wellness-studio",
-   "name": "Simply Bao Wellness Studio",
-   "status": "Open during construction",
-   "cats": [
-    "Retail & services"
-   ],
-   "category": "Personal care and wellness",
-   "subcategory": "Wellness studio",
-   "lat": 44.022605,
-   "lng": -92.464575
-  },
-  {
-   "id": "lord-essex-tavern-and-grill",
-   "name": "Lord Essex Tavern and Grill",
-   "status": "Open during construction",
-   "cats": [
-    "Food & drink"
-   ],
-   "category": "Food and drink",
-   "subcategory": "Bar and grill",
-   "lat": 44.023251,
-   "lng": -92.46574
-  },
-  {
-   "id": "j-powers-events",
-   "name": "J. Powers Events",
-   "status": "Open during construction",
-   "cats": [
-    "Retail & services"
-   ],
-   "category": "Professional services",
-   "subcategory": "Event planning",
-   "lat": 44.023413,
-   "lng": -92.462859
-  },
-  {
-   "id": "cambria-gallery-rochester-hilton",
-   "name": "Cambria Gallery - Rochester Hilton",
-   "status": "Open during construction",
-   "cats": [
-    "Retail & services"
-   ],
-   "category": "Retail",
-   "subcategory": "Home design showroom",
-   "lat": 44.023413,
-   "lng": -92.462859
-  },
-  {
-   "id": "downtown-smoke-shop-and-breakroom",
-   "name": "Downtown Smoke Shop and Breakroom",
-   "status": "Open during construction",
-   "cats": [
-    "Retail & services"
-   ],
-   "category": "Retail",
-   "subcategory": "Smoke shop",
-   "lat": 44.020137,
-   "lng": -92.463115
-  },
-  {
-   "id": "botanical-rhapsody-organics-of-rochester",
-   "name": "Botanical Rhapsody Organics of Rochester",
-   "status": "Open during construction",
-   "cats": [
-    "Retail & services"
-   ],
-   "category": "Retail",
-   "subcategory": "Natural products",
-   "lat": 44.023251,
-   "lng": -92.46574
-  },
-  {
-   "id": "midwest-vintage-toys",
-   "name": "Midwest Vintage Toys",
-   "status": "Open during construction",
-   "cats": [
-    "Retail & services"
-   ],
-   "category": "Retail",
-   "subcategory": "Toys and collectibles",
-   "lat": 44.025407,
-   "lng": -92.462412
-  },
-  {
    "id": "artistic-framers",
    "name": "Artistic Framers",
    "status": "Open during construction",
@@ -1465,7 +1720,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Framing",
    "lat": 44.022605,
-   "lng": -92.464575
+   "lng": -92.464575,
+   "description": "Artistic Framers in Rochester, MN offers custom framing services that beautifully preserve and display artwork, photographs, memorabilia, and other treasured pieces."
   },
   {
    "id": "shhhh-we-dont-talk-about-it-cocktail-lounge",
@@ -1477,7 +1733,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Cocktail lounge",
    "lat": 44.020394,
-   "lng": -92.463883
+   "lng": -92.463883,
+   "description": "Shhh…We Don't Talk About It is a hidden, plant filled underground spot know for its speakeasy vibes and creative cocktails.",
+   "hoursText": "Monday - Saturday 4 p.m. to 12 a.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       960,
+       1440
+      ]
+     ],
+     "2": [
+      [
+       960,
+       1440
+      ]
+     ],
+     "3": [
+      [
+       960,
+       1440
+      ]
+     ],
+     "4": [
+      [
+       960,
+       1440
+      ]
+     ],
+     "5": [
+      [
+       960,
+       1440
+      ]
+     ],
+     "6": [
+      [
+       960,
+       1440
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "alliance-property-management",
@@ -1489,7 +1788,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Property management",
    "lat": 44.020287,
-   "lng": -92.463112
+   "lng": -92.463112,
+   "hoursText": "Monday - Friday 9 a.m. to 4 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       960
+      ]
+     ],
+     "2": [
+      [
+       540,
+       960
+      ]
+     ],
+     "3": [
+      [
+       540,
+       960
+      ]
+     ],
+     "4": [
+      [
+       540,
+       960
+      ]
+     ],
+     "5": [
+      [
+       540,
+       960
+      ]
+     ]
+    }
+   },
+   "description": "Alliance Property Management is a full-service property management company and licensed real estate brokerage specializing in the management of residential and commercial real estate."
   },
   {
    "id": "relax-and-massage-wellness-center",
@@ -1501,7 +1837,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Personal care and wellness",
    "subcategory": "Massage",
    "lat": 44.021607,
-   "lng": -92.463371
+   "lng": -92.463371,
+   "description": "Relax and Massage Wellness Center offers soothing massage therapy designed to ease pain, reduce stress, and leave you feeling relaxed and refreshed.",
+   "hoursText": "Monday - Wednesday 8 a.m. to 9 p.m.; Thursday 8:30 a.m. to 9 p.m.; Friday - Sunday 8 a.m. to 9 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "1": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       510,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "6": [
+      [
+       480,
+       1260
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "pereiras-wine-and-whiskey-lounge",
@@ -1513,7 +1898,26 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Wine and whiskey bar",
    "lat": 44.024626,
-   "lng": -92.46309
+   "lng": -92.46309,
+   "hoursText": "Friday - Saturday 5 p.m. to 12 a.m.; Closed Monday - Thursday, Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "5": [
+      [
+       1020,
+       1440
+      ]
+     ],
+     "6": [
+      [
+       1020,
+       1440
+      ]
+     ]
+    }
+   },
+   "description": "Pereira's Wine & Whiskey Lounge brings together history, elegance, and comfort serving premium wine, whiskey and handcrafted cocktails."
   },
   {
    "id": "ryan-companies-wells-fargo-building",
@@ -1525,7 +1929,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Real estate development",
    "lat": 44.022516,
-   "lng": -92.464121
+   "lng": -92.464121,
+   "description": "Located in a 1915 Romanesque Revival style building, Pereora's Wine & Whiskey Lounge features thoughtfully curated craft cocktails, wine and whiskey."
   },
   {
    "id": "nicolet-law",
@@ -1537,7 +1942,12 @@ window.WHATS_OPEN_DATA = {
    "category": "Legal",
    "subcategory": "Law firm",
    "lat": 44.021331,
-   "lng": -92.464424
+   "lng": -92.464424,
+   "description": "Nicolet Law Accident and Injury Lawyers is a personal injury law firm helping people navigate car accidents, serious injuries, wrongful death and other injury claims.",
+   "hoursText": "Open daily open 24 hours",
+   "schedule": {
+    "type": "always"
+   }
   },
   {
    "id": "lumi-restaurant",
@@ -1549,7 +1959,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Restaurant",
    "lat": 44.020955,
-   "lng": -92.46458
+   "lng": -92.46458,
+   "description": "Lumi restaurant us a vibrant dining spot where Turkish favorites meets flavors from around the world, with housemade dishes, vegetarian and Halal options, and a warm, elegant atmosphere.",
+   "hoursText": "Monday - Friday 11 a.m. to 9 p.m.; Saturday - Sunday 10 a.m. to 9 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       600,
+       1260
+      ]
+     ],
+     "1": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "6": [
+      [
+       600,
+       1260
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "massaie-services-inc",
@@ -1561,7 +2020,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Business services",
    "lat": 44.023341,
-   "lng": -92.46457
+   "lng": -92.46457,
+   "description": "Massaie Services Inc. provides private transporatation, accommodation coordination and personal support for patients and families visiting Rochester for medical care.",
+   "hoursText": "Monday - Saturday 7 a.m. to 7 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       420,
+       1140
+      ]
+     ],
+     "2": [
+      [
+       420,
+       1140
+      ]
+     ],
+     "3": [
+      [
+       420,
+       1140
+      ]
+     ],
+     "4": [
+      [
+       420,
+       1140
+      ]
+     ],
+     "5": [
+      [
+       420,
+       1140
+      ]
+     ],
+     "6": [
+      [
+       420,
+       1140
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "lcs-venue",
@@ -1573,7 +2075,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Arts, culture and entertainment",
    "subcategory": "Event venue",
    "lat": 44.020221,
-   "lng": -92.462954
+   "lng": -92.462954,
+   "description": "LCs Venue is a charming downtown event space for up to 150 guests, offering flexible setups, catering, and personalized planning for weddings, corporate events, and private celebrations.",
+   "hoursText": "Open daily 7 a.m. to 12 a.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       420,
+       1440
+      ]
+     ],
+     "1": [
+      [
+       420,
+       1440
+      ]
+     ],
+     "2": [
+      [
+       420,
+       1440
+      ]
+     ],
+     "3": [
+      [
+       420,
+       1440
+      ]
+     ],
+     "4": [
+      [
+       420,
+       1440
+      ]
+     ],
+     "5": [
+      [
+       420,
+       1440
+      ]
+     ],
+     "6": [
+      [
+       420,
+       1440
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "copper-and-coal-photography",
@@ -1585,7 +2136,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Photography",
    "lat": 44.020394,
-   "lng": -92.463883
+   "lng": -92.463883,
+   "description": "Copper and Coal Photography captures heartfelt, natural moments through maternity, newborn, family, couples, motherhood, and wedding photography with a warm artistic style.",
+   "hoursText": "Monday - Friday 11 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       660,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       660,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       660,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       660,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       660,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "coronas-tacos",
@@ -1597,7 +2185,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Mexican restaurant",
    "lat": 44.022391,
-   "lng": -92.464418
+   "lng": -92.464418,
+   "description": "Corona's Tacos is made-from-scratch Mexican food with a wide variety of options, from flavorful tacos and burritos to cheesy quesadillas and signature vampiritos.",
+   "hoursText": "Monday - Thursday 11 a.m. to 9 p.m.; Friday - Saturday 11 a.m. to 10 p.m.; Sunday 11 a.m. to 9 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "1": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       660,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       660,
+       1320
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "aura-wellness-center",
@@ -1609,7 +2246,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Personal care and wellness",
    "subcategory": "Wellness center",
    "lat": 44.019083,
-   "lng": -92.46323
+   "lng": -92.46323,
+   "description": "Aura Wellness center offers personalized massages and spa treatments desgined to leave you feeling fresh and restored.",
+   "hoursText": "Monday - Friday 8:30 a.m. to 8:30 p.m.; Saturday 9 a.m. to 8:30 p.m.; Sunday 10 a.m. to 6 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "1": [
+      [
+       510,
+       1230
+      ]
+     ],
+     "2": [
+      [
+       510,
+       1230
+      ]
+     ],
+     "3": [
+      [
+       510,
+       1230
+      ]
+     ],
+     "4": [
+      [
+       510,
+       1230
+      ]
+     ],
+     "5": [
+      [
+       510,
+       1230
+      ]
+     ],
+     "6": [
+      [
+       540,
+       1230
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "diatom-books",
@@ -1621,7 +2307,20 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Bookstore",
    "lat": 44.02018,
-   "lng": -92.463114
+   "lng": -92.463114,
+   "description": "Diatom Books is a charming woman-owned bookstore specializing in used, uncommon, and rare books, with a unique collection of books celebrating science, technology, society, art, history, and other curious finds.",
+   "hoursText": "Saturday 12: p.m. to 5 p.m.; Closed Monday - Friday, Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "6": [
+      [
+       720,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "la-crosse-sign-group-of-rochester",
@@ -1633,7 +2332,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Signage",
    "lat": 44.021293,
-   "lng": -92.464583
+   "lng": -92.464583,
+   "description": "La Crosse Sign Group of Rochester is a full-service sign company bringing businesses to life with custom signeage, desgin, fabrication, installation and branding services.",
+   "hoursText": "Monday - Thursday 7 a.m. to 5 p.m.; Friday 7 a.m. to noon; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       420,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       420,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       420,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       420,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       420,
+       720
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "interiors-by-j-curry",
@@ -1645,7 +2381,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Interior design",
    "lat": 44.025817,
-   "lng": -92.462952
+   "lng": -92.462952,
+   "description": "Interiors by J. Curry is a stylish interior design destination focused on creating beautiful, welcoming spaces with thoughtful details and a personalized touch."
   },
   {
    "id": "fuzzys-italian-ice-and-ice-cream",
@@ -1657,7 +2394,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Ice cream and dessert",
    "lat": 44.020207,
-   "lng": -92.464422
+   "lng": -92.464422,
+   "hoursText": "Monday - Saturday 11 a.m. to 10 p.m.; Sunday 12: p.m. to 10 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       720,
+       1320
+      ]
+     ],
+     "1": [
+      [
+       660,
+       1320
+      ]
+     ],
+     "2": [
+      [
+       660,
+       1320
+      ]
+     ],
+     "3": [
+      [
+       660,
+       1320
+      ]
+     ],
+     "4": [
+      [
+       660,
+       1320
+      ]
+     ],
+     "5": [
+      [
+       660,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       660,
+       1320
+      ]
+     ]
+    }
+   },
+   "description": "Fuzzy's Italian Ice and Ice Cream is a family-run desert shop selling Italian ices, frozen custard, and bubble waffles."
   },
   {
    "id": "area-10-labs",
@@ -1669,7 +2455,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Community and nonprofit",
    "subcategory": "Makerspace",
    "lat": 44.019231,
-   "lng": -92.463289
+   "lng": -92.463289,
+   "description": "Area 10 Labs is a research and development company that uses computing, neuroscience, engineering and physics to turn client's product ideas into reality.",
+   "hoursText": "Open daily 7 a.m. to 10 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       420,
+       1320
+      ]
+     ],
+     "1": [
+      [
+       420,
+       1320
+      ]
+     ],
+     "2": [
+      [
+       420,
+       1320
+      ]
+     ],
+     "3": [
+      [
+       420,
+       1320
+      ]
+     ],
+     "4": [
+      [
+       420,
+       1320
+      ]
+     ],
+     "5": [
+      [
+       420,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       420,
+       1320
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "happy-clicker-photography",
@@ -1681,7 +2516,12 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Photography",
    "lat": 44.020394,
-   "lng": -92.463883
+   "lng": -92.463883,
+   "description": "Happy Clicker Photography combines a creative eye with technical expertise to turn your vision into imagery.",
+   "hoursText": "Open daily open 24 hours",
+   "schedule": {
+    "type": "always"
+   }
   },
   {
    "id": "the-guerin-art-and-music-studio",
@@ -1693,7 +2533,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Education and childcare",
    "subcategory": "Art and music lessons",
    "lat": 44.020395,
-   "lng": -92.463951
+   "lng": -92.463951,
+   "description": "The Guerin Art and Music Studio features mixed-media paintings, artwork, guitars, amplifiers and pedals. The venue also hosts live performances, art classes and music lessons."
   },
   {
    "id": "navinetics",
@@ -1705,7 +2546,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Technology",
    "lat": 44.021432,
-   "lng": -92.46294
+   "lng": -92.46294,
+   "description": "NaviNetics is an innovative medical technology company developing safe, precise, user-friendly devices designed to improve neurosurgical procedures and patient care."
   },
   {
    "id": "taaj-service-pleasant-cafe",
@@ -1717,7 +2559,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Cafe",
    "lat": 44.024592,
-   "lng": -92.46309
+   "lng": -92.46309,
+   "hoursText": "Open daily 10 a.m. to 10 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       600,
+       1320
+      ]
+     ],
+     "1": [
+      [
+       600,
+       1320
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1320
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1320
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1320
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       600,
+       1320
+      ]
+     ]
+    }
+   },
+   "description": "Pleasant café is locally-owned and  serves sambusas, Somali tea, lattes and more."
   },
   {
    "id": "curve",
@@ -1729,7 +2620,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Boutique",
    "lat": 44.021293,
-   "lng": -92.464583
+   "lng": -92.464583,
+   "description": "Curve is a creative agency that creates design solutions that leaves a lasting impression on the target audience."
   },
   {
    "id": "taste-of-the-philippines",
@@ -1753,7 +2645,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Restaurant",
    "lat": 44.022605,
-   "lng": -92.464575
+   "lng": -92.464575,
+   "description": "North Stone Kitchen is a warm, modern American restaurant serving thoughtfully crafted dishes with fresh, locally inspired ingredients in a relaxed and welcoming atmosphere.",
+   "hoursText": "Monday - Friday 6:30 a.m. to 10 p.m.; Saturday 7 a.m. to 2 p.m.; Sunday 7 a.m. to 10 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       420,
+       1320
+      ]
+     ],
+     "1": [
+      [
+       390,
+       1320
+      ]
+     ],
+     "2": [
+      [
+       390,
+       1320
+      ]
+     ],
+     "3": [
+      [
+       390,
+       1320
+      ]
+     ],
+     "4": [
+      [
+       390,
+       1320
+      ]
+     ],
+     "5": [
+      [
+       390,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       420,
+       840
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "hair-and-co-at-the-avalon",
@@ -1765,7 +2706,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Personal care and wellness",
    "subcategory": "Hair salon",
    "lat": 44.026329,
-   "lng": -92.463118
+   "lng": -92.463118,
+   "description": "Hair & Co at the Avalon is a stylish, upscale salon where independent artists provide precision haircuts, custom coloring and other personalized beauty care.",
+   "hoursText": "Monday 9 a.m. to 5 p.m.; Tuesday 10 a.m. to 5 p.m.; Wednesday - Thursday 10 a.m. to 6 p.m.; Friday 10 a.m. to 5 p.m.; Saturday 9 a.m. to 2 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1020
+      ]
+     ],
+     "6": [
+      [
+       540,
+       840
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "palmetto-room",
@@ -1777,7 +2761,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Bar and restaurant",
    "lat": 44.019233,
-   "lng": -92.461404
+   "lng": -92.461404,
+   "hoursText": "Monday - Thursday 4: p.m. to 9 p.m.; Friday - Saturday 4: p.m. to 10 p.m.; Sunday 4: p.m. to 9 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       960,
+       1260
+      ]
+     ],
+     "1": [
+      [
+       960,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       960,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       960,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       960,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       960,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       960,
+       1320
+      ]
+     ]
+    }
+   },
+   "description": "Palmetto Room is a hidden, rum-focused speakeasy located in the lower level of the restaurant Our Paladar."
   },
   {
    "id": "green-and-the-grain",
@@ -1789,7 +2822,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Salads and bowls",
    "lat": 44.022516,
-   "lng": -92.464121
+   "lng": -92.464121,
+   "hoursText": "Monday - Friday 10 a.m. to 2 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       600,
+       840
+      ]
+     ],
+     "2": [
+      [
+       600,
+       840
+      ]
+     ],
+     "3": [
+      [
+       600,
+       840
+      ]
+     ],
+     "4": [
+      [
+       600,
+       840
+      ]
+     ],
+     "5": [
+      [
+       600,
+       840
+      ]
+     ]
+    }
+   },
+   "description": "Green + The Grain is a fresh, fast-casual spot specializing in flavorful signature salads, wraps, and customizable grain bowls made for a healthy meal on the go."
   },
   {
    "id": "minnwest-bank",
@@ -1801,7 +2871,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Bank",
    "lat": 44.020141,
-   "lng": -92.464423
+   "lng": -92.464423,
+   "hoursText": "Monday - Friday 8:30 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       510,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Minnwest Bank provides financial services such as checking, online banking, savings, loans, cash management and more."
   },
   {
    "id": "almadina-restaurant",
@@ -1813,7 +2920,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Middle Eastern restaurant",
    "lat": 44.024457,
-   "lng": -92.46309
+   "lng": -92.46309,
+   "description": "Almadina Restaurant is a welcoming Middle Eastern and Mediterranean eatery serving flavorful favorites like shawarma, gyros, falafel, kebabs, fresh salad, and vegetarian dishes.",
+   "hoursText": "Open daily 11 a.m. to 9 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "1": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "6": [
+      [
+       660,
+       1260
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "ama-la-vita",
@@ -1824,9 +2980,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Boutique",
-   "description": "Ama La Vita is a lifestyle boutique, offering:\nWomen’s fashion & accessories\nHome décor & meaningful gifts\nLittles’ apparelA full selection of dancewear and dance shoes",
+   "description": "Ama La Vita is a lifestyle boutique, offering Women’s fashion & accessories, home décor & meaningful gifts\nlittles’ apparel, and a full selection of dancewear and dance shoes.",
    "lat": 44.022359,
-   "lng": -92.464418
+   "lng": -92.464418,
+   "hoursText": "Monday - Thursday: 10am-7pm\nFriday: 10am-6pm\nSaturday: 11am-4pm\nSunday: 12pm-4pm",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       720,
+       960
+      ]
+     ],
+     "1": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "6": [
+      [
+       660,
+       960
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "olde-brick-house",
@@ -1838,7 +3042,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Restaurant",
    "lat": 44.023276,
-   "lng": -92.464571
+   "lng": -92.464571,
+   "description": "Olde Brick House is an authentic Irish pub serving hearty Irish favorites, American dishes and a large selection of beer and whiskey in a warm, lively atmosphere.",
+   "hoursText": "Monday - Wednesday 10:30 a.m. to 9 p.m.; Thursday - Saturday 10:30 a.m. to 10 p.m.; Sunday 10:30 a.m. to 9 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       630,
+       1260
+      ]
+     ],
+     "1": [
+      [
+       630,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       630,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       630,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       630,
+       1320
+      ]
+     ],
+     "5": [
+      [
+       630,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       630,
+       1320
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "beauty-by-amy",
@@ -1850,7 +3103,60 @@ window.WHATS_OPEN_DATA = {
    "category": "Personal care and wellness",
    "subcategory": "Beauty salon",
    "lat": 44.019083,
-   "lng": -92.46323
+   "lng": -92.46323,
+   "hoursText": "Monday 8 a.m. to 4:30 a.m.; Tuesday - Saturday 8 a.m. to 4:30 p.m.; Sunday 8 a.m. to 5 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "1": [
+      [
+       480,
+       1440
+      ]
+     ],
+     "2": [
+      [
+       0,
+       270
+      ],
+      [
+       480,
+       990
+      ]
+     ],
+     "3": [
+      [
+       480,
+       990
+      ]
+     ],
+     "4": [
+      [
+       480,
+       990
+      ]
+     ],
+     "5": [
+      [
+       480,
+       990
+      ]
+     ],
+     "6": [
+      [
+       480,
+       990
+      ]
+     ]
+    }
+   },
+   "description": "Beauty by Amy offers friendly, professional hair braiding and traditional African clothing."
   },
   {
    "id": "the-hub-on-3rd",
@@ -1862,7 +3168,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Shopping centers and coworking",
    "subcategory": "Coworking and event space",
    "lat": 44.019922,
-   "lng": -92.458747
+   "lng": -92.458747,
+   "description": "The Hub on 3rd offers 15 private offices, a bookable conference room and virtual office memberships. The Hub combines visibility and convenience with essentails like included parking, secure 24/7 access and high speed internet in a furnished, professional environment.",
+   "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "the-fit-loon",
@@ -1874,7 +3217,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Personal care and wellness",
    "subcategory": "Fitness",
    "lat": 44.025807,
-   "lng": -92.462952
+   "lng": -92.462952,
+   "description": "The Fit Loon is a cheerful, health-focused spot serving protein packed shakes and energizing teas that make for a quick, nutritious breakfast, lunch or sweet treat on the go.",
+   "hoursText": "Monday - Friday 6 a.m. to 4 p.m.; Saturday 9 a.m. to 1 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       360,
+       960
+      ]
+     ],
+     "2": [
+      [
+       360,
+       960
+      ]
+     ],
+     "3": [
+      [
+       360,
+       960
+      ]
+     ],
+     "4": [
+      [
+       360,
+       960
+      ]
+     ],
+     "5": [
+      [
+       360,
+       960
+      ]
+     ],
+     "6": [
+      [
+       540,
+       780
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "tildas-pizzeria",
@@ -1885,9 +3271,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Pizza",
-   "description": "Welcome to Tilda’s Pizzeria, your local pizza restaurant.  Where our passion for amazing pizzas and great service are yours to savor. We want your visit to be a memorable one. That’s why we’ve made sure our atmosphere, service, and food are second to none. From the moment you step inside, you’ll see that everything we do is driven by our dedication to quality. Our pizza dough is made in-house and topped with the finest, freshest ingredients that we’ve sourced from years of searching for the best flavors. They’re all combined with care and cooked to perfection in our custom-built wood-fired oven.",
+   "description": "Tilda's Pizzeria makes fresh, quality pizzas from scratch and cooks them in their custom-built wood-fired oven.",
    "lat": 44.026457,
-   "lng": -92.46441
+   "lng": -92.46441,
+   "hoursText": "Sunday 4:00PM - 9:00PM\nMonday 4:00PM - 9:00PM\nTuesday 4:00PM - 9:00PM\nWednesday 4:00PM - 9:00PM\nThursday 4:00PM - 9:00PM\nFriday 4:00PM - 9:00PM\nSaturday 4:00PM - 9:00PM",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       960,
+       1260
+      ]
+     ],
+     "1": [
+      [
+       960,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       960,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       960,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       960,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       960,
+       1260
+      ]
+     ],
+     "6": [
+      [
+       960,
+       1260
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "ruths-chris-steakhouse",
@@ -1899,7 +3333,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Steakhouse",
    "lat": 44.023251,
-   "lng": -92.46574
+   "lng": -92.46574,
+   "description": "Ruth's Chris Steakhouse is an upscale steakhouse known for sizzling, butter-topped steaks, classic sides, fine wines, and polished service in an elegant setting.",
+   "hoursText": "Monday - Thursday 4: p.m. to 10 p.m.; Friday - Saturday 4: p.m. to 10:30 p.m.; Sunday 4: p.m. to 9 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       960,
+       1260
+      ]
+     ],
+     "1": [
+      [
+       960,
+       1320
+      ]
+     ],
+     "2": [
+      [
+       960,
+       1320
+      ]
+     ],
+     "3": [
+      [
+       960,
+       1320
+      ]
+     ],
+     "4": [
+      [
+       960,
+       1320
+      ]
+     ],
+     "5": [
+      [
+       960,
+       1350
+      ]
+     ],
+     "6": [
+      [
+       960,
+       1350
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "keller-tattoo",
@@ -1911,7 +3394,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Personal care and wellness",
    "subcategory": "Tattoo",
    "lat": 44.018887,
-   "lng": -92.462884
+   "lng": -92.462884,
+   "description": "Keller Tattoo is a welcoming shop specializing in fine line, floral, black and grey, and Christian/faith based tattoos."
   },
   {
    "id": "99-giggles",
@@ -1923,7 +3407,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Children's store",
    "lat": 44.023251,
-   "lng": -92.46574
+   "lng": -92.46574,
+   "description": "99 Giggles is a fun filled gift shop offering unique and memorable gifts, accessories and apparel to brighten someone's day.",
+   "hoursText": "Monday - Thursday 9 a.m. to 5 p.m.; Friday 9 a.m. to 4:30 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       990
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "alerus-bank",
@@ -1935,7 +3456,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Bank",
    "lat": 44.022019,
-   "lng": -92.464582
+   "lng": -92.464582,
+   "hoursText": "Monday - Friday 7:30 a.m. to 3:30 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       450,
+       930
+      ]
+     ],
+     "2": [
+      [
+       450,
+       930
+      ]
+     ],
+     "3": [
+      [
+       450,
+       930
+      ]
+     ],
+     "4": [
+      [
+       450,
+       930
+      ]
+     ],
+     "5": [
+      [
+       450,
+       930
+      ]
+     ]
+    }
+   },
+   "description": "Alerus offers checking and savings accounts, digital banking, credit cards, mortgages, wealth management, and retirement solutions to help individuals manage their finances."
   },
   {
    "id": "armon-architecture",
@@ -1947,7 +3505,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Architecture",
    "lat": 44.019337,
-   "lng": -92.463936
+   "lng": -92.463936,
+   "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Armon Architecture provides commercial and residential design servies."
   },
   {
    "id": "art-heads-emporium",
@@ -1959,7 +3554,32 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Art and gifts",
    "lat": 44.020223,
-   "lng": -92.463113
+   "lng": -92.463113,
+   "hoursText": "Friday 6: p.m. to 8 p.m.; Saturday 11 a.m. to 6 p.m.; Sunday 12: p.m. to 3 p.m.; Closed Monday - Thursday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       720,
+       900
+      ]
+     ],
+     "5": [
+      [
+       1080,
+       1200
+      ]
+     ],
+     "6": [
+      [
+       660,
+       1080
+      ]
+     ]
+    }
+   },
+   "description": "Art Heads Emporium is a creative lead space that offers a wide variety of hands on workshops and classes that celebrate and encourage creativity."
   },
   {
    "id": "associated-bank",
@@ -1970,8 +3590,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Bank",
-   "lat": 44.022605,
-   "lng": -92.464575
+   "lat": 44.021432,
+   "lng": -92.46294,
+   "hoursText": "Monday - Friday 9 a.m. to 4 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       960
+      ]
+     ],
+     "2": [
+      [
+       540,
+       960
+      ]
+     ],
+     "3": [
+      [
+       540,
+       960
+      ]
+     ],
+     "4": [
+      [
+       540,
+       960
+      ]
+     ],
+     "5": [
+      [
+       540,
+       960
+      ]
+     ]
+    }
+   },
+   "description": "Associated Bank offers convenient personal and business banking services, including checking, savings, loans, and financial solutions to help customers manage their money with confidence."
   },
   {
    "id": "auntie-annes-pretzel",
@@ -1983,7 +3640,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Pretzels and snacks",
    "lat": 44.022605,
-   "lng": -92.464575
+   "lng": -92.464575,
+   "hoursText": "Monday - Friday 6 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       360,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       360,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       360,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       360,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       360,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Auntie Anne's is a convenient stop for warm, freshly baked soft pretzles, bite-sized nuggets and refreshing lemonade when you are craving a quick sweet treat or savory snack."
   },
   {
    "id": "baby-baby",
@@ -1996,7 +3690,43 @@ window.WHATS_OPEN_DATA = {
    "subcategory": "Children's store",
    "description": "From Preemie to Teen. Fun & Playful to Dressed Up. Whatever the occasion is, your child will look great in the clothes you get from Baby Baby.",
    "lat": 44.022605,
-   "lng": -92.464575
+   "lng": -92.464575,
+   "hoursText": "Monday - Friday: 9:30AM - 4:30PM\nSaturday - Sunday: Closed",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       570,
+       990
+      ]
+     ],
+     "2": [
+      [
+       570,
+       990
+      ]
+     ],
+     "3": [
+      [
+       570,
+       990
+      ]
+     ],
+     "4": [
+      [
+       570,
+       990
+      ]
+     ],
+     "5": [
+      [
+       570,
+       990
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "baser-freight-llc",
@@ -2008,7 +3738,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Freight and logistics",
    "lat": 44.020137,
-   "lng": -92.463115
+   "lng": -92.463115,
+   "hoursText": "Monday - Friday 7 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       420,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       420,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       420,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       420,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       420,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Baser Freight LLCis a logistics and freight management company offering full truckload, less than truckload, specialized, temperature-controlled, van, and hotshot transportation services."
   },
   {
    "id": "beck-and-co",
@@ -2020,7 +3787,38 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Boutique",
    "lat": 44.020136,
-   "lng": -92.462955
+   "lng": -92.462955,
+   "hoursText": "Monday 5: p.m. to 8 p.m.; Thursday 5: p.m. to 8 p.m.; Saturday 10 a.m. to 5 p.m.; Sunday 11 a.m. to 3 p.m.; Closed Tuesday - Wednesday, Friday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       660,
+       900
+      ]
+     ],
+     "1": [
+      [
+       1020,
+       1200
+      ]
+     ],
+     "4": [
+      [
+       1020,
+       1200
+      ]
+     ],
+     "6": [
+      [
+       600,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Beck & Co. is a stylish women's botique offering unique clothing, accessories, jewelry, and personalized styling to help customers create confident looks for work or everyday life."
   },
   {
    "id": "benedicts-rochester",
@@ -2033,7 +3831,55 @@ window.WHATS_OPEN_DATA = {
    "subcategory": "Breakfast and brunch",
    "description": "Begin your day with an extraordinary breakfast experience at the heart of bustling downtown Rochester, Minnesota! Benedict’s, enveloped in the city’s dynamic pulse, offers a warm retreat where contemporary chic meets comforting homestyle charm. Our chefs are here to reinvent your first meal of the day.",
    "lat": 44.023413,
-   "lng": -92.462859
+   "lng": -92.462859,
+   "hoursText": "Open daily: 6 a.m. - 3 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       360,
+       900
+      ]
+     ],
+     "1": [
+      [
+       360,
+       900
+      ]
+     ],
+     "2": [
+      [
+       360,
+       900
+      ]
+     ],
+     "3": [
+      [
+       360,
+       900
+      ]
+     ],
+     "4": [
+      [
+       360,
+       900
+      ]
+     ],
+     "5": [
+      [
+       360,
+       900
+      ]
+     ],
+     "6": [
+      [
+       360,
+       900
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "bitter-and-pour",
@@ -2044,9 +3890,51 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Cocktail bar",
-   "description": "Bitter & Pour® is the lovechild of four nice guys with stardust in their eyes. A subterranean hideaway housed in the Merchant Exchange building on Historic 3rd Street where only the finest spirits and elixirs are served to Rochester’s hippest drinkers. In the pursuit of excellence, we created a tiny altar that pays tribute to everything we’ve always wanted. A cozy and stylish atmosphere, detail-obsessive cocktails, and impeccable wine selection.",
+   "description": "Bitter & Pouis a subterranean hideaway housed in the Merchant Exchange building on Historic 3rd Street where only the finest spirits and elixirs are served to Rochester’s hippest drinkers.",
    "lat": 44.020395,
-   "lng": -92.463963
+   "lng": -92.463963,
+   "hoursText": "Monday: 4pm-12am\nTuesday: 4pm-12am\nWednesday: 4pm-12am\nThursday: 4pm-12am\nFriday: 4pm-12am\nSaturday: 4pm-12am\nSunday: Closed",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       960,
+       1440
+      ]
+     ],
+     "2": [
+      [
+       960,
+       1440
+      ]
+     ],
+     "3": [
+      [
+       960,
+       1440
+      ]
+     ],
+     "4": [
+      [
+       960,
+       1440
+      ]
+     ],
+     "5": [
+      [
+       960,
+       1440
+      ]
+     ],
+     "6": [
+      [
+       960,
+       1440
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "bleu-duck-kitchen",
@@ -2057,9 +3945,75 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Restaurant",
-   "description": "Since our establishment in August 2016, we have become a beloved dining destination, earning Best Restaurant from 2019 to 2024. Our owner, Jennifer Lester, is dedicated to treating every guest like a friend, creating a warm and inviting atmosphere. Come and enjoy our unique culinary offerings and exceptional service that keep our locals and visitors coming back for more!",
+   "description": "Bleu Duck Kitchen is a stylish, welcoming restaurant known for creative New American cuisine, thoughtfully crafted cocktails, and a memorable dining experience.",
    "lat": 44.019231,
-   "lng": -92.463289
+   "lng": -92.463289,
+   "hoursText": "Bar: Monday-Saturday 4pm-10pm\nDining Room: Monday-Saturday 5pm-10pm",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       960,
+       1320
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     "2": [
+      [
+       960,
+       1320
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     "3": [
+      [
+       960,
+       1320
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     "4": [
+      [
+       960,
+       1320
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     "5": [
+      [
+       960,
+       1320
+      ],
+      [
+       1020,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       960,
+       1320
+      ],
+      [
+       1020,
+       1320
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "blue-sky-dental",
@@ -2071,7 +4025,38 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Dental",
    "lat": 44.020395,
-   "lng": -92.463963
+   "lng": -92.463963,
+   "hoursText": "Monday - Thursday 8:30 a.m. to 4:30 p.m.; Closed Friday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       510,
+       990
+      ]
+     ],
+     "2": [
+      [
+       510,
+       990
+      ]
+     ],
+     "3": [
+      [
+       510,
+       990
+      ]
+     ],
+     "4": [
+      [
+       510,
+       990
+      ]
+     ]
+    }
+   },
+   "description": "Blue Sky Dental is a patient centered family and cosmetic dental practice offering preventative, restorative and advanced dental care."
   },
   {
    "id": "bravo-espresso",
@@ -2083,7 +4068,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Coffee shop",
    "lat": 44.022375,
-   "lng": -92.463097
+   "lng": -92.463097,
+   "hoursText": "Monday - Friday 6 a.m. to 5 p.m.; Saturday 7 a.m. to 2 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       360,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       360,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       360,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       360,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       360,
+       1020
+      ]
+     ],
+     "6": [
+      [
+       420,
+       840
+      ]
+     ]
+    }
+   },
+   "description": "Bravo espresso is know for well crafted drinks, friendly service and a welcoming community atmosphere."
   },
   {
    "id": "broadway-plaza",
@@ -2095,7 +4123,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Residential",
    "subcategory": "Condominiums",
    "lat": 44.022577,
-   "lng": -92.46278
+   "lng": -92.46278,
+   "description": "Broadway Plaza offers upscale, spacious accommodations in the heart of downtown, providing convenient access to the Mayo Clinic, dining, shopping, and entertainment."
   },
   {
    "id": "brueggers-bagels",
@@ -2107,7 +4136,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Bagels",
    "lat": 44.022019,
-   "lng": -92.464582
+   "lng": -92.464582,
+   "hoursText": "Monday - Friday 6 a.m. to 2 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       360,
+       840
+      ]
+     ],
+     "2": [
+      [
+       360,
+       840
+      ]
+     ],
+     "3": [
+      [
+       360,
+       840
+      ]
+     ],
+     "4": [
+      [
+       360,
+       840
+      ]
+     ],
+     "5": [
+      [
+       360,
+       840
+      ]
+     ]
+    }
+   },
+   "description": "Brueggers Bagels is a casual breakfast and lunch spot serving fresh baked New York style baels, signature cream cheeses, hearty breakfast sandwiches, deli favorites and fresh coffee."
   },
   {
    "id": "cafe-steam-downtown",
@@ -2118,9 +4184,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Coffee shop",
-   "description": "good coffee | good vibes",
+   "description": "Cafe Steam is a cozy, welcoming coffee shop serving quality coffee, espresso drinks, and more in a relaxed, community-focused atmosphere.",
    "lat": 44.020244,
-   "lng": -92.463113
+   "lng": -92.463113,
+   "hoursText": "Monday 7:00 am - 10:00 pm\nTuesday 7:00 am - 10:00 pm\nWednesday 7:00 am - 10:00 pm\nThursday 7:00 am - 10:00 pm\nFriday 7:00 am - 10:00 pm\nSaturday 8:00 am - 10:00 pm\nSunday 8:00 am - 10:00 pm",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       480,
+       1320
+      ]
+     ],
+     "1": [
+      [
+       420,
+       1320
+      ]
+     ],
+     "2": [
+      [
+       420,
+       1320
+      ]
+     ],
+     "3": [
+      [
+       420,
+       1320
+      ]
+     ],
+     "4": [
+      [
+       420,
+       1320
+      ]
+     ],
+     "5": [
+      [
+       420,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       480,
+       1320
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "cafe-steam-skyway-location",
@@ -2131,9 +4245,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Coffee shop",
-   "description": "good coffee | good vibes",
+   "description": "Cafe Steam is a cozy, welcoming coffee shop serving quality coffee, espresso drinks, and more in a relaxed, community-focused atmosphere.",
    "lat": 44.022027,
-   "lng": -92.462934
+   "lng": -92.462934,
+   "hoursText": "Monday 7:00 am - 6:00 pm\nTuesday 7:00 am - 6:00 pm\nWednesday 7:00 am - 6:00 pm\nThursday 7:00 am - 6:00 pm\nFriday 7:00 am - 6:00 pm\nSaturday - Closed\nSunday - Closed",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       420,
+       1080
+      ]
+     ],
+     "2": [
+      [
+       420,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       420,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       420,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       420,
+       1080
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "cambria-gallery-rochester",
@@ -2144,9 +4294,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Home design showroom",
-   "description": "At the Cambria Gallery in Rochester, you can see Cambria quartz surfaces in an impressive range of designs. Whether you’re planning a kitchen countertop upgrade or a full remodel, you’ll find what you need. Explore distinctive backsplashes, impressive fireplace cladding, and maintenance-free shower and bath surfaces. View full size quartz slabs, access visualization tools and design software, and consult with an expert to answer your questions and help match with your cabinets, paint, flooring, and even appliances. We’re looking forward to talking with you about your project. Make an appointment to visit our gallery.",
+   "description": "At the Cambria Gallery in Rochester, you can see Cambria quartz surfaces in an impressive range of designs. Whether you’re planning a kitchen countertop upgrade or a full remodel, you’ll find what you need.",
    "lat": 44.019232,
-   "lng": -92.462881
+   "lng": -92.462881,
+   "hoursText": "Wednesday - 9 AM - 5 PM\nThursday - 9 AM - 5 PM\nFriday - 9 AM - 5 PM\nSaturday - Closed\nSunday - Closed\nMonday - 9 AM - 5 PM\nTuesday - 9 AM - 5 PM",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "caribou-coffee-downtown",
@@ -2158,7 +4344,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Coffee shop",
    "lat": 44.022605,
-   "lng": -92.464575
+   "lng": -92.464575,
+   "hoursText": "Monday - Friday 5:30 a.m. to 5:30 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       330,
+       1050
+      ]
+     ],
+     "2": [
+      [
+       330,
+       1050
+      ]
+     ],
+     "3": [
+      [
+       330,
+       1050
+      ]
+     ],
+     "4": [
+      [
+       330,
+       1050
+      ]
+     ],
+     "5": [
+      [
+       330,
+       1050
+      ]
+     ]
+    }
+   },
+   "description": "Caribou Coffee is a cozy and inviting coffee shop serving handcrafted coffee, espresso drinks, teas, and tasty breakfast and snack options."
   },
   {
    "id": "carrolls-corn",
@@ -2170,7 +4393,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Popcorn and snacks",
    "lat": 44.023251,
-   "lng": -92.46574
+   "lng": -92.46574,
+   "hoursText": "Monday - Thursday 7 a.m. to 5:30 p.m.; Friday 7 a.m. to 4:30 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       420,
+       1050
+      ]
+     ],
+     "2": [
+      [
+       420,
+       1050
+      ]
+     ],
+     "3": [
+      [
+       420,
+       1050
+      ]
+     ],
+     "4": [
+      [
+       420,
+       1050
+      ]
+     ],
+     "5": [
+      [
+       420,
+       990
+      ]
+     ]
+    }
+   },
+   "description": "At Caroll's Corn, you can choose from 14 gourmet small batch popcorn flavors. Every batch is popped fresh and packed with flavor."
   },
   {
    "id": "chateau-theatre",
@@ -2182,7 +4442,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Arts, culture and entertainment",
    "subcategory": "Theater",
    "lat": 44.022577,
-   "lng": -92.46278
+   "lng": -92.46278,
+   "description": "Chateau Theatre is a beautifully restored historic landmark and community gathering space that brings together local history, culture, events, and entertainment in the heart of downtown."
   },
   {
    "id": "chesters-kitchen-and-bar",
@@ -2194,7 +4455,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Restaurant",
    "lat": 44.022375,
-   "lng": -92.463097
+   "lng": -92.463097,
+   "hoursText": "Monday – Thursday\n10:30am – 10pm\nFriday \n10:30am – 10pm\nSaturday\n11am – 10pm",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       630,
+       1320
+      ]
+     ],
+     "2": [
+      [
+       630,
+       1320
+      ]
+     ],
+     "3": [
+      [
+       630,
+       1320
+      ]
+     ],
+     "4": [
+      [
+       630,
+       1320
+      ]
+     ],
+     "5": [
+      [
+       630,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       660,
+       1320
+      ]
+     ]
+    }
+   },
+   "description": "Chester's Kitchen and Bar is a lively restaurant serving classic American favorites like burgers, steak, pasta and salmon alongside cocktails, brunch and tasty desserts."
   },
   {
    "id": "chicos",
@@ -2206,7 +4510,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Women's clothing",
    "lat": 44.022375,
-   "lng": -92.463097
+   "lng": -92.463097,
+   "hoursText": "Monday - Friday 10 a.m. to 7 p.m.; Saturday 10 a.m. to 5 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "6": [
+      [
+       600,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Chico's is a women's clothing store that offers a curated collection of chic, unique women's clothing, jewlry and and accessories."
   },
   {
    "id": "chinese-chinhs-express",
@@ -2218,7 +4565,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Chinese restaurant",
    "lat": 44.022391,
-   "lng": -92.464418
+   "lng": -92.464418,
+   "hoursText": "Monday - Thursday 11 a.m. to 5 p.m.; Friday 11 a.m. to 3 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       660,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       660,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       660,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       660,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       660,
+       900
+      ]
+     ]
+    }
+   },
+   "description": "Chinese Chinh's Express is a quick and convenient spot serving fresh Chinese favorites like Orange Chicken, Fried Rice, Egg Rolls and flavorful specialty dishes."
   },
   {
    "id": "chocolate-oasis",
@@ -2230,7 +4614,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Chocolate and dessert",
    "lat": 44.022605,
-   "lng": -92.464575
+   "lng": -92.464575,
+   "hoursText": "Monday - Thursday 9 a.m. to 3:30 p.m.; Friday 9 a.m. to 3 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       930
+      ]
+     ],
+     "2": [
+      [
+       540,
+       930
+      ]
+     ],
+     "3": [
+      [
+       540,
+       930
+      ]
+     ],
+     "4": [
+      [
+       540,
+       930
+      ]
+     ],
+     "5": [
+      [
+       540,
+       900
+      ]
+     ]
+    }
+   },
+   "description": "Chocolate Oasis is a charming sweet shop offering truffles, Minnesota-made chocolates, boxed treats ad specialty candies perfect for indulging yourself or finding a delicious gift."
   },
   {
    "id": "chocolaterie-stam",
@@ -2242,7 +4663,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Chocolate and dessert",
    "lat": 44.022375,
-   "lng": -92.463097
+   "lng": -92.463097,
+   "hoursText": "Monday 10 a.m. to 7 p.m.; Tuesday open 24 hours; Wednesday - Friday 10 a.m. to 7 p.m.; Saturday 10 a.m. to 4 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "2": [
+      [
+       0,
+       1440
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "6": [
+      [
+       600,
+       960
+      ]
+     ]
+    }
+   },
+   "description": "Chocolaterie Stam is a charming chocolate shop offering rich European-style chocolates, decadent truffles, gelato, and other handcrafted sweets perfect for treating yourself or someone special."
   },
   {
    "id": "cinnabon",
@@ -2254,7 +4718,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Bakery",
    "lat": 44.022605,
-   "lng": -92.464575
+   "lng": -92.464575,
+   "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Cinnabon is a sweet stop for warm, freshly baked cinnamon rolls topped with signature cream cheese frosting, plus bite sized treats, coffee, and refreshing drinks."
   },
   {
    "id": "city-market",
@@ -2267,7 +4768,43 @@ window.WHATS_OPEN_DATA = {
    "subcategory": "Deli and market",
    "description": "Voted Rochester's Best Deli and Sandwiches for the past seven years. A bustling, urban deli set in the heart of downtown Rochester, featuring big New York-style sandwiches, filled with large portions of freshly sliced meats, gourmet cheeses, crisp vegetables, and one-of-a-kind spreads on bakery-fresh bread.",
    "lat": 44.021392,
-   "lng": -92.464426
+   "lng": -92.464426,
+   "hoursText": "Sunday - Closed\nMonday - 7:00AM - 2:00PM\nTuesday - 7:00AM - 2:00PM\nWednesday - 7:00AM - 2:00PM\nThursday - 7:00AM - 2:00PM\nFriday - 7:00AM - 2:00PM\nSaturday - Closed",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       420,
+       840
+      ]
+     ],
+     "2": [
+      [
+       420,
+       840
+      ]
+     ],
+     "3": [
+      [
+       420,
+       840
+      ]
+     ],
+     "4": [
+      [
+       420,
+       840
+      ]
+     ],
+     "5": [
+      [
+       420,
+       840
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "collider-coworking",
@@ -2279,7 +4816,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Shopping centers and coworking",
    "subcategory": "Coworking",
    "lat": 44.021293,
-   "lng": -92.464583
+   "lng": -92.464583,
+   "hoursText": "Monday - Friday 8 a.m. to 4 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       960
+      ]
+     ],
+     "2": [
+      [
+       480,
+       960
+      ]
+     ],
+     "3": [
+      [
+       480,
+       960
+      ]
+     ],
+     "4": [
+      [
+       480,
+       960
+      ]
+     ],
+     "5": [
+      [
+       480,
+       960
+      ]
+     ]
+    }
+   },
+   "description": "Collider Coworking is a space where entrepreneurs, freelancers, remote workers, and local professionals can work, collaborate, network and turn new ideas into opportunities."
   },
   {
    "id": "counterpoint-home",
@@ -2291,7 +4865,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Home goods",
    "lat": 44.022375,
-   "lng": -92.463097
+   "lng": -92.463097,
+   "hoursText": "Monday - Friday 10 a.m. to 6 p.m.; Saturday 10 a.m. to 4 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "6": [
+      [
+       600,
+       960
+      ]
+     ]
+    }
+   },
+   "description": "Counterpoint is a contemporary home and lifestyle botique featuring thoughtfully curated décor, kitchenware, fashion, jewelry, books, and distinctive gifts."
   },
   {
    "id": "counterpoint-ii",
@@ -2303,7 +4920,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Clothing boutique",
    "lat": 44.022375,
-   "lng": -92.463097
+   "lng": -92.463097,
+   "hoursText": "Monday - Friday 10 a.m. to 6 p.m.; Saturday 10 a.m. to 4 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "6": [
+      [
+       600,
+       960
+      ]
+     ]
+    }
+   },
+   "description": "Counterpoint is a contemporary home and lifestyle botique featuring thoughtfully curated décor, kitchenware, fashion, jewelry, books, and distinctive gifts."
   },
   {
    "id": "crave-rochester-hotel-indigo",
@@ -2315,7 +4975,84 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Restaurant",
    "lat": 44.021292,
-   "lng": -92.46294
+   "lng": -92.46294,
+   "hoursText": "Monday - Thursday 7: p.m. to 10 a.m. and 11 a.m. to 10 p.m.; Friday 7: p.m. to 10 a.m. and 11 a.m. to 11 p.m.; Saturday 7: p.m. to 9 a.m. and 11 a.m. to 11 p.m.; Sunday 7: p.m. to 9 a.m. and 11 a.m. to 10 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       660,
+       1320
+      ],
+      [
+       1140,
+       1260
+      ]
+     ],
+     "1": [
+      [
+       660,
+       1320
+      ],
+      [
+       1140,
+       1320
+      ]
+     ],
+     "2": [
+      [
+       660,
+       1320
+      ],
+      [
+       1140,
+       1320
+      ]
+     ],
+     "3": [
+      [
+       660,
+       1320
+      ],
+      [
+       1140,
+       1320
+      ]
+     ],
+     "4": [
+      [
+       660,
+       1320
+      ],
+      [
+       1140,
+       1320
+      ]
+     ],
+     "5": [
+      [
+       660,
+       1380
+      ],
+      [
+       1140,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       660,
+       1380
+      ],
+      [
+       1140,
+       1260
+      ]
+     ]
+    }
+   },
+   "description": "CRAVE at Hotel Indigo Rochester is a stylish downtown dining spot offering a creative menu of American favorites, sushi, cocktails, and shareable dishes in a lively, modern atmosphere."
   },
   {
    "id": "downtown-comfort-zone-chinese-relaxing-spa",
@@ -2327,7 +5064,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Personal care and wellness",
    "subcategory": "Massage",
    "lat": 44.024609,
-   "lng": -92.46309
+   "lng": -92.46309,
+   "hoursText": "Open daily 9:30 a.m. to 9:30 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       570,
+       1290
+      ]
+     ],
+     "1": [
+      [
+       570,
+       1290
+      ]
+     ],
+     "2": [
+      [
+       570,
+       1290
+      ]
+     ],
+     "3": [
+      [
+       570,
+       1290
+      ]
+     ],
+     "4": [
+      [
+       570,
+       1290
+      ]
+     ],
+     "5": [
+      [
+       570,
+       1290
+      ]
+     ],
+     "6": [
+      [
+       570,
+       1290
+      ]
+     ]
+    }
+   },
+   "description": "Downtown Comfort Zone Chinese Relaxing Spa in offers a peaceful setting for relaxing massage and wellness services designed to help guests unwind and recharge."
   },
   {
    "id": "downtown-dental-care",
@@ -2340,7 +5126,11 @@ window.WHATS_OPEN_DATA = {
    "subcategory": "Dental",
    "description": "Conveniently located just one block East of Mayo Clinic, we are within walking distance for downtown busy professionals. We also welcome active families with Moms, Dads, and kids on-the-go as well as individuals who are looking for efficient, up-to-date, reliable, consistent visits with comfortable results. When you visit our office, we believe you will notice a distinct difference and exceptional attention to detail in all that we do.",
    "lat": 44.021392,
-   "lng": -92.464426
+   "lng": -92.464426,
+   "hoursText": "Mon 7:30a - 2:30p\nT - Th 7:30a to 4:30p\nFriday-closed",
+   "schedule": {
+    "type": "varies"
+   }
   },
   {
    "id": "dunlap-and-seeger",
@@ -2352,7 +5142,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Legal",
    "subcategory": "Law firm",
    "lat": 44.022406,
-   "lng": -92.46005
+   "lng": -92.46005,
+   "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Dunlap & Seeger is a local law firm providing expereinced, personalized legal guidance to individuals and businesses throughout the community."
   },
   {
    "id": "eagle-store",
@@ -2365,7 +5192,43 @@ window.WHATS_OPEN_DATA = {
    "subcategory": "Retail store",
    "description": "Eagle Store is your neighborhood variety store in Rochester, MN. Our family-owned business is located just one block from the Mayo Clinic. We'll help you find what you need, and we can explain all the important information you need to know about any of the products we offer. You'll even be able to find gifts and other useful items in our extensive selection of products.",
    "lat": 44.021607,
-   "lng": -92.463398
+   "lng": -92.463398,
+   "hoursText": "Tuesday-Saturday: 10:00am to 4:00pm\nClosed: Sunday and Monday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "2": [
+      [
+       600,
+       960
+      ]
+     ],
+     "3": [
+      [
+       600,
+       960
+      ]
+     ],
+     "4": [
+      [
+       600,
+       960
+      ]
+     ],
+     "5": [
+      [
+       600,
+       960
+      ]
+     ],
+     "6": [
+      [
+       600,
+       960
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "eclipse-architecture-group",
@@ -2377,7 +5240,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Architecture",
    "lat": 44.020114,
-   "lng": -92.462956
+   "lng": -92.462956,
+   "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Eclipse Architecture Group is an architecture and design firm providing residential and commercial architecture drawing services with decades of local experience."
   },
   {
    "id": "ell-boutique",
@@ -2388,8 +5288,51 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Boutique",
-   "lat": 44.022605,
-   "lng": -92.464575
+   "lat": 44.022375,
+   "lng": -92.463097,
+   "hoursText": "Monday - Friday 10 a.m. to 6 p.m.; Saturday 10 a.m. to 4 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "6": [
+      [
+       600,
+       960
+      ]
+     ]
+    }
+   },
+   "description": "ELL Botique is a stylish shop offering a thoughtfully curated selection of clothes, accessories, and unique finds for a fun and personalized shopping expereince."
   },
   {
    "id": "experience-rochester",
@@ -2401,7 +5344,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Community and nonprofit",
    "subcategory": "Tourism bureau",
    "lat": 44.022406,
-   "lng": -92.46005
+   "lng": -92.46005,
+   "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Experience Rochester helps visitors and locals discover the best of Rochester, from dining and attractions to events and memorable experiences."
   },
   {
    "id": "eye-q-intelligent-eyewear",
@@ -2413,7 +5393,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Eyewear and optical",
    "lat": 44.023251,
-   "lng": -92.46574
+   "lng": -92.46574,
+   "hoursText": "Monday - Friday 9:30 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       570,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       570,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       570,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       570,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       570,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Eye-Q Intelligent Eyeware offers curated luxury eyeware, expert lens fittings and personalized styling to help you feel confident and comfortable in your new glasses."
   },
   {
    "id": "friends-of-the-library-bookstore",
@@ -2425,7 +5442,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Bookstore",
    "lat": 44.021607,
-   "lng": -92.4615
+   "lng": -92.4615,
+   "hoursText": "Monday - Thursday 11 a.m. to 6 p.m.; Friday - Saturday 11 a.m. to 2 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       660,
+       1080
+      ]
+     ],
+     "2": [
+      [
+       660,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       660,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       660,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       660,
+       840
+      ]
+     ],
+     "6": [
+      [
+       660,
+       840
+      ]
+     ]
+    }
+   },
+   "description": "The Friends of the Library Bookstore specializes in quality used books at reasonable prices with proceeds benefitting the Rochester Public Library."
   },
   {
    "id": "galleria-at-university-square",
@@ -2437,7 +5497,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Shopping centers and coworking",
    "subcategory": "Shopping center",
    "lat": 44.022375,
-   "lng": -92.463097
+   "lng": -92.463097,
+   "hoursText": "Monday - Friday 10 a.m. to 7 p.m.; Saturday 10 a.m. to 4 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "6": [
+      [
+       600,
+       960
+      ]
+     ]
+    }
+   },
+   "description": "Galleria at Univeristy Square is a vibrant destination featuring a mix of shopping, dining, specialty services, and local favorites, all conveniently connected to the skyway system and just steps from the Mayo Clinic."
   },
   {
    "id": "games-by-james",
@@ -2449,7 +5552,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Games and toys",
    "lat": 44.022375,
-   "lng": -92.463097
+   "lng": -92.463097,
+   "hoursText": "Monday - Friday 9:30 a.m. to 7 p.m.; Saturday 10 a.m. to 4 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       570,
+       1140
+      ]
+     ],
+     "2": [
+      [
+       570,
+       1140
+      ]
+     ],
+     "3": [
+      [
+       570,
+       1140
+      ]
+     ],
+     "4": [
+      [
+       570,
+       1140
+      ]
+     ],
+     "5": [
+      [
+       570,
+       1140
+      ]
+     ],
+     "6": [
+      [
+       600,
+       960
+      ]
+     ]
+    }
+   },
+   "description": "Games by James is a fun game store offering a large selection of board games, puzzles, brain teasers, and more for players of all ages and interests."
   },
   {
    "id": "geneticure",
@@ -2461,7 +5607,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Genetic testing",
    "lat": 44.020394,
-   "lng": -92.463883
+   "lng": -92.463883,
+   "description": "Geneticure is a precision medicine and biology company that uses genetic testing to help personalize treatment decisions and improve how patients respond to medications."
   },
   {
    "id": "ginnys-fine-fabrics",
@@ -2472,9 +5619,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Fabrics",
-   "description": "Ginny’s Fine Fabrics is the premier destination for the highest quality fabric and has been for over 49 years. Our store is bursting at the seams with every texture and color imaginable, not to mention the huge button collection!\n\nWe have the most luxurious cashmere wool, colorful linen from Italy, exquisite French lace, unique cotton prints from Japan, beautifully patterned silks and gorgeous bridal fabrics and trims.",
+   "description": "Ginny’s Fine Fabrics is the premier destination for high quality fabric and has been for over 49 years. Their store is bursting at the seams with cashmere wool, colorful linen from Italy, French lace, unique cotton prints from Japan, beautifully patterned silks and gorgeous bridal fabrics and trims.",
    "lat": 44.021392,
-   "lng": -92.4631
+   "lng": -92.4631,
+   "hoursText": "Tuesday-Saturday: 10:00am to 4:00pm\nClosed: Sunday and Monday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "2": [
+      [
+       600,
+       960
+      ]
+     ],
+     "3": [
+      [
+       600,
+       960
+      ]
+     ],
+     "4": [
+      [
+       600,
+       960
+      ]
+     ],
+     "5": [
+      [
+       600,
+       960
+      ]
+     ],
+     "6": [
+      [
+       600,
+       960
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "goodyear-auto-service-center",
@@ -2486,7 +5669,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Automotive",
    "subcategory": "Tire and auto service",
    "lat": 44.023611,
-   "lng": -92.462947
+   "lng": -92.462947,
+   "hoursText": "Monday - Friday 7 a.m. to 6 p.m.; Saturday 8 a.m. to 5 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       420,
+       1080
+      ]
+     ],
+     "2": [
+      [
+       420,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       420,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       420,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       420,
+       1080
+      ]
+     ],
+     "6": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Goodyear Auto Service Center is a full-service automotive shop offering tires, oil changes, brake repairs, alignments, diagnostics, and routine maintenance to help keep your vehicle running safely and smoothly."
   },
   {
    "id": "griot-arts",
@@ -2497,9 +5723,13 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Arts, culture and entertainment",
    "subcategory": "Arts organization",
-   "description": "Griot Arts operates a bookstore and community creative space in Rochester, MN. It is a gathering space, resource hub, and convener of diverse, intersectional arts-based programming, alliances, and events for all, while centering Black lives and experiences from across the diaspora. We believe literature and art are tools for learning, connection, healing, organizing, creativity, and radical imagination.  Centering  communities of color in our city's arts and cultural life cultivates spaces where we can all engage, grow, and transform.",
+   "description": "Griot Arts operates a bookstore and community creative space. It is a gathering space, resource hub, and convener of diverse, intersectional arts-based programming, alliances, and events for all, while centering Black lives and experiences from across the diaspora.",
    "lat": 44.024575,
-   "lng": -92.46309
+   "lng": -92.46309,
+   "hoursText": "Visit https://www.griotartsmn.com/ for current business hours.",
+   "schedule": {
+    "type": "varies"
+   }
   },
   {
    "id": "guidepoint-pharmacy",
@@ -2511,7 +5741,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Pharmacy",
    "lat": 44.025683,
-   "lng": -92.46295
+   "lng": -92.46295,
+   "hoursText": "Monday - Friday 9 a.m. to 5:30 p.m.; Saturday 9 a.m. to noon; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1050
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1050
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1050
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1050
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1050
+      ]
+     ],
+     "6": [
+      [
+       540,
+       720
+      ]
+     ]
+    }
+   },
+   "description": "GuidePoint Pharmacy is a full-service pharmacy offering prescriptions, vaccinations, health screenings, medication counseling, free local delivery, and personalized care."
   },
   {
    "id": "healing-touch-spa-at-the-hilton",
@@ -2524,7 +5797,55 @@ window.WHATS_OPEN_DATA = {
    "subcategory": "Spa",
    "description": "Healing Touch Spa supports people who value a “wellness-oriented” lifestyle reap the benefits of consistent self-care.\nWe provide education, specialty techniques, innovative treatments, and a relaxing and luxurious atmosphere unlike any other in Minnesota.",
    "lat": 44.023413,
-   "lng": -92.462859
+   "lng": -92.462859,
+   "hoursText": "Monday - Friday 9 a.m. to 9 p.m.; Saturday 9 a.m. to 6 p.m.; Sunday 12: p.m. to 7 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       720,
+       1140
+      ]
+     ],
+     "1": [
+      [
+       540,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1260
+      ]
+     ],
+     "6": [
+      [
+       540,
+       1080
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "heritage-house-victorian-museum",
@@ -2536,7 +5857,26 @@ window.WHATS_OPEN_DATA = {
    "category": "Arts, culture and entertainment",
    "subcategory": "Museum",
    "lat": 44.021251,
-   "lng": -92.4631
+   "lng": -92.4631,
+   "hoursText": "Tuesday - Wednesday 11:30 a.m. to 3:30 p.m.; Closed Monday, Thursday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "2": [
+      [
+       690,
+       930
+      ]
+     ],
+     "3": [
+      [
+       690,
+       930
+      ]
+     ]
+    }
+   },
+   "description": "Heritage House Victorian Museum offers the opportunity to see how life was lived in the 1800's with beautifully preserved rooms, period furnishings, and local history."
   },
   {
    "id": "hers",
@@ -2548,7 +5888,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Women's clothing",
    "lat": 44.022375,
-   "lng": -92.463097
+   "lng": -92.463097,
+   "hoursText": "Monday - Friday 10 a.m. to 7 p.m.; Saturday 10 a.m. to 4 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "6": [
+      [
+       600,
+       960
+      ]
+     ]
+    }
+   },
+   "description": "Hers is a botique located in The Galleria at University Square with on-trend fashion, accessories and gifts."
   },
   {
    "id": "hga-architecture",
@@ -2560,7 +5943,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Architecture",
    "lat": 44.021494,
-   "lng": -92.464429
+   "lng": -92.464429,
+   "hoursText": "Monday - Friday 8 a.m. to 5:30 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1050
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1050
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1050
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1050
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1050
+      ]
+     ]
+    }
+   },
+   "description": "HGA Architecture is a interdisciplinary design firm know for creating innovative architecture for healthcare, education, corporate, and community spaces."
   },
   {
    "id": "hilton-garden-inn",
@@ -2572,7 +5992,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Lodging",
    "subcategory": "Hotel",
    "lat": 44.021251,
-   "lng": -92.4631
+   "lng": -92.4631,
+   "description": "Hilton Garden Inn Rochester Downtown is a comfortable downtown hotel offering modern rooms, an indoor pool, fitness center, on-site dining, and convenient skyway access and transportation to nearby Mayo Clinic facilities."
   },
   {
    "id": "hilton-rochester-mayo-clinic-area",
@@ -2584,7 +6005,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Lodging",
    "subcategory": "Hotel",
    "lat": 44.023413,
-   "lng": -92.462859
+   "lng": -92.462859,
+   "description": "Hilton Rochester Mayo Clinic Area is an upscale downtown hotel offering modern accommodations, on-site dining, an indoor pool, fitness center, spa, and convenient climate-controlled skyway access to Mayo Clinic and other downtown destinations."
   },
   {
    "id": "hollandberry-pannekoeken",
@@ -2595,9 +6017,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Restaurant",
-   "description": "Enjoy deliciously hand crafted Dutch home-cooking at Hollandberry, we not only serve breakfast, but also lunch and dinner. Be sure to try one of our 20 varieties of Magnificent Muffins – baked fresh daily.",
+   "description": "Enjoy deliciously hand crafted Dutch home-cooking at Hollandberry, they not only serve breakfast, but also lunch and dinner. They have 20 varieties of Magnificent Muffins – baked fresh daily.",
    "lat": 44.025826,
-   "lng": -92.462952
+   "lng": -92.462952,
+   "hoursText": "Monday – Friday\n6:30 AM – 8:00 PM\nSaturday & Sunday\n6:30 AM – 4:00 PM",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       390,
+       960
+      ]
+     ],
+     "1": [
+      [
+       390,
+       1200
+      ]
+     ],
+     "2": [
+      [
+       390,
+       1200
+      ]
+     ],
+     "3": [
+      [
+       390,
+       1200
+      ]
+     ],
+     "4": [
+      [
+       390,
+       1200
+      ]
+     ],
+     "5": [
+      [
+       390,
+       1200
+      ]
+     ],
+     "6": [
+      [
+       390,
+       960
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "hotel-indigo-rochester-mayo-clinic-area",
@@ -2609,7 +6079,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Lodging",
    "subcategory": "Hotel",
    "lat": 44.021292,
-   "lng": -92.46294
+   "lng": -92.46294,
+   "description": "Hotel Indigo Rochester – Mayo Clinic Area is a stylish downtown hotel offering comfortable modern rooms, on-site dining, a fitness center, free Wi-Fi, and convenient skyway access to Mayo Clinic and nearby attractions."
   },
   {
    "id": "hyatt-house-rochester-mayo-clinic-area",
@@ -2621,7 +6092,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Lodging",
    "subcategory": "Hotel",
    "lat": 44.026318,
-   "lng": -92.464563
+   "lng": -92.464563,
+   "description": "Hyatt House Rochester / Mayo Clinic Area is a modern, comfortable hotel offering spacious rooms and suites with a convenient location near Mayo Clinic, making it a welcoming choice for both short and extended stays."
   },
   {
    "id": "international-spices",
@@ -2633,7 +6105,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "International grocery",
    "lat": 44.023527,
-   "lng": -92.461152
+   "lng": -92.461152,
+   "hoursText": "Monday - Saturday 9 a.m. to 8 p.m.; Sunday 10 a.m. to 4 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       600,
+       960
+      ]
+     ],
+     "1": [
+      [
+       540,
+       1200
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1200
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1200
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1200
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1200
+      ]
+     ],
+     "6": [
+      [
+       540,
+       1200
+      ]
+     ]
+    }
+   },
+   "description": "International Spices is a great spot for discovering unique spices, specialty ingredients, and international foods that bring exciting flavors to your kitchen."
   },
   {
    "id": "james-krom-natural-images-art-museum-gallery",
@@ -2644,9 +6165,13 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Arts, culture and entertainment",
    "subcategory": "Art gallery",
-   "description": "James Krom Natural Images has two galleries in Rochester, Minnesota, specializing in works by national and Upper Midwest artists that focus on capturing the majesty of nature. Through paintings, sculptures and jewelry visitors are invited to explore the unique natural beauty of the region and the country. The 150+ artists we represent express their interpretations of both the landscape and wild animals that call it home. The results allow the viewer to feel better connected to nature and all its power.",
+   "description": "James Krom Natural Images specializes in works by national and Upper Midwest artists that focus on capturing the majesty of nature. Through paintings, sculptures and jewelry visitors are invited to explore the unique natural beauty of the region and the country.",
    "lat": 44.022605,
-   "lng": -92.464575
+   "lng": -92.464575,
+   "hoursText": "MON-FRI 9-5",
+   "schedule": {
+    "type": "varies"
+   }
   },
   {
    "id": "john-kruesels-general-merchandise",
@@ -2658,7 +6183,38 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Antiques",
    "lat": 44.020395,
-   "lng": -92.463986
+   "lng": -92.463986,
+   "hoursText": "Wednesday - Saturday 1: p.m. to 5 p.m.; Closed Monday - Tuesday, Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "3": [
+      [
+       780,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       780,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       780,
+       1020
+      ]
+     ],
+     "6": [
+      [
+       780,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "John Kruesel's General Merchandise is a charming shop offering unique gifts, collectibes, antiques, and nostalgic finds with an old-fashioned atmosphere."
   },
   {
    "id": "kahler-barbershop",
@@ -2670,7 +6226,12 @@ window.WHATS_OPEN_DATA = {
    "category": "Personal care and wellness",
    "subcategory": "Barbershop",
    "lat": 44.022605,
-   "lng": -92.464575
+   "lng": -92.464575,
+   "hoursText": "Open daily open 24 hours",
+   "schedule": {
+    "type": "always"
+   },
+   "description": "Kahler Barbershop is a traditional shop offering a variety of styles from friendly barbers."
   },
   {
    "id": "kahler-grand-hotel",
@@ -2682,7 +6243,12 @@ window.WHATS_OPEN_DATA = {
    "category": "Lodging",
    "subcategory": "Hotel",
    "lat": 44.023251,
-   "lng": -92.46574
+   "lng": -92.46574,
+   "hoursText": "Open daily open 24 hours",
+   "schedule": {
+    "type": "always"
+   },
+   "description": "The Kahler Grand Hotel in Rochester, MN is a historic downtown hotel offering comfortable accommodations, on-site dining, a rooftop indoor pool, and exceptionally convenient underground access to Mayo Clinic."
   },
   {
    "id": "kathys-pub",
@@ -2694,7 +6260,84 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Pub",
    "lat": 44.020329,
-   "lng": -92.463112
+   "lng": -92.463112,
+   "hoursText": "Monday - Friday 10 a.m. to 2 a.m.; Saturday 8 a.m. to 2 a.m.; Sunday 10 a.m. to 2 a.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       0,
+       120
+      ],
+      [
+       600,
+       1440
+      ]
+     ],
+     "1": [
+      [
+       0,
+       120
+      ],
+      [
+       600,
+       1440
+      ]
+     ],
+     "2": [
+      [
+       0,
+       120
+      ],
+      [
+       600,
+       1440
+      ]
+     ],
+     "3": [
+      [
+       0,
+       120
+      ],
+      [
+       600,
+       1440
+      ]
+     ],
+     "4": [
+      [
+       0,
+       120
+      ],
+      [
+       600,
+       1440
+      ]
+     ],
+     "5": [
+      [
+       0,
+       120
+      ],
+      [
+       600,
+       1440
+      ]
+     ],
+     "6": [
+      [
+       0,
+       120
+      ],
+      [
+       480,
+       1440
+      ]
+     ]
+    }
+   },
+   "description": "Kathy's pub features a rooftop pation, pool tables, live band performances and a large slection of drinks to enjoy."
   },
   {
    "id": "kimball-g-orwoll-attorney-at-law",
@@ -2706,7 +6349,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Legal",
    "subcategory": "Law firm",
    "lat": 44.019232,
-   "lng": -92.462881
+   "lng": -92.462881,
+   "hoursText": "Monday - Thursday 8 a.m. to 5 p.m.; Friday 8 a.m. to 4 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       960
+      ]
+     ]
+    }
+   },
+   "description": "Kimball G. Orwoll is a longtime Rochester law attorney handling divorce, custody, guardianship, child protection, estate planning, and alternative dispute resolution matters."
   },
   {
    "id": "kimley-horn",
@@ -2718,7 +6398,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Engineering",
    "lat": 44.020158,
-   "lng": -92.463114
+   "lng": -92.463114,
+   "hoursText": "Monday - Thursday 7:30 a.m. to 5:30 p.m.; Friday 7: p.m. to 11:30 a.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       450,
+       1050
+      ]
+     ],
+     "2": [
+      [
+       450,
+       1050
+      ]
+     ],
+     "3": [
+      [
+       450,
+       1050
+      ]
+     ],
+     "4": [
+      [
+       450,
+       1050
+      ]
+     ],
+     "5": [
+      [
+       1140,
+       1410
+      ]
+     ]
+    }
+   },
+   "description": "Kimley-Horn is a multidisciplinary consulting firm providing engineering, planning, transportation, infrastructure, landscape architecture, and development services for public and private projects."
   },
   {
    "id": "knights-chamber",
@@ -2729,9 +6446,13 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Bar and restaurant",
-   "description": "Since opening in 1990, owner Svaar Vinje has been committed to providing customers with a great selection of unique product and an exemplary shopping experience. Our selection of goods are hand picked at the largest buying markets in the country and come from all over the world. We select suits and sport-coats that vary in price between $199 to $1999. So whether your looking for garments from casual to formal, we have it all.",
+   "description": "Knight’s Chamber is a quality men’s clothing store offering a stylish selection of casual and dress apparel, including suits, sport coats, shirts, jeans, shoes, and accessories.",
    "lat": 44.022375,
-   "lng": -92.463097
+   "lng": -92.463097,
+   "hoursText": "Monday-Friday 10AM-7PM\n\nSaturday - 10AM-4PM\n\nSunday - 12-4",
+   "schedule": {
+    "type": "varies"
+   }
   },
   {
    "id": "kraus-anderson-construction-company",
@@ -2743,7 +6464,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Construction",
    "lat": 44.018082,
-   "lng": -92.46582
+   "lng": -92.46582,
+   "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Kraus-Anderson Construciton Company provides construction services, property development and management, commercial real estate leasing and risk consulting and commerical insurance to help bring clients' ideas to fruition."
   },
   {
    "id": "kruger-law-offices-llc",
@@ -2755,7 +6513,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Legal",
    "subcategory": "Law firm",
    "lat": 44.024459,
-   "lng": -92.463197
+   "lng": -92.463197,
+   "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Kruger Law Office, LLC provides personalized legal guidance in bankruptcy, family law, divorce, and estate planning, with a focus on protecting clients' interests."
   },
   {
    "id": "larhea-boutique",
@@ -2767,7 +6562,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Boutique",
    "lat": 44.022605,
-   "lng": -92.464575
+   "lng": -92.464575,
+   "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "LaRhea Botique is a women's clothing storefilled with stylish, comfortable and unique clothing. The sales staff is friendly and ready to help people create the perfect outfit."
   },
   {
    "id": "lasker-jewelers",
@@ -2779,7 +6611,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Jewelry",
    "lat": 44.022375,
-   "lng": -92.463097
+   "lng": -92.463097,
+   "hoursText": "Mon: 10:00AM - 7:00PM\nTue - Fri: 10:00AM - 6:00PM\nSat: 10:00AM - 4:00PM\nSun: Closed",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "6": [
+      [
+       600,
+       960
+      ]
+     ]
+    }
+   },
+   "description": "Laskers Jewelers specializes in fine jewelry for any occasion. They offer a large selection of designers and styles, including customization."
   },
   {
    "id": "lenscrafters",
@@ -2791,7 +6666,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Eyewear and optical",
    "lat": 44.022375,
-   "lng": -92.463097
+   "lng": -92.463097,
+   "hoursText": "Monday - Friday 9 a.m. to 7 p.m.; Saturday 9 a.m. to 5 p.m.; Sunday 12: p.m. to 5 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       720,
+       1020
+      ]
+     ],
+     "1": [
+      [
+       540,
+       1140
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1140
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1140
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1140
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1140
+      ]
+     ],
+     "6": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "At Lenscrafters you can browse prescription glasses, sunglasses and designer frames to find the perfect pair that will leave you feeling confident and comfortable."
   },
   {
    "id": "limb-lab",
@@ -2803,7 +6727,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Prosthetics and orthotics",
    "lat": 44.019232,
-   "lng": -92.462881
+   "lng": -92.462881,
+   "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Limb Lab helps people regain comfort, mobility, and confidence through custom prosthetic and orthotic solutions tailored to their lifestyles, goals and daily activities."
   },
   {
    "id": "mango-thai",
@@ -2815,7 +6776,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Thai restaurant",
    "lat": 44.0202,
-   "lng": -92.462954
+   "lng": -92.462954,
+   "hoursText": "Monday - Thursday 11 a.m. to 9 p.m.; Friday 11 a.m. to 10 p.m.; Saturday 12: p.m. to 10 p.m.; Sunday 12: p.m. to 8 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       720,
+       1200
+      ]
+     ],
+     "1": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       660,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       720,
+       1320
+      ]
+     ]
+    }
+   },
+   "description": "At Mango Thai you will find tasty Thai dishes made with passion and care and served with frendly smiles."
   },
   {
    "id": "mayo-clinic-store",
@@ -2827,7 +6837,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Gift shop",
    "lat": 44.021493,
-   "lng": -92.46459
+   "lng": -92.46459,
+   "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "The Mayo Clinic Store is a convenient resource offering medical supplies, health and wellness products, and specialty items designed to support patients and caregivers."
   },
   {
    "id": "metropolitan-market-place",
@@ -2839,7 +6886,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Shopping centers and coworking",
    "subcategory": "Shopping center",
    "lat": 44.01796,
-   "lng": -92.464578
+   "lng": -92.464578,
+   "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Metropolitan Market Place is a  3-floor urban-style apartment complex outfitted with contemporary amenities and open living spaces."
   },
   {
    "id": "mill-creek-life-sciences",
@@ -2851,7 +6935,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Life sciences",
    "lat": 44.021293,
-   "lng": -92.464583
+   "lng": -92.464583,
+   "description": "Mill Creek Life Sciences provides tools and technologies to support the development and application of cellular and biological therapeutics."
   },
   {
    "id": "moka",
@@ -2863,7 +6948,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Coffee shop",
    "lat": 44.022402,
-   "lng": -92.464101
+   "lng": -92.464101,
+   "hoursText": "Monday - Friday 6 a.m. to 3 p.m.; Saturday - Sunday 7 a.m. to 3 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       420,
+       900
+      ]
+     ],
+     "1": [
+      [
+       360,
+       900
+      ]
+     ],
+     "2": [
+      [
+       360,
+       900
+      ]
+     ],
+     "3": [
+      [
+       360,
+       900
+      ]
+     ],
+     "4": [
+      [
+       360,
+       900
+      ]
+     ],
+     "5": [
+      [
+       360,
+       900
+      ]
+     ],
+     "6": [
+      [
+       420,
+       900
+      ]
+     ]
+    }
+   },
+   "description": "MOKA coffee is roasted by a small family owned and operated roastery. Their coffee shop sels premium coffee, espresso and tea."
   },
   {
    "id": "murakami-law-firm-llc",
@@ -2875,7 +7009,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Legal",
    "subcategory": "Law firm",
    "lat": 44.024459,
-   "lng": -92.463197
+   "lng": -92.463197,
+   "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Murakami Law Firm, LLC offers straightforward, personalized legal guidance pertaining to bankruptcy, personal injury or wrongful death."
   },
   {
    "id": "neon-green-studio",
@@ -2887,7 +7058,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Design studio",
    "lat": 44.020394,
-   "lng": -92.463883
+   "lng": -92.463883,
+   "description": "Neon Green Studio is an art stores that invites people to explore their creative side. You can drop in to make a craft or purchase a variety of pre-assembled creative kits."
   },
   {
    "id": "newts-express",
@@ -2899,7 +7071,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Burgers",
    "lat": 44.022391,
-   "lng": -92.464418
+   "lng": -92.464418,
+   "hoursText": "Monday - Friday 10:30 a.m. to 2 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       630,
+       840
+      ]
+     ],
+     "2": [
+      [
+       630,
+       840
+      ]
+     ],
+     "3": [
+      [
+       630,
+       840
+      ]
+     ],
+     "4": [
+      [
+       630,
+       840
+      ]
+     ],
+     "5": [
+      [
+       630,
+       840
+      ]
+     ]
+    }
+   },
+   "description": "Newt's Express offers a large selection of burgers, sandwiches, salads and other tasty entrees. The the meats, breads and other ingredients are fresh and prepared with care."
   },
   {
    "id": "old-rooster-antiques",
@@ -2911,7 +7120,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Antiques",
    "lat": 44.024508,
-   "lng": -92.46293
+   "lng": -92.46293,
+   "hoursText": "Open daily 10 a.m. to 5 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       600,
+       1020
+      ]
+     ],
+     "1": [
+      [
+       600,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1020
+      ]
+     ],
+     "6": [
+      [
+       600,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Old Rooster Antiques features a large selection of collectibles and antique pieces including china, pottery, jewlery, toys, tools and more."
   },
   {
    "id": "on-track-boutique",
@@ -2922,9 +7180,51 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Boutique",
-   "description": "From ultra cozy fall styles to fun and flirty  looks, On Track Boutique is here to bring you new fashions for every season.\n​Check out our boutique clothing collection for the perfect outfit. ​You can also find a great selection of accessories, shoes, home decor and gift items.",
+   "description": "At On Track Botique, you can find a great selection of accessories, shoes, home decor and gift items.",
    "lat": 44.025397,
-   "lng": -92.46295
+   "lng": -92.46295,
+   "hoursText": "Monday-Friday 10am-6pm\nSaturday  10am-4pm\nSunday    Closed",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "6": [
+      [
+       600,
+       960
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "optical-vision-w-flair",
@@ -2936,7 +7236,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Eyewear and optical",
    "lat": 44.022279,
-   "lng": -92.464419
+   "lng": -92.464419,
+   "hoursText": "Monday - Friday 10 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       600,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Optical Vision with Flair is a locally owned eyewear shop offering stylish designer frames, prescription glasses, sunglasses, lenses, and personalized fitting services."
   },
   {
    "id": "pasquales-neighborhood-pizzeria",
@@ -2947,9 +7284,51 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Pizza",
-   "description": "Pasquale's Neighborhood Pizzeria is located next to the People's Food Co-op. Chef Pasquale Presa is serving the food he grew up with....authentic NY style pizza along with simple, traditional Italian food. From Bari, Italy to New York City to Rochester; Chef Pasquale is excited to share his food and culture with you.",
+   "description": "Pasquale's Neighborhood Pizzeria serves authentic NY style pizza along with simple, traditional Italian food. From Bari, Italy to New York City to Rochester; Chef Pasquale is excited to share his food and culture with you.",
    "lat": 44.018103,
-   "lng": -92.464959
+   "lng": -92.464959,
+   "hoursText": "Monday: Closed\nTuesday: 11 am to 8 pm\nWednesday: 11 am to 8 pm\nThursday: 11 am to 8 pm\nFriday: 11 am to 8:30 pm\nSaturday: Noon to 8:30 pm\nSunday: Noon to 8 pm",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       720,
+       1200
+      ]
+     ],
+     "2": [
+      [
+       660,
+       1200
+      ]
+     ],
+     "3": [
+      [
+       660,
+       1200
+      ]
+     ],
+     "4": [
+      [
+       660,
+       1200
+      ]
+     ],
+     "5": [
+      [
+       660,
+       1230
+      ]
+     ],
+     "6": [
+      [
+       720,
+       1230
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "peoples-food-co-op",
@@ -2961,7 +7340,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Grocery co-op",
    "lat": 44.01792,
-   "lng": -92.464577
+   "lng": -92.464577,
+   "hoursText": "Open daily 8 a.m. to 9 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "1": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "6": [
+      [
+       480,
+       1260
+      ]
+     ]
+    }
+   },
+   "description": "People's Food Co-Op is a health conscious grocery store featuring local organic produceand specialty dietary options."
   },
   {
    "id": "pittsburgh-blue-steakhouse",
@@ -2973,7 +7401,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Steakhouse",
    "lat": 44.023413,
-   "lng": -92.462859
+   "lng": -92.462859,
+   "hoursText": "Open daily 3 p.m. to 10 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       900,
+       1320
+      ]
+     ],
+     "1": [
+      [
+       900,
+       1320
+      ]
+     ],
+     "2": [
+      [
+       900,
+       1320
+      ]
+     ],
+     "3": [
+      [
+       900,
+       1320
+      ]
+     ],
+     "4": [
+      [
+       900,
+       1320
+      ]
+     ],
+     "5": [
+      [
+       900,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       900,
+       1320
+      ]
+     ]
+    }
+   },
+   "description": "Pittsburgh Blue Steakhouse serves hand-cut, wet-aged beef, along with super-fresh seafood and burgers."
   },
   {
    "id": "poppi-italian-leather",
@@ -2985,7 +7462,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Leather goods",
    "lat": 44.022375,
-   "lng": -92.463097
+   "lng": -92.463097,
+   "hoursText": "Monday - Friday 10 a.m. to 6 p.m.; Saturday 10 a.m. to 4 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "6": [
+      [
+       600,
+       960
+      ]
+     ]
+    }
+   },
+   "description": "Poppi Italian Leather sells handcrafted leather bags, apparel, jewlrey & Murano glassware all made in Italy."
   },
   {
    "id": "premier-banks-minnesota",
@@ -2997,7 +7517,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Bank",
    "lat": 44.019017,
-   "lng": -92.464587
+   "lng": -92.464587,
+   "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Premier Banks is a Minnesota-based community banking organization offering personal and business banking, loans, savings, digital banking, and other financial services with an emphasis on responsive, personalized service."
   },
   {
    "id": "pure-barre",
@@ -3009,7 +7566,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Personal care and wellness",
    "subcategory": "Fitness",
    "lat": 44.018103,
-   "lng": -92.465263
+   "lng": -92.465263,
+   "hoursText": "Monday - Thursday 5 a.m. to 6:30 p.m.; Friday 5 a.m. to 5:30 p.m.; Saturday 6:30 a.m. to 10:30 a.m.; Sunday 7:30 a.m. to 4 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       450,
+       960
+      ]
+     ],
+     "1": [
+      [
+       300,
+       1110
+      ]
+     ],
+     "2": [
+      [
+       300,
+       1110
+      ]
+     ],
+     "3": [
+      [
+       300,
+       1110
+      ]
+     ],
+     "4": [
+      [
+       300,
+       1110
+      ]
+     ],
+     "5": [
+      [
+       300,
+       1050
+      ]
+     ],
+     "6": [
+      [
+       390,
+       630
+      ]
+     ]
+    }
+   },
+   "description": "Pure Barre helps you reach your fitness goals through engaging classes to help you strengthen your mind and body."
   },
   {
    "id": "qdoba-mexican-eats",
@@ -3021,7 +7627,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Fast casual",
    "lat": 44.023423,
-   "lng": -92.465514
+   "lng": -92.465514,
+   "hoursText": "Monday - Friday 8 a.m. to 9 p.m.; Saturday - Sunday 10:30 a.m. to 9 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       630,
+       1260
+      ]
+     ],
+     "1": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "6": [
+      [
+       630,
+       1260
+      ]
+     ]
+    }
+   },
+   "description": "Qdoba Mexican Eatsis a fast-casual Mexican restaurant serving customizable bowls, burritos, tacos, salads crafted with fresh ingredients."
   },
   {
    "id": "redwood-room",
@@ -3033,7 +7688,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Restaurant",
    "lat": 44.026457,
-   "lng": -92.46441
+   "lng": -92.46441,
+   "hoursText": "Tuesday - Saturday 5 p.m. to 10 p.m.; Closed Monday, Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "2": [
+      [
+       1020,
+       1320
+      ]
+     ],
+     "3": [
+      [
+       1020,
+       1320
+      ]
+     ],
+     "4": [
+      [
+       1020,
+       1320
+      ]
+     ],
+     "5": [
+      [
+       1020,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       1020,
+       1320
+      ]
+     ]
+    }
+   },
+   "description": "The Redwood Room is a cozy restaurant serving new American cuisine with global influences. It's ambiance makes it ideal for any dining occasion."
   },
   {
    "id": "restovich-braun-and-associates",
@@ -3045,7 +7737,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Engineering and surveying",
    "lat": 44.023527,
-   "lng": -92.461255
+   "lng": -92.461255,
+   "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Restovich Braun and Associates provides legal services related to personal injury, family law, criminal defense, employment law, estate planning, business law, administrative law, appeals and nursing license defense."
   },
   {
    "id": "rochester-art-center",
@@ -3057,7 +7786,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Arts, culture and entertainment",
    "subcategory": "Art museum",
    "lat": 44.022406,
-   "lng": -92.46005
+   "lng": -92.46005,
+   "hoursText": "Monday 6 p.m. to 8 p.m.; Wednesday - Sunday 11 a.m. to 4 p.m.; Closed Tuesday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       660,
+       960
+      ]
+     ],
+     "1": [
+      [
+       1080,
+       1200
+      ]
+     ],
+     "3": [
+      [
+       660,
+       960
+      ]
+     ],
+     "4": [
+      [
+       660,
+       960
+      ]
+     ],
+     "5": [
+      [
+       660,
+       960
+      ]
+     ],
+     "6": [
+      [
+       660,
+       960
+      ]
+     ]
+    }
+   },
+   "description": "Rochester Art Center is a contemporary art museum featuring rotating exhibitions from local, regional, national, and international artists along with creative programs and community events."
   },
   {
    "id": "rochester-civic-theatre",
@@ -3069,7 +7841,32 @@ window.WHATS_OPEN_DATA = {
    "category": "Arts, culture and entertainment",
    "subcategory": "Theater",
    "lat": 44.022406,
-   "lng": -92.46005
+   "lng": -92.46005,
+   "hoursText": "Wednesday - Friday noon to 2 p.m.; Closed Monday - Tuesday, Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "3": [
+      [
+       720,
+       840
+      ]
+     ],
+     "4": [
+      [
+       720,
+       840
+      ]
+     ],
+     "5": [
+      [
+       720,
+       840
+      ]
+     ]
+    }
+   },
+   "description": "Rochester Civic Theatre is a downtown performing arts venue bringing the Rochester community together through live theatre, musicals, comedy, music, dance, education, and local performance opportunities."
   },
   {
    "id": "rochester-framing-and-fine-art-printing",
@@ -3081,7 +7878,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Framing and printing",
    "lat": 44.019232,
-   "lng": -92.462881
+   "lng": -92.462881,
+   "description": "Rochester Framing & Fine Art Printing uses traditional techniques and industry standards to provide quality printing and framing. Their design team includes artists, photographers, graphic designers, engineers, and business professionals."
   },
   {
    "id": "rochester-home-infusion",
@@ -3093,7 +7891,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Healthcare",
    "subcategory": "Home infusion",
    "lat": 44.021293,
-   "lng": -92.464583
+   "lng": -92.464583,
+   "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Rochester home infusion is a specialty home and alternate-site infusion provider with 24/7 pharmacy and nursing services."
   },
   {
    "id": "rochester-marriott-mayo-clinic-area",
@@ -3105,7 +7940,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Lodging",
    "subcategory": "Hotel",
    "lat": 44.022605,
-   "lng": -92.464575
+   "lng": -92.464575,
+   "description": "Rochester Marriott Mayo Clinic Area is an upscale downtown hotel offering modern accommodations, on-site dining and event spaces, with convenient climate-controlled subway and skyway access to Mayo Clinic and nearby attractions."
   },
   {
    "id": "rochester-public-library",
@@ -3117,7 +7953,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Community and nonprofit",
    "subcategory": "Library",
    "lat": 44.021607,
-   "lng": -92.4615
+   "lng": -92.4615,
+   "hoursText": "Monday - Thursday 10 a.m. to 8 p.m.; Friday - Sunday 10 a.m. to 6 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "1": [
+      [
+       600,
+       1200
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1200
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1200
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1200
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "6": [
+      [
+       600,
+       1080
+      ]
+     ]
+    }
+   },
+   "description": "In addition to books, the Rochester Public Library offers a variety of local events and services and resources to the community."
   },
   {
    "id": "rodney-d-anderson-law-office-llc",
@@ -3129,7 +8014,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Legal",
    "subcategory": "Law firm",
    "lat": 44.021432,
-   "lng": -92.46294
+   "lng": -92.46294,
+   "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Rodney D. Anderson Law Office, LLC, helps families and individuals navigate the complexities of estate law by crafting personalized plans that address your unique needs."
   },
   {
    "id": "rowan-international-grocery",
@@ -3141,7 +8063,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "International grocery",
    "lat": 44.024457,
-   "lng": -92.46309
+   "lng": -92.46309,
+   "hoursText": "Open daily 9 a.m. to 10 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       540,
+       1320
+      ]
+     ],
+     "1": [
+      [
+       540,
+       1320
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1320
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1320
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1320
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       540,
+       1320
+      ]
+     ]
+    }
+   },
+   "description": "Rowan International Grocery sells a variety of international food, spices and drinks that align with various dietary restrictions and preferences."
   },
   {
    "id": "rsm",
@@ -3153,7 +8124,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Accounting and consulting",
    "lat": 44.020285,
-   "lng": -92.462953
+   "lng": -92.462953,
+   "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "RSM provides growth-oriented, internationally active organizations with tailored, innovative solutions for a complex and changing world."
   },
   {
    "id": "rsp-architects",
@@ -3165,7 +8173,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Architecture",
    "lat": 44.020179,
-   "lng": -92.462955
+   "lng": -92.462955,
+   "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "RSP Architects provides architectual, master planning, interior design and workplace strategy services."
   },
   {
    "id": "rs-pizza",
@@ -3177,7 +8222,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Pizza",
    "lat": 44.022375,
-   "lng": -92.463097
+   "lng": -92.463097,
+   "hoursText": "Monday - Friday 8 a.m. to 8 p.m.; Saturday 11 a.m. to 3:30 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1200
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1200
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1200
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1200
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1200
+      ]
+     ],
+     "6": [
+      [
+       660,
+       930
+      ]
+     ]
+    }
+   },
+   "description": "R’s Pizza is a casual downtown Rochester pizza spot located in the Galleria’s skyway level, offering a convenient place to grab pizza and other Italian-inspired favorites."
   },
   {
    "id": "saabir-travel-agency",
@@ -3189,7 +8277,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Travel agency",
    "lat": 44.024457,
-   "lng": -92.46309
+   "lng": -92.46309,
+   "hoursText": "Monday - Friday 11:30 a.m. to 8 p.m.; Saturday 11 a.m. to 6 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       690,
+       1200
+      ]
+     ],
+     "2": [
+      [
+       690,
+       1200
+      ]
+     ],
+     "3": [
+      [
+       690,
+       1200
+      ]
+     ],
+     "4": [
+      [
+       690,
+       1200
+      ]
+     ],
+     "5": [
+      [
+       690,
+       1200
+      ]
+     ],
+     "6": [
+      [
+       660,
+       1080
+      ]
+     ]
+    }
+   },
+   "description": "Saabir Travel Agency offers travel planning services to help you make the most out of your trip."
   },
   {
    "id": "salad-brothers-cafe-and-deli",
@@ -3201,7 +8332,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Deli",
    "lat": 44.022375,
-   "lng": -92.463097
+   "lng": -92.463097,
+   "hoursText": "Monday - Friday 9 a.m. to 6 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1080
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1080
+      ]
+     ]
+    }
+   },
+   "description": "Salad Brothers Café and Deli makes healthy soups, breads and salads with fast and friedly service."
   },
   {
    "id": "saladworks",
@@ -3213,7 +8381,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Salads and bowls",
    "lat": 44.022605,
-   "lng": -92.464575
+   "lng": -92.464575,
+   "hoursText": "Monday - Friday 10 a.m. to 3 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       600,
+       900
+      ]
+     ],
+     "2": [
+      [
+       600,
+       900
+      ]
+     ],
+     "3": [
+      [
+       600,
+       900
+      ]
+     ],
+     "4": [
+      [
+       600,
+       900
+      ]
+     ],
+     "5": [
+      [
+       600,
+       900
+      ]
+     ]
+    }
+   },
+   "description": "Saladworks is a casual conter service eatery that offers signature wraps, paninis, soups and build your own salads."
   },
   {
    "id": "schmitt-automotive-repair",
@@ -3225,7 +8430,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Automotive",
    "subcategory": "Auto repair",
    "lat": 44.024474,
-   "lng": -92.46293
+   "lng": -92.46293,
+   "hoursText": "Monday - Friday 7:30 a.m. to 5:30 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       450,
+       1050
+      ]
+     ],
+     "2": [
+      [
+       450,
+       1050
+      ]
+     ],
+     "3": [
+      [
+       450,
+       1050
+      ]
+     ],
+     "4": [
+      [
+       450,
+       1050
+      ]
+     ],
+     "5": [
+      [
+       450,
+       1050
+      ]
+     ]
+    }
+   },
+   "description": "Schmitt Automotive Repair is an independent shop that can help with a range of automotive issues, from basic tune-ups to engine and transmission replacement."
   },
   {
    "id": "semva-art-gallery",
@@ -3237,7 +8479,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Arts, culture and entertainment",
    "subcategory": "Art gallery",
    "lat": 44.023251,
-   "lng": -92.46574
+   "lng": -92.46574,
+   "hoursText": "Monday 10 a.m. to 5 p.m.; Tuesday - Friday 10 a.m. to 8 p.m.; Saturday 10 a.m. to 5 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       600,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1200
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1200
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1200
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1200
+      ]
+     ],
+     "6": [
+      [
+       600,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "SEMVA art gallery is where passion meets fine art. They are a nonprofit cooperative dedicated to showcasing and supporting local artists."
   },
   {
    "id": "soma",
@@ -3249,7 +8534,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Women's clothing",
    "lat": 44.022375,
-   "lng": -92.463097
+   "lng": -92.463097,
+   "hoursText": "Monday - Friday 10 a.m. to 7 p.m.; Saturday 10 a.m. to 5 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "6": [
+      [
+       600,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Soma in is a women’s apparel boutique specializing in comfortable, stylish lingerie, bras, sleepwear, and loungewear with an emphasis on fit and everyday confidence."
   },
   {
    "id": "stifel-nicolaus-financial",
@@ -3261,7 +8589,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Investments",
    "lat": 44.022446,
-   "lng": -92.462939
+   "lng": -92.462939,
+   "hoursText": "Monday - Friday 8:30 a.m. to 4 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       510,
+       960
+      ]
+     ],
+     "2": [
+      [
+       510,
+       960
+      ]
+     ],
+     "3": [
+      [
+       510,
+       960
+      ]
+     ],
+     "4": [
+      [
+       510,
+       960
+      ]
+     ],
+     "5": [
+      [
+       510,
+       960
+      ]
+     ]
+    }
+   },
+   "description": "Stifel Nicolaus Financial works to understand your unique financial objectives so they can develop a strategy specific to your long term financial goals."
   },
   {
    "id": "suk-law-firm",
@@ -3273,7 +8638,38 @@ window.WHATS_OPEN_DATA = {
    "category": "Legal",
    "subcategory": "Law firm",
    "lat": 44.023527,
-   "lng": -92.462905
+   "lng": -92.462905,
+   "hoursText": "Monday - Thursday 8:30 a.m. to 5 p.m.; Closed Friday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       510,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Suk Law Firm represents serious injury cases, wrongful death, auto accidents, car wrecks, trucking accidents and other types of injuries."
   },
   {
    "id": "talbots",
@@ -3285,7 +8681,56 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Women's clothing",
    "lat": 44.022375,
-   "lng": -92.463097
+   "lng": -92.463097,
+   "hoursText": "Monday - Friday 10 a.m. to 7 p.m.; Saturday 10 a.m. to 5:30 p.m.; Sunday noon to 5 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       720,
+       1020
+      ]
+     ],
+     "1": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "6": [
+      [
+       600,
+       1050
+      ]
+     ]
+    }
+   },
+   "description": "Talbots is a women's apparel chain offering workwear, dresses, casual clothes, shoes and accessories in classic styles."
   },
   {
    "id": "tea-time",
@@ -3297,7 +8742,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Tea shop",
    "lat": 44.023251,
-   "lng": -92.46574
+   "lng": -92.46574,
+   "hoursText": "Monday - Saturday 11 a.m. to 7 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       660,
+       1140
+      ]
+     ],
+     "2": [
+      [
+       660,
+       1140
+      ]
+     ],
+     "3": [
+      [
+       660,
+       1140
+      ]
+     ],
+     "4": [
+      [
+       660,
+       1140
+      ]
+     ],
+     "5": [
+      [
+       660,
+       1140
+      ]
+     ],
+     "6": [
+      [
+       660,
+       1140
+      ]
+     ]
+    }
+   },
+   "description": "Tea Time bubble tea blends traditional recipes with exciting modern twists. They offer a variety of refreshing options to enjoy."
   },
   {
    "id": "terza-ristorante",
@@ -3309,7 +8797,12 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Italian restaurant",
    "lat": 44.020389,
-   "lng": -92.462721
+   "lng": -92.462721,
+   "hoursText": "Sunday- Thursday 3pm – 9pm\nBar open until 10pm\nFriday & Saturday 3pm-10pm",
+   "schedule": {
+    "type": "varies"
+   },
+   "description": "Terza Ristorante celebrates the flavors of Italy while being committed to using sustainable, responsible ingredients."
   },
   {
    "id": "tessas-office-wine-and-spirit-boutique",
@@ -3321,7 +8814,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Wine bar",
    "lat": 44.020394,
-   "lng": -92.463883
+   "lng": -92.463883,
+   "hoursText": "Monday - Saturday noon to 8 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       720,
+       1200
+      ]
+     ],
+     "2": [
+      [
+       720,
+       1200
+      ]
+     ],
+     "3": [
+      [
+       720,
+       1200
+      ]
+     ],
+     "4": [
+      [
+       720,
+       1200
+      ]
+     ],
+     "5": [
+      [
+       720,
+       1200
+      ]
+     ],
+     "6": [
+      [
+       720,
+       1200
+      ]
+     ]
+    }
+   },
+   "description": "Tessa’s Office Wine & Spirits Boutique is a welcoming local shop offering a thoughtfully curated selection of wines, spirits, and unique bottles for every taste and occasion."
   },
   {
    "id": "thai-garden",
@@ -3334,7 +8870,43 @@ window.WHATS_OPEN_DATA = {
    "subcategory": "Thai restaurant",
    "description": "Thai Garden provides delicious, authentic Thai food at your convenience. Select from the assortment of ready to serve meals and dine in at the court .",
    "lat": 44.022391,
-   "lng": -92.464418
+   "lng": -92.464418,
+   "hoursText": "Mon - Fri : 11am-2pm",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       660,
+       840
+      ]
+     ],
+     "2": [
+      [
+       660,
+       840
+      ]
+     ],
+     "3": [
+      [
+       660,
+       840
+      ]
+     ],
+     "4": [
+      [
+       660,
+       840
+      ]
+     ],
+     "5": [
+      [
+       660,
+       840
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "thaipop",
@@ -3347,7 +8919,11 @@ window.WHATS_OPEN_DATA = {
    "subcategory": "Thai restaurant",
    "description": "ThaiPop started as a pop-up restaurant. It has changed in scale and scope, location and menu, but has always been an expression of Annie’s passion for cooking and community.",
    "lat": 44.020394,
-   "lng": -92.463883
+   "lng": -92.463883,
+   "hoursText": "Monday—4-9\nTuesday—11-9\nWednesday—11-9\nThursday—11-9\nFriday—11-10\nSaturday—11-10\nSunday—closed",
+   "schedule": {
+    "type": "varies"
+   }
   },
   {
    "id": "the-blackridge-group-at-morgan-stanley",
@@ -3359,7 +8935,8 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Investments",
    "lat": 44.021493,
-   "lng": -92.463266
+   "lng": -92.463266,
+   "description": "The BlackRidge Group is a wealth management team providing personalized financial planning, investment management, retirement, business succession, and legacy strategies for individuals, families, and business owners."
   },
   {
    "id": "the-castle",
@@ -3370,9 +8947,51 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Arts, culture and entertainment",
    "subcategory": "Event and arts venue",
-   "description": "Nestled in the heart of downtown Rochester, The Castle Lounge & Venue is more than just a building—it’s a piece of history. Originally built in 1916 as an armory for Minnesota’s National Guard, this iconic structure served the community for decades before becoming Rochester’s Senior Center.\n\nToday, The Castle has been reimagined as a vibrant event space, where the past meets the present.",
+   "description": "The Castle  is a beautifully restored historic downtown landmark featuring event spaces, fine dining, and a wine and whiskey lounge in a distinctive setting filled with local history and character.",
    "lat": 44.024626,
-   "lng": -92.46309
+   "lng": -92.46309,
+   "hoursText": "Monday - Thursday 4 p.m. to 9 p.m.; Friday - Saturday 4 p.m. to 10 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       960,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       960,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       960,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       960,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       960,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       960,
+       1320
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "the-machine-shed",
@@ -3383,9 +9002,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Bar",
-   "description": "We are your local arcade full of classic arcade games. We buy and trade more video games than anyone else in town. Stop in to see our large showroom of classic and newer video games. Bring in your console systems and video game controllers for repair.",
+   "description": "The Machine Shed  is a retro gaming destination featuring classic arcade games, vintage and modern video games and consoles, and repair services for gaming systems and accessories.",
    "lat": 44.025407,
-   "lng": -92.462412
+   "lng": -92.462412,
+   "hoursText": "Noon till 8pm, 7 days a week",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       720,
+       1200
+      ]
+     ],
+     "1": [
+      [
+       720,
+       1200
+      ]
+     ],
+     "2": [
+      [
+       720,
+       1200
+      ]
+     ],
+     "3": [
+      [
+       720,
+       1200
+      ]
+     ],
+     "4": [
+      [
+       720,
+       1200
+      ]
+     ],
+     "5": [
+      [
+       720,
+       1200
+      ]
+     ],
+     "6": [
+      [
+       720,
+       1200
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "the-nordic-shop",
@@ -3396,9 +9063,13 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Gift shop",
-   "description": "If you find yourself in Rochester, MN you will find us located on the Skyway Level in the Shops at University Square in the Heart of Downtown Rochester and across the Peace Plaza from the Mayo Clinic.  The Nordic Shop is open 7 days a week and 5 nights a week for your convenience.  The Nordic Shop is a unique Northern European Lifestyle shopping experience found only in Northern Europe with brands such as; Dale of Norway, Oleana, Helly Hansen, Fjellraven, Hestra, Amundsen, and many more.",
+   "description": "The Nordic Shop is a charming Scandinavian specialty store offering authentic Nordic clothing, Norwegian sweaters, jewelry, home goods, gifts, and distinctive Scandinavian brands.",
    "lat": 44.022375,
-   "lng": -92.463097
+   "lng": -92.463097,
+   "hoursText": "Mon ~ Fri: 10:00-7:00 CT\nSaturday: 10:00-4:00 CT\nSunday: Closed",
+   "schedule": {
+    "type": "varies"
+   }
   },
   {
    "id": "the-tap-house",
@@ -3409,9 +9080,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Bar",
-   "description": "The Tap House recognizes the true \"labor of love\" craft brewing exhibits, and takes pride in doing our part to ensure the freshest, small batch craft beer is celebrated.  Rotating beers to reflect seasons and special-release beers remains a top priority. Weekly deliveries help ensure the process.",
+   "description": "The Tap House is a bar known for its wide selection of seasonal and specialty release beers on rotation, handcrafted burgers, street tacos, appatizers and other tasty foods.",
    "lat": 44.020394,
-   "lng": -92.463917
+   "lng": -92.463917,
+   "hoursText": "Monday - Thursday 2 p.m. to 11 p.m.; Friday - Saturday 2 p.m. to midnight; Sunday 2 p.m. to 11 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       840,
+       1380
+      ]
+     ],
+     "1": [
+      [
+       840,
+       1380
+      ]
+     ],
+     "2": [
+      [
+       840,
+       1380
+      ]
+     ],
+     "3": [
+      [
+       840,
+       1380
+      ]
+     ],
+     "4": [
+      [
+       840,
+       1380
+      ]
+     ],
+     "5": [
+      [
+       840,
+       1440
+      ]
+     ],
+     "6": [
+      [
+       840,
+       1440
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "the-towers-at-the-kahler-grand",
@@ -3423,7 +9142,12 @@ window.WHATS_OPEN_DATA = {
    "category": "Lodging",
    "subcategory": "Hotel",
    "lat": 44.023251,
-   "lng": -92.46574
+   "lng": -92.46574,
+   "hoursText": "Open 24 hours",
+   "schedule": {
+    "type": "always"
+   },
+   "description": "The Towers at the Kahler Grand offers an upscale hotel experience with elegant rooms and suites, personalized concierge service, an exclusive lounge, and convenient underground access to Mayo Clinic."
   },
   {
    "id": "think-bank",
@@ -3435,7 +9159,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Bank",
    "lat": 44.021293,
-   "lng": -92.464583
+   "lng": -92.464583,
+   "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Think Bank is a customer-owned community bank offering personal and business checking, savings, loans, digital banking, and personalized financial guidance."
   },
   {
    "id": "threshold-arts",
@@ -3447,7 +9208,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Arts, culture and entertainment",
    "subcategory": "Arts organization",
    "lat": 44.020287,
-   "lng": -92.463112
+   "lng": -92.463112,
+   "hoursText": "Wednesday 11 a.m. to 3 p.m.; Thursday noon to 8 p.m.; Friday - Saturday 10 a.m. to 6 p.m.; Sunday 11 a.m. to 3 p.m.; Closed Monday - Tuesday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       660,
+       900
+      ]
+     ],
+     "3": [
+      [
+       660,
+       900
+      ]
+     ],
+     "4": [
+      [
+       720,
+       1200
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "6": [
+      [
+       600,
+       1080
+      ]
+     ]
+    }
+   },
+   "description": "Threshold Arts is dedicated to elevating artists and providing enriching art experiences. Their store features a selection of art and handmade items from more than fifty local vendors."
   },
   {
    "id": "title-services-inc",
@@ -3459,7 +9257,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Title services",
    "lat": 44.020389,
-   "lng": -92.462721
+   "lng": -92.462721,
+   "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Title Services, Inc. is a provider of commerical real estate title and closing services to help businesses, developers, and financial institutions navigate complex real estate transactions."
   },
   {
    "id": "townsquare-media",
@@ -3471,7 +9306,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Media",
    "lat": 44.019223,
-   "lng": -92.464873
+   "lng": -92.464873,
+   "hoursText": "Monday - Friday 9 a.m. to 4 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       960
+      ]
+     ],
+     "2": [
+      [
+       540,
+       960
+      ]
+     ],
+     "3": [
+      [
+       540,
+       960
+      ]
+     ],
+     "4": [
+      [
+       540,
+       960
+      ]
+     ],
+     "5": [
+      [
+       540,
+       960
+      ]
+     ]
+    }
+   },
+   "description": "Townsquare Media provides customized, cross-platform, customer-oriented marketing and adverstising solutions."
   },
   {
    "id": "treedome-productions",
@@ -3483,7 +9355,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Professional services",
    "subcategory": "Media production",
    "lat": 44.020308,
-   "lng": -92.463112
+   "lng": -92.463112,
+   "hoursText": "Tuesday - Saturday 11 a.m. to 7 p.m.; Sunday 11 a.m. to 6 p.m.; Closed Monday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       660,
+       1080
+      ]
+     ],
+     "2": [
+      [
+       660,
+       1140
+      ]
+     ],
+     "3": [
+      [
+       660,
+       1140
+      ]
+     ],
+     "4": [
+      [
+       660,
+       1140
+      ]
+     ],
+     "5": [
+      [
+       660,
+       1140
+      ]
+     ],
+     "6": [
+      [
+       660,
+       1140
+      ]
+     ]
+    }
+   },
+   "description": "Treedome brings together traditional music and street culture with the local music scene, and bespoke pieces."
   },
   {
    "id": "university-of-minnesota-bookstores-rochester",
@@ -3495,7 +9410,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Retail",
    "subcategory": "Bookstore",
    "lat": 44.022027,
-   "lng": -92.462934
+   "lng": -92.462934,
+   "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "The University of Minnesota Bookstore offers the region's largest selection of University of Minnesota fashions, gifts, and collectibles for U of M family and friends."
   },
   {
    "id": "u-s-bank-4th-street-office",
@@ -3507,7 +9459,50 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Bank",
    "lat": 44.019203,
-   "lng": -92.46443
+   "lng": -92.46443,
+   "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Saturday 9 a.m. to noon; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "6": [
+      [
+       540,
+       720
+      ]
+     ]
+    }
+   },
+   "description": "U.S. Bank offers convenient personal and business banking services, including checking and savings accounts, loans and mortgages, financial guidance, and online and mobile banking."
   },
   {
    "id": "victorias-ristorante-and-wine-bar",
@@ -3518,9 +9513,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Italian restaurant",
-   "description": "Victoria's Restaurant in Rochester Mn was born October 28th, 1997 - Founded by Sid & Natalie Victoria and Sam & Maria Servin. We live, work and attend local schools right here in Rochester. We are passionate about serving fresh, scratch-made Italian favorites - All of our sauces are made in-house, as well as our pizza, desserts, and a few pastas.  We strive for excellence and settle for nothing less.",
+   "description": "Victoria's Ristorante and Wine Bar makes all of their sauces in-house, as well as their pizza, desserts, and a few pastas.  They have an extensive selection of nice wine to choose from for your meal.",
    "lat": 44.023374,
-   "lng": -92.46457
+   "lng": -92.46457,
+   "hoursText": "Monday - Saturday, 10:30 am - 9:00 pm\n\nSunday, 3:00 pm - 9:00pm",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       900,
+       1260
+      ]
+     ],
+     "1": [
+      [
+       630,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       630,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       630,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       630,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       630,
+       1260
+      ]
+     ],
+     "6": [
+      [
+       630,
+       1260
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "wabi-sabi-express",
@@ -3532,7 +9575,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Food and drink",
    "subcategory": "Asian restaurant",
    "lat": 44.022391,
-   "lng": -92.464418
+   "lng": -92.464418,
+   "hoursText": "Monday - Thursday 10:30 a.m. to 5 p.m.; Friday 10:30 a.m. to 3:30 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       630,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       630,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       630,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       630,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       630,
+       930
+      ]
+     ]
+    }
+   },
+   "description": "Wabi Sabi Express has a tasty menu featuring Japanese poke, rice bowls, ramen, sushi and bubble tea."
   },
   {
    "id": "wells-fargo",
@@ -3544,7 +9624,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Financial",
    "subcategory": "Bank",
    "lat": 44.022516,
-   "lng": -92.464121
+   "lng": -92.464121,
+   "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Wells Fargo offers personal and business banking services, including checking and savings accounts, credit cards, loans, mortgages, investments, and convenient digital banking."
   },
   {
    "id": "wendland-and-utz-law-firm",
@@ -3556,7 +9673,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Legal",
    "subcategory": "Law firm",
    "lat": 44.022516,
-   "lng": -92.464121
+   "lng": -92.464121,
+   "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Wendland and Utz Law Firm specializes in personal injury, workers compensation, medical malpractice and wrongful death law."
   },
   {
    "id": "yanowitz-law",
@@ -3568,7 +9722,44 @@ window.WHATS_OPEN_DATA = {
    "category": "Legal",
    "subcategory": "Law firm",
    "lat": 44.020395,
-   "lng": -92.463963
+   "lng": -92.463963,
+   "hoursText": "Monday - Friday 8 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   },
+   "description": "Yanowitz Law provides legal services for wills & trusts, probate & estate administration, fixed price probate, real estate, special needs planning, business law, and guardianship & conservatorship."
   },
   {
    "id": "507-social",
@@ -3579,9 +9770,51 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Bar",
-   "description": "Indoor entertainment and social venue offering games and activities.",
+   "description": "507 Social is an indoor entertainment venue featuring tactical laser tag, mini golf, interactive darts, and group-friendly activities for parties, date nights, and fun outings.",
    "lat": 44.021494,
-   "lng": -92.490413
+   "lng": -92.490413,
+   "hoursText": "Tuesday - Thursday 5 p.m. to 9 p.m.; Friday noon to 9 p.m.; Saturday 10 a.m. to 9 p.m.; Sunday 10 a.m. to 6 p.m.; Closed Monday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "2": [
+      [
+       1020,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       1020,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       1020,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       720,
+       1260
+      ]
+     ],
+     "6": [
+      [
+       600,
+       1260
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "adara-home-health",
@@ -3592,9 +9825,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Healthcare",
    "subcategory": "Home health",
-   "description": "Home health provider offering nursing, therapy and support in patients' homes.",
+   "description": "Adara Home Health provides compassionate, personalized in-home care including skilled nursing, therapy, home health aide, homemaking, and pediatric services to help clients live safely and comfortably at home.",
    "lat": 44.021262,
-   "lng": -92.493803
+   "lng": -92.493803,
+   "hoursText": "Monday - Friday 8:00 a.m. to 5:00 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "ageless-esthetics-medspa",
@@ -3605,9 +9874,51 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Personal care and wellness",
    "subcategory": "Medspa",
-   "description": "Medspa offering skin care and aesthetic services.",
+   "description": "Ageless Esthetics Medspa is a medical aesthetics and skincare destination offering personalized treatments such as injectables, laser services, microneedling, chemical peels, body contouring, and medical-grade skincare.",
    "lat": 44.021568,
-   "lng": -92.497065
+   "lng": -92.497065,
+   "hoursText": "Mon 10 AM-3 PM; Tue 9 AM-5 PM; Wed 9 AM-7 PM; Thu 10 AM-7 PM; Fri 10 AM-5 PM; Sat 9 AM-1:30 PM; Sun closed.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       600,
+       900
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1140
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1020
+      ]
+     ],
+     "6": [
+      [
+       540,
+       810
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "all-around-accounting-inc",
@@ -3620,7 +9931,43 @@ window.WHATS_OPEN_DATA = {
    "subcategory": "Accounting",
    "description": "Accounting firm offering tax preparation, bookkeeping, payroll and business accounting.",
    "lat": 44.021657,
-   "lng": -92.49396
+   "lng": -92.49396,
+   "hoursText": "Mon-Fri 8 AM-4 PM.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       960
+      ]
+     ],
+     "2": [
+      [
+       480,
+       960
+      ]
+     ],
+     "3": [
+      [
+       480,
+       960
+      ]
+     ],
+     "4": [
+      [
+       480,
+       960
+      ]
+     ],
+     "5": [
+      [
+       480,
+       960
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "allstate-insurance",
@@ -3631,9 +9978,13 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Insurance",
-   "description": "Insurance agency offering personal and business coverage.",
+   "description": "Allstate Insurance is a national insurance provider offering coverage such as auto, home, renters, motorcycle, and life insurance, along with personalized options to help protect individuals and families.",
    "lat": 44.021543,
-   "lng": -92.490645
+   "lng": -92.490645,
+   "hoursText": "M-F 8-5 (Previously reported; confirm current hours and days.)",
+   "schedule": {
+    "type": "varies"
+   }
   },
   {
    "id": "altra-federal-credit-union",
@@ -3644,9 +9995,13 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Credit union",
-   "description": "Credit union offering personal and business banking services.",
+   "description": "Altra Federal Credit Union is a member-owned, not-for-profit financial cooperative offering personal and business banking, loans, mortgages, financial advising, and convenient member services.",
    "lat": 44.022335,
-   "lng": -92.486016
+   "lng": -92.486016,
+   "hoursText": "9-5:30 (Previously reported; confirm current hours and days.)",
+   "schedule": {
+    "type": "varies"
+   }
   },
   {
    "id": "amy-swain-hearing-centers",
@@ -3657,9 +10012,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Healthcare",
    "subcategory": "Hearing care",
-   "description": "Hearing care practice offering hearing evaluations and hearing aid services.",
+   "description": "Amy Swain Hearing Centers provides personalized hearing care, including hearing evaluations, hearing aid consultations and fittings, earwax removal, and other audiology services tailored to each patient’s needs.",
    "lat": 44.021568,
-   "lng": -92.497065
+   "lng": -92.497065,
+   "hoursText": "Mon-Thu 8:30 AM-5 PM; Fri 8:30 AM-noon.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       510,
+       720
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "arrowhealth-medical-supply",
@@ -3670,9 +10061,65 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Healthcare",
    "subcategory": "Medical supply",
-   "description": "Medical equipment and supply business; confirm current services and operator.",
+   "description": "Arrowhealth Medical Supply provides home medical equipment and supplies to help patients manage their care comfortably at home.",
    "lat": 44.021262,
-   "lng": -92.493803
+   "lng": -92.493803,
+   "hoursText": "Monday - Friday 9 a.m. to noon and 1 p.m. to 4 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       720
+      ],
+      [
+       780,
+       960
+      ]
+     ],
+     "2": [
+      [
+       540,
+       720
+      ],
+      [
+       780,
+       960
+      ]
+     ],
+     "3": [
+      [
+       540,
+       720
+      ],
+      [
+       780,
+       960
+      ]
+     ],
+     "4": [
+      [
+       540,
+       720
+      ],
+      [
+       780,
+       960
+      ]
+     ],
+     "5": [
+      [
+       540,
+       720
+      ],
+      [
+       780,
+       960
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "asian-style-massage",
@@ -3683,9 +10130,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Personal care and wellness",
    "subcategory": "Massage",
-   "description": "Massage therapy business.",
+   "description": "Asian Style Massage LLC is a massage spa offering personalized relaxation and therapeutic bodywork, including full-body, couples, deep-tissue, oil, and futon massage services designed to ease stress and muscle tension.",
    "lat": 44.021543,
-   "lng": -92.492307
+   "lng": -92.492307,
+   "hoursText": "Open daily 8 a.m. to 10 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       480,
+       1320
+      ]
+     ],
+     "1": [
+      [
+       480,
+       1320
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1320
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1320
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1320
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       480,
+       1320
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "aspen-select",
@@ -3696,9 +10191,13 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Lodging",
    "subcategory": "Hotel",
-   "description": "Hotel near Mayo Clinic's Saint Marys campus.",
+   "description": "Aspen Select Hotel is a comfortable, affordable hotel directly across from Mayo Clinic’s Saint Marys Campus, offering complimentary breakfast, parking, Wi-Fi, fitness facilities, and free shuttle service to Mayo Clinic locations.",
    "lat": 44.021687,
-   "lng": -92.481634
+   "lng": -92.481634,
+   "hoursText": "Open 24 hours",
+   "schedule": {
+    "type": "always"
+   }
   },
   {
    "id": "barnes-massage-therapy",
@@ -3709,9 +10208,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Personal care and wellness",
    "subcategory": "Massage",
-   "description": "Massage therapy practice.",
+   "description": "Barnes Massage Therapy offers customized therapeutic masagges with a focus on relaxation, pain relief, and helping clients maintain natural body balance.",
    "lat": 44.021543,
-   "lng": -92.490645
+   "lng": -92.490645,
+   "hoursText": "Mon noon-7 PM; Tue closed; Wed 10 AM-3 PM; Thu noon-7 PM; Fri 10 AM-3 PM; Sat 10 AM-4 PM; Sun closed. (Source listing; confirm with business.)",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       720,
+       1140
+      ]
+     ],
+     "3": [
+      [
+       600,
+       900
+      ]
+     ],
+     "4": [
+      [
+       720,
+       1140
+      ]
+     ],
+     "5": [
+      [
+       600,
+       900
+      ]
+     ],
+     "6": [
+      [
+       600,
+       960
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "beetles-bar-and-grill",
@@ -3722,9 +10257,133 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Bar and grill",
-   "description": "Locally owned bar and grill serving lunch, dinner and drinks.",
+   "description": "Beetle’s Bar & Grill is a family-friendly sports bar serving burgers, broasted chicken, wraps, steaks, and cold drinks.",
    "lat": 44.021262,
-   "lng": -92.493803
+   "lng": -92.493803,
+   "hoursText": "Sun-Thu 11 AM-midnight; Fri-Sat 11 AM-1 AM. Kitchen: Sun-Wed 11 AM-10 PM; Thu-Sat 11 AM-11 PM.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       0,
+       60
+      ],
+      [
+       660,
+       1320
+      ],
+      [
+       660,
+       1440
+      ],
+      [
+       660,
+       1440
+      ]
+     ],
+     "1": [
+      [
+       0,
+       60
+      ],
+      [
+       660,
+       1320
+      ],
+      [
+       660,
+       1440
+      ],
+      [
+       660,
+       1440
+      ]
+     ],
+     "2": [
+      [
+       0,
+       60
+      ],
+      [
+       660,
+       1320
+      ],
+      [
+       660,
+       1440
+      ],
+      [
+       660,
+       1440
+      ]
+     ],
+     "3": [
+      [
+       0,
+       60
+      ],
+      [
+       660,
+       1320
+      ],
+      [
+       660,
+       1440
+      ],
+      [
+       660,
+       1440
+      ]
+     ],
+     "4": [
+      [
+       0,
+       60
+      ],
+      [
+       660,
+       1380
+      ],
+      [
+       660,
+       1440
+      ]
+     ],
+     "5": [
+      [
+       660,
+       1320
+      ],
+      [
+       660,
+       1380
+      ],
+      [
+       660,
+       1440
+      ]
+     ],
+     "6": [
+      [
+       0,
+       60
+      ],
+      [
+       660,
+       1320
+      ],
+      [
+       660,
+       1380
+      ],
+      [
+       660,
+       1440
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "aqui",
@@ -3735,9 +10394,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Restaurant",
-   "description": "Coffee shop inside Sargent's on 2nd serving coffee, refreshments and baked goods.",
+   "description": "Café Aquí is a cozy coffee shop inside Sargent’s on 2nd offering espresso drinks, house-made baked goods, ice cream.",
    "lat": 44.021657,
-   "lng": -92.49073
+   "lng": -92.49073,
+   "hoursText": "Mon-Fri 8 AM-7 PM; Sat 8 AM-5 PM; Sun 9 AM-5 PM.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "1": [
+      [
+       480,
+       1140
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1140
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1140
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1140
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1140
+      ]
+     ],
+     "6": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "cafe-steam-saint-marys",
@@ -3748,9 +10455,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Coffee shop",
-   "description": "Cafe Steam's Saint Marys-area coffee shop.",
+   "description": "Cafe Steam at Saint Marys is a welcoming coffee spot serving quality coffee, espresso drinks, and refreshments in a convenient location near the Saint Marys medical campus.",
    "lat": 44.021693,
-   "lng": -92.479959
+   "lng": -92.479959,
+   "hoursText": "6:30 am - 7 pm (Previously reported; confirm current hours and days.)",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       390,
+       1140
+      ]
+     ],
+     "1": [
+      [
+       390,
+       1140
+      ]
+     ],
+     "2": [
+      [
+       390,
+       1140
+      ]
+     ],
+     "3": [
+      [
+       390,
+       1140
+      ]
+     ],
+     "4": [
+      [
+       390,
+       1140
+      ]
+     ],
+     "5": [
+      [
+       390,
+       1140
+      ]
+     ],
+     "6": [
+      [
+       390,
+       1140
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "central-bark",
@@ -3761,9 +10516,13 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Pet care",
-   "description": "Dog care business offering daycare, boarding, grooming and related services.",
+   "description": "Central Bark provides a fun and caring environment for dogs with services designed to support their exercise, socialization, and overall well-being.",
    "lat": 44.021502,
-   "lng": -92.488903
+   "lng": -92.488903,
+   "hoursText": "Mon-Fri 6:30 AM-6:30 PM; Sat 8 AM-5 PM; Sun by appointment.",
+   "schedule": {
+    "type": "varies"
+   }
   },
   {
    "id": "chabad-of-southern-minnesota",
@@ -3774,9 +10533,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Community and nonprofit",
    "subcategory": "Place of worship",
-   "description": "Jewish community organization serving Rochester residents and Mayo Clinic visitors.",
+   "description": "Chabad of Southern Minnesota is a welcoming Jewish community organization offering religious services, education, holiday celebrations, and programs that foster Jewish life and connection throughout the region.",
    "lat": 44.021545,
-   "lng": -92.473643
+   "lng": -92.473643,
+   "hoursText": "Monday - Thursday 8 a.m. to 6 p.m.; Friday 8 a.m. to noon; Saturday 10 a.m. to 2 p.m.; Sunday 8 a.m. to 6 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       480,
+       1080
+      ]
+     ],
+     "1": [
+      [
+       480,
+       1080
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       480,
+       720
+      ]
+     ],
+     "6": [
+      [
+       600,
+       840
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "cherryberry",
@@ -3787,9 +10594,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Frozen yogurt",
-   "description": "Self-serve frozen yogurt shop with a selection of flavors and toppings.",
+   "description": "CherryBerry is a fun, family-friendly frozen yogurt shop offering a variety of flavors and toppings for a sweet treat customized just the way you like it.",
    "lat": 44.022335,
-   "lng": -92.486016
+   "lng": -92.486016,
+   "hoursText": "Daily 11 AM-10 PM. (Source listing; confirm with business.)",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       660,
+       1320
+      ]
+     ],
+     "1": [
+      [
+       660,
+       1320
+      ]
+     ],
+     "2": [
+      [
+       660,
+       1320
+      ]
+     ],
+     "3": [
+      [
+       660,
+       1320
+      ]
+     ],
+     "4": [
+      [
+       660,
+       1320
+      ]
+     ],
+     "5": [
+      [
+       660,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       660,
+       1320
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "circle-k",
@@ -3800,9 +10655,13 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Convenience store",
-   "description": "Convenience store and fuel station.",
+   "description": "Circle K is a convenient stop for fuel, snacks, drinks, coffee, and everyday essentials while you’re on the go.",
    "lat": 44.021577,
-   "lng": -92.486015
+   "lng": -92.486015,
+   "hoursText": "Open 24 hours",
+   "schedule": {
+    "type": "always"
+   }
   },
   {
    "id": "clayton-thomas-blinds-of-rochester",
@@ -3813,9 +10672,13 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Window coverings",
-   "description": "Window treatment business offering blinds, shades, shutters and related services.",
+   "description": "Clayton Thomas Blinds offers customized window treatments designed to add privacy, comfort, and a polished look to homes and businesses.",
    "lat": 44.021262,
-   "lng": -92.493803
+   "lng": -92.493803,
+   "hoursText": "Hours not confirmed; contact business.",
+   "schedule": {
+    "type": "varies"
+   }
   },
   {
    "id": "construction-collaborative",
@@ -3826,7 +10689,7 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Construction",
-   "description": "Design-build and construction business.",
+   "description": "Construction Collaborative provides professional construction and project services with a team-focused approach to creating functional, high-quality spaces for clients.",
    "lat": 44.021503,
    "lng": -92.488693
   },
@@ -3839,9 +10702,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Insurance",
-   "description": "COUNTRY Financial representative listed in the corridor inventory; confirm current affiliation.",
+   "description": "COUNTRY Financial provides personalized insurance, investment, and financial planning services to help individuals and families protect what matters and plan for the future.",
    "lat": 44.021657,
-   "lng": -92.49396
+   "lng": -92.49396,
+   "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "joy-edge-country-financial-rep",
@@ -3852,9 +10751,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Insurance",
-   "description": "COUNTRY Financial representative listed in the corridor inventory; confirm current affiliation.",
+   "description": "COUNTRY Financial provides personalized insurance, investment, and financial planning services to help individuals and families protect what matters and plan for the future.",
    "lat": 44.021657,
-   "lng": -92.49396
+   "lng": -92.49396,
+   "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "mitchell-leistikow-country-financial-representative",
@@ -3865,9 +10800,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Insurance",
-   "description": "COUNTRY Financial representative listed in the corridor inventory; confirm current affiliation.",
+   "description": "COUNTRY Financial provides personalized insurance, investment, and financial planning services to help individuals and families protect what matters and plan for the future.",
    "lat": 44.021657,
-   "lng": -92.49396
+   "lng": -92.49396,
+   "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "ryan-ford-country-financial-representative",
@@ -3878,9 +10849,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Insurance",
-   "description": "COUNTRY Financial representative listed in the corridor inventory; confirm current affiliation.",
+   "description": "COUNTRY Financial provides personalized insurance, investment, and financial planning services to help individuals and families protect what matters and plan for the future.",
    "lat": 44.021657,
-   "lng": -92.49396
+   "lng": -92.49396,
+   "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "country-financial",
@@ -3891,9 +10898,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Insurance",
-   "description": "Insurance and financial services office.",
+   "description": "COUNTRY Financial provides personalized insurance, investment, and financial planning services to help individuals and families protect what matters and plan for the future.",
    "lat": 44.021657,
-   "lng": -92.49396
+   "lng": -92.49396,
+   "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "courtyard-by-marriott-rochester-mayo-clinic-area-saint-marys",
@@ -3904,7 +10947,7 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Lodging",
    "subcategory": "Hotel",
-   "description": "Courtyard hotel near Mayo Clinic's Saint Marys campus.",
+   "description": "Courtyard by Marriott Rochester Mayo Clinic Area/Saint Marys offers comfortable accommodations and convenient amenities in a prime location near Mayo Clinic’s Saint Marys Campus.",
    "lat": 44.022013,
    "lng": -92.48347
   },
@@ -3917,7 +10960,7 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Lodging",
    "subcategory": "Short-term rental",
-   "description": "Provider of furnished short-term rentals for Rochester visitors.",
+   "description": "Covered by Faith Short-Term Rentals offers comfortable, welcoming temporary accommodations for visitors seeking a convenient home-away-from-home during their stay.",
    "lat": 44.023567,
    "lng": -92.483577
   },
@@ -3930,9 +10973,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Healthcare",
    "subcategory": "Dental",
-   "description": "Dental clinic offering general and cosmetic dental care.",
+   "description": "Crystal Dental Clinic provides friendly, personalized dental care focused on helping patients maintain healthy, confident smiles.",
    "lat": 44.021543,
-   "lng": -92.490645
+   "lng": -92.490645,
+   "hoursText": "Monday 7:00 a.m. to 4:00 p.m.; Tuesday 7:00 a.m. to 6:00 p.m.; Wednesday 7:00 a.m. to 4:00 p.m.; Thursday 9:00 a.m. to 5:00 p.m.; Friday 7:00 a.m. to 2:00 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       420,
+       960
+      ]
+     ],
+     "2": [
+      [
+       420,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       420,
+       960
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       420,
+       840
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "dick-thomsen-state-farm",
@@ -3943,7 +11022,7 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Insurance",
-   "description": "State Farm insurance agency.",
+   "description": "State Farm provides personalized insurance and financial services to help individuals and families protect their homes, vehicles, finances, and future.",
    "lat": 44.021546,
    "lng": -92.473738
   },
@@ -3956,9 +11035,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Legal",
    "subcategory": "Law firm",
-   "description": "Law practice listed in the corridor inventory; confirm current firm name and services.",
+   "description": "DiFiore Law provides personalized legal guidance and representation, helping clients navigate their legal needs with confidence and care.",
    "lat": 44.021543,
-   "lng": -92.49071
+   "lng": -92.49071,
+   "hoursText": "Monday - Friday 9 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "discover-strength-rochester",
@@ -3969,9 +11084,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Personal care and wellness",
    "subcategory": "Fitness",
-   "description": "Fitness studio offering supervised strength training.",
+   "description": "Discover Strength Rochester offers efficient, personalized strength-training workouts led by expert exercise physiologists to help clients get stronger, feel healthier, and make the most of their fitness time.",
    "lat": 44.02139,
-   "lng": -92.48408
+   "lng": -92.48408,
+   "hoursText": "Monday - Friday 5:30 a.m. to 8:00 p.m.; Saturday - Sunday 7:30 a.m. to 1:30 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       450,
+       810
+      ]
+     ],
+     "1": [
+      [
+       330,
+       1200
+      ]
+     ],
+     "2": [
+      [
+       330,
+       1200
+      ]
+     ],
+     "3": [
+      [
+       330,
+       1200
+      ]
+     ],
+     "4": [
+      [
+       330,
+       1200
+      ]
+     ],
+     "5": [
+      [
+       330,
+       1200
+      ]
+     ],
+     "6": [
+      [
+       450,
+       810
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "dm-downtown-rochester-communities",
@@ -3982,7 +11145,7 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Residential",
    "subcategory": "Apartments",
-   "description": "Property management and rental-community business listed in the corridor inventory.",
+   "description": "DM Downtown Rochester Communities offers convenient, comfortable housing options designed to help residents enjoy connected living near the heart of Rochester, MN.",
    "lat": 44.021543,
    "lng": -92.471573
   },
@@ -3995,9 +11158,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Investments",
-   "description": "Edward Jones financial advisor office.",
+   "description": "Edward Jones provides personalized financial guidance and investment services to help individuals and families plan for retirement, build wealth, and work toward their long-term financial goals.",
    "lat": 44.021568,
-   "lng": -92.497065
+   "lng": -92.497065,
+   "hoursText": "Monday - Friday 8:00 a.m. to 4:00 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       960
+      ]
+     ],
+     "2": [
+      [
+       480,
+       960
+      ]
+     ],
+     "3": [
+      [
+       480,
+       960
+      ]
+     ],
+     "4": [
+      [
+       480,
+       960
+      ]
+     ],
+     "5": [
+      [
+       480,
+       960
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "engel-and-volkers",
@@ -4008,9 +11207,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Real estate",
-   "description": "Real estate office serving buyers and sellers.",
+   "description": "Engel & Völkers provides professional real estate services with personalized guidance to help clients confidently buy and sell homes.",
    "lat": 44.021657,
-   "lng": -92.492307
+   "lng": -92.492307,
+   "hoursText": "Monday - Friday 9:00 a.m. to 5:00 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "enliven-psych-and-health",
@@ -4021,9 +11256,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Healthcare",
    "subcategory": "Mental health",
-   "description": "Mental health practice offering counseling and psychological services.",
+   "description": "Enliven Psych + Health provides compassionate, personalized mental health and wellness services designed to support each client’s overall well-being.",
    "lat": 44.021595,
-   "lng": -92.497792
+   "lng": -92.497792,
+   "hoursText": "Monday - Friday 9:00 a.m. to 5:00 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "farmers-insurance",
@@ -4034,9 +11305,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Insurance",
-   "description": "Farmers Insurance agency.",
+   "description": "Farmers Insurance offers personalized coverage options for auto, home, life, and business insurance, helping local customers protect what matters most.",
    "lat": 44.021262,
-   "lng": -92.493803
+   "lng": -92.493803,
+   "hoursText": "Monday - Friday 8:30 a.m. to 5 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       510,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "full-circle-financial",
@@ -4047,9 +11354,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Financial planning",
-   "description": "Financial planning and advisory business.",
+   "description": "Full Circle Financial provides personalized financial guidance and planning services designed to help individuals and families work toward greater financial confidence and long-term goals.",
    "lat": 44.021595,
-   "lng": -92.489331
+   "lng": -92.489331,
+   "hoursText": "Monday - Thursday 8 a.m. to 4 p.m.; Friday 8 a.m. to 3 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       960
+      ]
+     ],
+     "2": [
+      [
+       480,
+       960
+      ]
+     ],
+     "3": [
+      [
+       480,
+       960
+      ]
+     ],
+     "4": [
+      [
+       480,
+       960
+      ]
+     ],
+     "5": [
+      [
+       480,
+       900
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "gift-of-life-transplant-house",
@@ -4060,9 +11403,39 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Community and nonprofit",
    "subcategory": "Patient hospitality house",
-   "description": "Nonprofit lodging for transplant patients and their caregivers.",
+   "description": "Gift of Life Transplant House provides a welcoming, supportive home-away-from-home for transplant patients and their families while receiving medical care.",
    "lat": 44.021657,
-   "lng": -92.47301
+   "lng": -92.47301,
+   "hoursText": "Monday - Thursday 7:30 a.m. to 5:30 p.m.; Friday - Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       450,
+       1050
+      ]
+     ],
+     "2": [
+      [
+       450,
+       1050
+      ]
+     ],
+     "3": [
+      [
+       450,
+       1050
+      ]
+     ],
+     "4": [
+      [
+       450,
+       1050
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "grandeville-at-cascade-lake",
@@ -4073,9 +11446,51 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Residential",
    "subcategory": "Senior living",
-   "description": "Residential rental community listed as Grandeville at Cascade Lake; confirm current branding.",
+   "description": "GrandeVille at Cascade Lake offers comfortable apartment living in a welcoming community with convenient access to shopping, dining, recreation, and everyday essentials.",
    "lat": 44.023421,
-   "lng": -92.501944
+   "lng": -92.501944,
+   "hoursText": "Monday 1:00 p.m. to 6:00 p.m.; Tuesday - Thursday 10:00 a.m. to 6:00 p.m.; Friday 10:00am to 5:00 p.m.; Saturday 10:00 a.m. to 4:00 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       780,
+       1080
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1020
+      ]
+     ],
+     "6": [
+      [
+       600,
+       960
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "gryff-apartments",
@@ -4086,9 +11501,13 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Residential",
    "subcategory": "Apartments",
-   "description": "Residential apartment community.",
+   "description": "Gryff Apartments offers comfortable, modern apartment living in a convenient location with easy access to the city’s shopping, dining, and everyday amenities.",
    "lat": 44.021657,
-   "lng": -92.492762
+   "lng": -92.492762,
+   "hoursText": "Open daily open 24 hours",
+   "schedule": {
+    "type": "always"
+   }
   },
   {
    "id": "hair-artist-salon",
@@ -4099,9 +11518,51 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Personal care and wellness",
    "subcategory": "Hair salon",
-   "description": "Hair salon listed in the corridor inventory.",
+   "description": "Hair Artist Salon offers personalized hair services in a welcoming salon environment, helping clients look and feel their best.",
    "lat": 44.021543,
-   "lng": -92.492242
+   "lng": -92.492242,
+   "hoursText": "Monday - Thursday 9 a.m. to 7 p.m.; Friday 9 a.m. to 4 p.m.; Saturday 8 a.m. to 2 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1140
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1140
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1140
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1140
+      ]
+     ],
+     "5": [
+      [
+       540,
+       960
+      ]
+     ],
+     "6": [
+      [
+       480,
+       840
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "hanger-clinic",
@@ -4112,9 +11573,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Healthcare",
    "subcategory": "Prosthetics and orthotics",
-   "description": "Hanger Clinic location listed in the source inventory; confirm whether this address remains active.",
-   "lat": 44.022019,
-   "lng": -92.464582
+   "description": "Hanger Clinic provides personalized prosthetic and orthotic care designed to help patients improve mobility, comfort, and independence.",
+   "lat": 44.022809,
+   "lng": -92.49915,
+   "hoursText": "Mon-Fri 8 AM-5 PM.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "helpcare-clinic",
@@ -4125,9 +11622,49 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Healthcare",
    "subcategory": "Clinic",
-   "description": "Membership-based primary care clinic.",
+   "description": "HELPcare Clinic provides compassionate, accessible healthcare services focused on supporting the health and well-being of individuals and families in the community.",
    "lat": 44.021568,
-   "lng": -92.497065
+   "lng": -92.497065,
+   "hoursText": "Monday - Tuesday 8:00 am to 5:00 p.m.; Tuesday 8:00 a.m. to 5:00 p.m.; Wednesday 9:00 a.m. to 5:00 p.m.; Thursday 8:00 a.m. to 11:00 a.m; Friday 8:00 a.m. to 5:00 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ],
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       660
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "highland-townhomes",
@@ -4138,7 +11675,7 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Residential",
    "subcategory": "Townhomes",
-   "description": "Residential townhome community.",
+   "description": "Highland Townhomes offers comfortable, community-focused townhome living with convenient access to shopping, dining, schools, and other local amenities.",
    "lat": 44.021596,
    "lng": -92.497815
   },
@@ -4151,7 +11688,7 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Lodging",
    "subcategory": "Hotel",
-   "description": "Holiday Inn Express hotel near Mayo Clinic's Saint Marys campus.",
+   "description": "Holiday Inn Express offers a comfortable and convenient stay with modern rooms, friendly service, and easy access to local attractions, dining, and the Mayo Clinic.",
    "lat": 44.022062,
    "lng": -92.486013
   },
@@ -4164,7 +11701,7 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Lodging",
    "subcategory": "Hotel",
-   "description": "Homewood Suites extended-stay hotel near Mayo Clinic's Saint Marys campus.",
+   "description": "Homewood Suites by Hilton Rochester Mayo Clinic Area/Saint Marys is an extended-stay hotel across from Saint Marys Hospital offering spacious suites with full kitchens, free hot breakfast and Wi-Fi, an indoor pool, and convenient access to Mayo Clinic.",
    "lat": 44.021983,
    "lng": -92.483472
   },
@@ -4179,7 +11716,49 @@ window.WHATS_OPEN_DATA = {
    "subcategory": "Bar and grill",
    "description": "Restaurant serving Philly cheesesteaks, sandwiches and related menu items.",
    "lat": 44.021789,
-   "lng": -92.486011
+   "lng": -92.486011,
+   "hoursText": "Mon-Sat 11 AM-9 PM; Sun closed.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       660,
+       1260
+      ]
+     ],
+     "6": [
+      [
+       660,
+       1260
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "joes-liquor",
@@ -4190,9 +11769,13 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Liquor store",
-   "description": "Liquor retailer.",
+   "description": "Joe’s Liquor is a neighborhood liquor store offering a selection of beer, wine, and spirits for a variety of tastes and occasions.",
    "lat": 44.021543,
-   "lng": -92.49234
+   "lng": -92.49234,
+   "hoursText": "Monday - Thursday 10:00 a.m. to 8:00 p.m.; Friday - Saturday 10:00 a.m. to 10:00 p.m.; Sunday 11:00 a.m. to 6:00",
+   "schedule": {
+    "type": "varies"
+   }
   },
   {
    "id": "kfc",
@@ -4203,9 +11786,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Fast food",
-   "description": "Quick-service restaurant serving fried chicken and related menu items.",
+   "description": "KFC is a popular fast-food restaurant best known for its signature fried chicken, chicken sandwiches, tenders, biscuits, and classic homestyle sides.",
    "lat": 44.021573,
-   "lng": -92.485637
+   "lng": -92.485637,
+   "hoursText": "Monday - Sunday 10:30 a.m. to 10:00 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       630,
+       1320
+      ]
+     ],
+     "1": [
+      [
+       630,
+       1320
+      ]
+     ],
+     "2": [
+      [
+       630,
+       1320
+      ]
+     ],
+     "3": [
+      [
+       630,
+       1320
+      ]
+     ],
+     "4": [
+      [
+       630,
+       1320
+      ]
+     ],
+     "5": [
+      [
+       630,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       630,
+       1320
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "kitchen-refresh",
@@ -4216,9 +11847,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Home remodeling",
-   "description": "Kitchen remodeling business.",
+   "description": "Kitchen Refresh specializes in fast, affordable kitchen updates, including cabinet makeovers, new doors and drawer fronts, countertops, backsplashes, and custom design improvements without requiring a complete remodel.",
    "lat": 44.021543,
-   "lng": -92.490678
+   "lng": -92.490678,
+   "hoursText": "Monday - Friday 8:00 a.m. to 5:00 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "kwik-trip",
@@ -4229,9 +11896,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Convenience store",
-   "description": "Convenience store and fuel station.",
+   "description": "Kwik Trip is a convenient neighborhood gas station and convenience store offering fuel, fresh coffee, hot food, snacks, groceries, and everyday essentials.",
    "lat": 44.021657,
-   "lng": -92.494631
+   "lng": -92.494631,
+   "hoursText": "Monday - Sunday 5:00 a.m. to 11:00 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       300,
+       1380
+      ]
+     ],
+     "1": [
+      [
+       300,
+       1380
+      ]
+     ],
+     "2": [
+      [
+       300,
+       1380
+      ]
+     ],
+     "3": [
+      [
+       300,
+       1380
+      ]
+     ],
+     "4": [
+      [
+       300,
+       1380
+      ]
+     ],
+     "5": [
+      [
+       300,
+       1380
+      ]
+     ],
+     "6": [
+      [
+       300,
+       1380
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "landmark-financial",
@@ -4242,9 +11957,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Financial planning",
-   "description": "Financial advisory office listed as Landmark Financial.",
+   "description": "Landmark Financial Partners is a private wealth advisory practice of Ameriprise Financial Services offering personalized financial planning, investment management, retirement, tax, estate, and wealth-preservation strategies.",
    "lat": 44.021657,
-   "lng": -92.49396
+   "lng": -92.49396,
+   "hoursText": "Monday - Thursday 8:30 a.m. to 5:00 p.m.; Friday 8:30 a.m. to 3:00 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       510,
+       900
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "lasata-salon-and-spa",
@@ -4255,9 +12006,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Personal care and wellness",
    "subcategory": "Salon and spa",
-   "description": "Salon and spa offering hair and personal care services.",
+   "description": "Lasata Salon & Spa is a full-service beauty and wellness salon offering personalized hair care, skincare, waxing, massage, body treatments, and nail services in a relaxing setting.",
    "lat": 44.021543,
-   "lng": -92.494135
+   "lng": -92.494135,
+   "hoursText": "Closed Monday; Tuesday - Wednesday 7:30 a.m. to 8:00 p.m.; Thursday 7:30 a.m. to 6:00 p.m.; Friday 7:30 a.m. to 4:30 p.m.; Saturday 8:00 a.m. to 2:00 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "2": [
+      [
+       450,
+       1200
+      ]
+     ],
+     "3": [
+      [
+       450,
+       1200
+      ]
+     ],
+     "4": [
+      [
+       450,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       450,
+       990
+      ]
+     ],
+     "6": [
+      [
+       480,
+       840
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "marias-apartments",
@@ -4268,7 +12055,7 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Residential",
    "subcategory": "Apartments",
-   "description": "Apartment property identified in the corridor inventory as employee housing; confirm public listing suitability.",
+   "description": "The Maria Apartments is a newly remodeled apartment community directly across from Mayo Clinic’s Saint Marys Hospital, offering modern finishes, secured access, on-site laundry, and furnished-unit options.",
    "lat": 44.021693,
    "lng": -92.479865
   },
@@ -4281,9 +12068,21 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Community and nonprofit",
    "subcategory": "Fraternal organization",
-   "description": "Masonic meeting facility.",
+   "description": "Rochester Lodge is a local Masonic fraternity centered on brotherhood, personal growth, charitable service, scholarships, and giving back to the Rochester community.",
    "lat": 44.021543,
-   "lng": -92.493985
+   "lng": -92.493985,
+   "hoursText": "Monday 5:00 p.m. to 9:00 p.m.; Closed Tuesday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       1020,
+       1260
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "mcalisters-deli",
@@ -4294,9 +12093,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Deli",
-   "description": "Deli serving sandwiches, salads, baked potatoes and beverages, with catering options.",
+   "description": "McAlister's Deli serves sandwiches, salads, baked potatoes and beverages, with catering options.",
    "lat": 44.022335,
-   "lng": -92.486016
+   "lng": -92.486016,
+   "hoursText": "Monday - Sunday 10:00 a.m. to 9:00 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       600,
+       1260
+      ]
+     ],
+     "1": [
+      [
+       600,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1260
+      ]
+     ],
+     "6": [
+      [
+       600,
+       1260
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "mcdonalds",
@@ -4307,9 +12154,13 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Fast food",
-   "description": "Quick-service restaurant serving burgers, breakfast and beverages.",
+   "description": "McDonald’s is a popular fast-food restaurant known for its burgers, fries, chicken, breakfast favorites, and convenient dine-in, drive-thru, and takeout options.",
    "lat": 44.021687,
-   "lng": -92.485389
+   "lng": -92.485389,
+   "hoursText": "Open daily open 24 hours",
+   "schedule": {
+    "type": "always"
+   }
   },
   {
    "id": "moments-hospice",
@@ -4320,9 +12171,13 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Healthcare",
    "subcategory": "Hospice",
-   "description": "Hospice care provider supporting patients and families.",
+   "description": "Moments Hospice provides compassionate end-of-life care focused on comfort, dignity, and personalized support for patients and their families.",
    "lat": 44.021543,
-   "lng": -92.49071
+   "lng": -92.49071,
+   "hoursText": "Open daily open 24 hours",
+   "schedule": {
+    "type": "always"
+   }
   },
   {
    "id": "mp-kaye-homes",
@@ -4333,7 +12188,7 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Home builder",
-   "description": "Custom home building business.",
+   "description": "M.P. Kaye Builders is a custom home builder specializing in personalized new construction, remodeling, additions, and commercial projects with an emphasis on quality craftsmanship and unique design.",
    "lat": 44.021262,
    "lng": -92.493803
   },
@@ -4346,9 +12201,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Automotive",
    "subcategory": "Auto repair",
-   "description": "Automotive repair business focused on muffler and exhaust services.",
+   "description": "The Muffler Center is a locally owned, family-operated auto shop specializing in muffler repairs, replacements, and complete exhaust-system services with same-day service and free estimates.",
    "lat": 44.021657,
-   "lng": -92.49106
+   "lng": -92.49106,
+   "hoursText": "Monday - Friday 8:00 a.m. to 5:00 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "nautical-bowls",
@@ -4359,9 +12250,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Acai bowls",
-   "description": "Restaurant serving acai and other superfood bowls and smoothies.",
+   "description": "Nautical Bowls is a healthy fast-casual restaurant serving fresh, customizable açaí and superfood bowls and smoothies made with plant-based, gluten-free, dairy-free, and soy-free ingredients.",
    "lat": 44.021262,
-   "lng": -92.493803
+   "lng": -92.493803,
+   "hoursText": "Daily 8 AM-9 PM.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "1": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "6": [
+      [
+       480,
+       1260
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "nerdin-out",
@@ -4372,9 +12311,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Games and collectibles",
-   "description": "Retailer of comic books, toys, games and collectibles.",
+   "description": "Nerdin Out is a fun collectibles shop offering comics, action figures, trading cards, toys, games, and pop-culture treasures for fans and collectors.",
    "lat": 44.021494,
-   "lng": -92.490413
+   "lng": -92.490413,
+   "hoursText": "Monday - Tuesday 10:00 a.m. to 7:00 p.m.; Wednesday 10:00 a.m. to 9:00 p.m.; Thursday 10:00 a.m. to 7:00 p.m.; Friday 10:00 a.m. to 9:00 p.m.; Saturday 10:00 a.m. to 9:00 p.m.; Sunday 10:00 a.m. to 6:00 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "1": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1140
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1260
+      ]
+     ],
+     "6": [
+      [
+       600,
+       1260
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "nietz-tax-and-accounting",
@@ -4385,9 +12372,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Tax and accounting",
-   "description": "Tax preparation and accounting business.",
+   "description": "Nietz Tax & Accounting LLC is a local accounting firm providing tax preparation, bookkeeping, and accounting services for individuals and businesses",
    "lat": 44.021543,
-   "lng": -92.494211
+   "lng": -92.494211,
+   "hoursText": "Monday - Friday 8:00 a.m. to 4:30 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       990
+      ]
+     ],
+     "2": [
+      [
+       480,
+       990
+      ]
+     ],
+     "3": [
+      [
+       480,
+       990
+      ]
+     ],
+     "4": [
+      [
+       480,
+       990
+      ]
+     ],
+     "5": [
+      [
+       480,
+       990
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "northwestern-mutual",
@@ -4398,9 +12421,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Financial planning",
-   "description": "Financial planning and insurance office.",
+   "description": "Northwestern Mutual provides personalized financial planning, investment and wealth-management strategies, retirement guidance, and insurance solutions to help individuals and families work toward long-term financial security.",
    "lat": 44.021683,
-   "lng": -92.49894
+   "lng": -92.49894,
+   "hoursText": "Monday - Friday 8:00 a.m. to 5:00 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "pathway-house",
@@ -4411,9 +12470,13 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Community and nonprofit",
    "subcategory": "Supportive housing",
-   "description": "Recovery and sober-living organization.",
+   "description": "Pathway House provides licensed residential substance-use treatment and supportive, drug-free living for adults, helping clients build recovery skills, independence, and a successful return to community life.",
    "lat": 44.021657,
-   "lng": -92.471324
+   "lng": -92.471324,
+   "hoursText": "Open daily open 24 hours",
+   "schedule": {
+    "type": "always"
+   }
   },
   {
    "id": "pella-windows-and-doors",
@@ -4424,9 +12487,51 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Windows and doors",
-   "description": "Window and door showroom offering replacement products and related services.",
+   "description": "Pella Windows & Doors of Rochester is a local showroom providing energy-efficient windows and doors, replacement and installation services, and expert guidance tailored to Minnesota homes and weather.",
    "lat": 44.021543,
-   "lng": -92.494135
+   "lng": -92.494135,
+   "hoursText": "Monday - Saturday 9:00 a.m. to 5:00 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "6": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "penz-dental-care",
@@ -4437,9 +12542,39 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Healthcare",
    "subcategory": "Dental",
-   "description": "Dental practice offering general dental care.",
+   "description": "Penz Dental Care is a patient-focused dental practice offering personalized preventive, restorative, and cosmetic dentistry for patients of all ages.",
    "lat": 44.022235,
-   "lng": -92.500811
+   "lng": -92.500811,
+   "hoursText": "Monday - Thursday 8:00 a.m. to 4:30 p.m.; Closed Friday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       990
+      ]
+     ],
+     "2": [
+      [
+       480,
+       990
+      ]
+     ],
+     "3": [
+      [
+       480,
+       990
+      ]
+     ],
+     "4": [
+      [
+       480,
+       990
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "phoenix-healing-center",
@@ -4450,7 +12585,7 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Personal care and wellness",
    "subcategory": "Wellness center",
-   "description": "Mental health and wellness practice.",
+   "description": "Phoenix Healing Center is a holistic mental health practice offering psychotherapy, cognitive behavioral therapy, mindfulness, spirituality-focused care, sensorimotor psychotherapy, and Reiki to support healing and personal well-being.",
    "lat": 44.021543,
    "lng": -92.490645
   },
@@ -4463,9 +12598,13 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Catering",
-   "description": "Catering company providing food service for private and community events.",
+   "description": "Pinnacle Catering is a full-service caterer creating customized menus and thoughtfully prepared cuisine for weddings, corporate events, receptions, conferences, and other special occasions.",
    "lat": 44.021546,
-   "lng": -92.495814
+   "lng": -92.495814,
+   "hoursText": "Monday - Friday 8:00 p.m. to 4:00 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "varies"
+   }
   },
   {
    "id": "primrose-school-of-rochester",
@@ -4476,9 +12615,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Education and childcare",
    "subcategory": "Preschool and childcare",
-   "description": "Early childhood education and childcare center.",
+   "description": "Primrose School of Rochester is a private early education and childcare center offering nurturing, age-appropriate learning experiences designed to support children’s academic, social, and emotional development.",
    "lat": 44.022639,
-   "lng": -92.502114
+   "lng": -92.502114,
+   "hoursText": "Monday - Friday 6:00 a.m. to 6:00 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       360,
+       1080
+      ]
+     ],
+     "2": [
+      [
+       360,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       360,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       360,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       360,
+       1080
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "r-f-print-and-design",
@@ -4489,7 +12664,7 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Printing",
-   "description": "Printing and design business.",
+   "description": "RF Print & Design is a local commercial printing and design business serving customers with professional print-related services and creative solutions.",
    "lat": 44.021354,
    "lng": -92.49221
   },
@@ -4502,9 +12677,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Construction",
-   "description": "Custom home building and construction business.",
+   "description": "R. Fleming Construction is a custom home builder specializing in thoughtfully designed, high-quality homes with personalized planning, craftsmanship, and hands-on guidance throughout the building process.",
    "lat": 44.021657,
-   "lng": -92.492307
+   "lng": -92.492307,
+   "hoursText": "Monday - Friday 9:00 a.m. to 5:00 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "rainbow-inn-and-cafe",
@@ -4515,7 +12726,7 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Lodging",
    "subcategory": "Inn and cafe",
-   "description": "Inn and cafe listed in the corridor inventory; confirm current operator and food service.",
+   "description": "Rainbow Inn & Cafe is a conveniently located lodging property directly across from Mayo Clinic’s Saint Marys Hospital, offering a practical stay for patients, families, and other visitors.",
    "lat": 44.021687,
    "lng": -92.481675
   },
@@ -4528,9 +12739,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Financial",
    "subcategory": "Retirement planning",
-   "description": "Retirement and financial planning business.",
+   "description": "Ramer Retirement Resources is a financial planning firm specializing in personalized retirement, investment, and tax planning designed to help individuals and families prepare confidently for their financial future.",
    "lat": 44.021657,
-   "lng": -92.49396
+   "lng": -92.49396,
+   "hoursText": "Mon-Fri 8:30 AM-5 PM.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       510,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       510,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "red-cow",
@@ -4541,9 +12788,51 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Burgers",
-   "description": "Restaurant serving burgers, other meals and drinks.",
+   "description": "Red Cow is known for handcrafted gourmet burgers, creative tavern fare, craft beer, and fine wine.",
    "lat": 44.02139,
-   "lng": -92.48408
+   "lng": -92.48408,
+   "hoursText": "Mon closed; Tue-Fri 11 AM-10 PM; Sat-Sun 10 AM-10 PM.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       600,
+       1320
+      ]
+     ],
+     "2": [
+      [
+       660,
+       1320
+      ]
+     ],
+     "3": [
+      [
+       660,
+       1320
+      ]
+     ],
+     "4": [
+      [
+       660,
+       1320
+      ]
+     ],
+     "5": [
+      [
+       660,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       600,
+       1320
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "river-church",
@@ -4554,9 +12843,33 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Community and nonprofit",
    "subcategory": "Place of worship",
-   "description": "Church and faith community.",
+   "description": "River Church is a Christian ministry focused on worship, prayer, community outreach, and practical support for individuals and families in need.",
    "lat": 44.021543,
-   "lng": -92.471495
+   "lng": -92.471495,
+   "hoursText": "Monday Closed; Tuesday 10:30 a.m. to 12:30 p.m; Wednesday 6:30 p.m. to 8:30 p.m.; Thursday 10:00 a.m. to 12:00 p.m.; Closed Friday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "2": [
+      [
+       630,
+       750
+      ]
+     ],
+     "3": [
+      [
+       1110,
+       1230
+      ]
+     ],
+     "4": [
+      [
+       600,
+       720
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "rochester-church-of-christ",
@@ -4567,7 +12880,7 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Community and nonprofit",
    "subcategory": "Place of worship",
-   "description": "Church of Christ congregation.",
+   "description": "Rochester Church of Christ is a welcoming Christian congregation offering worship, Bible study, fellowship, and compassionate ministry to local residents and visitors, including families coming to Mayo Clinic.",
    "lat": 44.021543,
    "lng": -92.47252
   },
@@ -4580,9 +12893,51 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Automotive",
    "subcategory": "Tire and auto service",
-   "description": "Automotive maintenance and repair center.",
+   "description": "Quick Lane Tire & Auto Center provides convenient maintenance and repair for all makes and models, including oil changes, tires, brakes, batteries, alignments, and vehicle checkups.",
    "lat": 44.021657,
-   "lng": -92.494009
+   "lng": -92.494009,
+   "hoursText": "Mon-Fri 7 AM-6 PM; Sat 8 AM-4 PM; Sun closed.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       420,
+       1080
+      ]
+     ],
+     "2": [
+      [
+       420,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       420,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       420,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       420,
+       1080
+      ]
+     ],
+     "6": [
+      [
+       480,
+       960
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "rochester-towers-condominiums",
@@ -4593,7 +12948,7 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Residential",
    "subcategory": "Condominiums",
-   "description": "Residential condominium building; confirm public listing and property contact.",
+   "description": "Rochester Towers Condominiums is a residential community offering convenient condo living with amenities such as an indoor pool, fitness room, heated parking, and easy access to Mayo Clinic and downtown attractions.",
    "lat": 44.02146,
    "lng": -92.469843
   },
@@ -4606,9 +12961,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Professional services",
-   "description": "Law firm offering business and estate planning services.",
+   "description": "Rochford Langins Jarstad, LLC is a law firm offering trusted legal guidance in estate planning, wills and trusts, family law, real estate, business law, probate, and business succession.",
    "lat": 44.021543,
-   "lng": -92.494135
+   "lng": -92.494135,
+   "hoursText": "Monday - Friday 9:00 a.m. to 5:00 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "ronald-mcdonald-house",
@@ -4619,9 +13010,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Community and nonprofit",
    "subcategory": "Patient hospitality house",
-   "description": "Nonprofit lodging and family support for children receiving medical care.",
+   "description": "Ronald McDonald House provides a welcoming home away from home with lodging, meals, activities, and supportive services for families traveling to Rochester for their child’s medical care.",
    "lat": 44.021558,
-   "lng": -92.475536
+   "lng": -92.475536,
+   "hoursText": "Monday - Saturday 8:00 a.m to 9:00 p.m.; Sunday 8:00 a.m. to 8:00 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       480,
+       1200
+      ]
+     ],
+     "1": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1260
+      ]
+     ],
+     "6": [
+      [
+       480,
+       1260
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "saints-on-2nd-bar-and-grill",
@@ -4632,9 +13071,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Bar and grill",
-   "description": "Restaurant and bar near Mayo Clinic's Saint Marys campus.",
+   "description": "Saints on 2nd Bar and Grill serves American favorites like burgers and potato skins. They have wine, cocktails, beers on tap and ciders to choose from at their bar.",
    "lat": 44.022013,
-   "lng": -92.48347
+   "lng": -92.48347,
+   "hoursText": "Monday - Friday 6:30 a.m. to 10:00 p.m.; Saturday - Sunday 7:00 a.m. to 10:00 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       420,
+       1320
+      ]
+     ],
+     "1": [
+      [
+       390,
+       1320
+      ]
+     ],
+     "2": [
+      [
+       390,
+       1320
+      ]
+     ],
+     "3": [
+      [
+       390,
+       1320
+      ]
+     ],
+     "4": [
+      [
+       390,
+       1320
+      ]
+     ],
+     "5": [
+      [
+       390,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       420,
+       1320
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "sandberg-haddon-law",
@@ -4645,9 +13132,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Legal",
    "subcategory": "Law firm",
-   "description": "Law firm offering personal injury legal services.",
+   "description": "Sandberg Haddon Law  is a law firm providing compassionate, personalized representation in personal injury, workers’ compensation, medical malpractice, and wrongful death cases.",
    "lat": 44.021657,
-   "lng": -92.49396
+   "lng": -92.49396,
+   "hoursText": "Monday - Friday 8:30 a.m. to 4:30 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       510,
+       990
+      ]
+     ],
+     "2": [
+      [
+       510,
+       990
+      ]
+     ],
+     "3": [
+      [
+       510,
+       990
+      ]
+     ],
+     "4": [
+      [
+       510,
+       990
+      ]
+     ],
+     "5": [
+      [
+       510,
+       990
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "sargents-on-2nd",
@@ -4658,9 +13181,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Garden center",
-   "description": "Garden center offering plants and gardening products, with Cafe Aqui on site.",
+   "description": "Sargent’s on 2nd is a garden center offering a wide variety of indoor and outdoor plants, gardening supplies, gifts, landscaping services, and expert advice for plant lovers of all experience levels.",
    "lat": 44.021657,
-   "lng": -92.49073
+   "lng": -92.49073,
+   "hoursText": "Mon-Fri 8 AM-6 PM; Sat 8 AM-5 PM; Sun 9 AM-5 PM. Seasonal/holiday changes may apply.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "1": [
+      [
+       480,
+       1080
+      ]
+     ],
+     "2": [
+      [
+       480,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       480,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       480,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       480,
+       1080
+      ]
+     ],
+     "6": [
+      [
+       480,
+       1020
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "semcil-living-inc",
@@ -4671,9 +13242,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Community and nonprofit",
    "subcategory": "Disability services",
-   "description": "Independent living organization providing services and support for people with disabilities.",
+   "description": "Southeastern Minnesota Center for Independent Living (SEMCIL) is a nonprofit that empowers people of all ages with disabilities through independent-living support, advocacy, assistive technology, skills training, peer support, and community-access services.",
    "lat": 44.021588,
-   "lng": -92.497652
+   "lng": -92.497652,
+   "hoursText": "Mon-Fri 8 AM-4:30 PM.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       480,
+       990
+      ]
+     ],
+     "2": [
+      [
+       480,
+       990
+      ]
+     ],
+     "3": [
+      [
+       480,
+       990
+      ]
+     ],
+     "4": [
+      [
+       480,
+       990
+      ]
+     ],
+     "5": [
+      [
+       480,
+       990
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "shorewood-senior-campus",
@@ -4684,9 +13291,13 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Residential",
    "subcategory": "Senior living",
-   "description": "Senior living community.",
+   "description": "Shorewood Senior Campus is a welcoming 55+ senior living community offering independent apartments, assisted living, dementia care, and short-term respite care with a variety of amenities and personalized support.",
    "lat": 44.021657,
-   "lng": -92.494668
+   "lng": -92.494668,
+   "hoursText": "Open daily open 24 hours",
+   "schedule": {
+    "type": "always"
+   }
   },
   {
    "id": "southeast-scuba-escape",
@@ -4697,9 +13308,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Scuba shop",
-   "description": "Dive shop offering scuba equipment, classes and dive travel.",
+   "description": "Southeast Scuba Escape is a local scuba diving business offering diving instruction, equipment, and resources to help beginners and experienced divers safely explore the underwater world.",
    "lat": 44.021595,
-   "lng": -92.489331
+   "lng": -92.489331,
+   "hoursText": "Tue-Fri 9 AM-6 PM; Sat 10 AM-4 PM; Sun-Mon closed.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "2": [
+      [
+       540,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1080
+      ]
+     ],
+     "6": [
+      [
+       600,
+       960
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "southwest-church-of-christ",
@@ -4710,9 +13357,27 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Community and nonprofit",
    "subcategory": "Place of worship",
-   "description": "Church of Christ congregation listed in the corridor inventory.",
+   "description": "Southwest Church of Christ is a local Christian congregation serving the Rochester community through worship and faith-centered fellowship.",
    "lat": 44.021543,
-   "lng": -92.493985
+   "lng": -92.493985,
+   "hoursText": "Monday - Tuesday Closed; Wednesday 7:00 p.m. to 8:00 p.m.; Closed Thursday - Saturday; Sunday 9:30 a.m. to 11:30 a.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       570,
+       690
+      ]
+     ],
+     "3": [
+      [
+       1140,
+       1200
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "spyhouse-coffee-roasters",
@@ -4723,9 +13388,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Coffee shop",
-   "description": "Coffee shop inside TownePlace Suites Rochester Mayo Clinic Area.",
+   "description": "Spyhouse Coffee Roasters is a specialty coffee shop offering thoughtfully sourced and roasted coffee, espresso drinks, and a selection of wine and local craft beer.",
    "lat": 44.021657,
-   "lng": -92.47118
+   "lng": -92.47118,
+   "hoursText": "Mon-Thu 6 AM-9 PM; Fri 6 AM-10 PM; Sat-Sun 7 AM-10 PM.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       420,
+       1320
+      ]
+     ],
+     "1": [
+      [
+       360,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       360,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       360,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       360,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       360,
+       1320
+      ]
+     ],
+     "6": [
+      [
+       420,
+       1320
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "the-berkman",
@@ -4736,9 +13449,51 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Residential",
    "subcategory": "Apartments",
-   "description": "Apartment community offering residential and short-term lodging options.",
+   "description": "The Berkman is an apartment and furnished short-stay community directly across from Mayo Clinic’s Saint Marys Hospital, offering modern residences, premium amenities, and a convenient location for both residents and visitors",
    "lat": 44.02139,
-   "lng": -92.48408
+   "lng": -92.48408,
+   "hoursText": "Monday - Friday 9:00 a.m. to 6:00 p.m.; Saturday 10:00 a.m. to 4:00 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       1080
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       540,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1080
+      ]
+     ],
+     "6": [
+      [
+       600,
+       960
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "the-collaborative-salon",
@@ -4749,9 +13504,13 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Personal care and wellness",
    "subcategory": "Hair salon",
-   "description": "Hair salon offering appointments for hair services.",
+   "description": "The Collaborative Salon can help you feel confident about your hair by providingf stylish haircuts, specialty services and luxury coloring options.",
    "lat": 44.022809,
-   "lng": -92.49915
+   "lng": -92.49915,
+   "hoursText": "Tue-Sat, by appointment only.",
+   "schedule": {
+    "type": "varies"
+   }
   },
   {
    "id": "the-dental-doctors-dr-brandon-kelly-and-dr-philip-wadkins",
@@ -4762,9 +13521,45 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Healthcare",
    "subcategory": "Dental",
-   "description": "Dental practice offering family dental care.",
+   "description": "The Dental Doctors is a local dental practice providing dental care for the entire family.",
    "lat": 44.021659,
-   "lng": -92.473429
+   "lng": -92.473429,
+   "hoursText": "Monday - Friday 7:00 a.m. to 6:00 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       420,
+       1080
+      ]
+     ],
+     "2": [
+      [
+       420,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       420,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       420,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       420,
+       1080
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "toppers-pizza",
@@ -4775,9 +13570,85 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Food and drink",
    "subcategory": "Pizza",
-   "description": "Pizza restaurant offering pickup and delivery.",
+   "description": "Toppers Pizza is a casual pizza spot known for made-from-scratch dough, Wisconsin mozzarella, customizable and specialty pizzas, signature Topperstix, wings, and convenient delivery and carryout.",
    "lat": 44.021789,
-   "lng": -92.486011
+   "lng": -92.486011,
+   "hoursText": "Monday - Sunday 10:30 a.m. to 3:00 a.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       0,
+       180
+      ],
+      [
+       630,
+       1440
+      ]
+     ],
+     "1": [
+      [
+       0,
+       180
+      ],
+      [
+       630,
+       1440
+      ]
+     ],
+     "2": [
+      [
+       0,
+       180
+      ],
+      [
+       630,
+       1440
+      ]
+     ],
+     "3": [
+      [
+       0,
+       180
+      ],
+      [
+       630,
+       1440
+      ]
+     ],
+     "4": [
+      [
+       0,
+       180
+      ],
+      [
+       630,
+       1440
+      ]
+     ],
+     "5": [
+      [
+       0,
+       180
+      ],
+      [
+       630,
+       1440
+      ]
+     ],
+     "6": [
+      [
+       0,
+       180
+      ],
+      [
+       630,
+       1440
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "towneplace-suites-rochester-mayo-clinic-area",
@@ -4788,7 +13659,7 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Lodging",
    "subcategory": "Hotel",
-   "description": "TownePlace Suites extended-stay hotel near Mayo Clinic.",
+   "description": "TownePlace Suites by Marriott Rochester Mayo Clinic Area is a fantastic extended-stay option with spacious, clean suites, full kitchens, complimentary breakfast, and a convenient free shuttle to Mayo Clinic.",
    "lat": 44.021657,
    "lng": -92.47118
   },
@@ -4801,9 +13672,57 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Retail",
    "subcategory": "Smoke shop",
-   "description": "Smoke shop listed in the corridor inventory.",
+   "description": "Uptown Rochester Smoke Shop serves adult customers with smoking-related products and accessories.",
    "lat": 44.021543,
-   "lng": -92.492404
+   "lng": -92.492404,
+   "hoursText": "Monday - Sunday 10:00 a.m. to 9:00 p.m.",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "0": [
+      [
+       600,
+       1260
+      ]
+     ],
+     "1": [
+      [
+       600,
+       1260
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1260
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1260
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1260
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1260
+      ]
+     ],
+     "6": [
+      [
+       600,
+       1260
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "vanity-fur",
@@ -4814,9 +13733,39 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Professional services",
    "subcategory": "Pet grooming",
-   "description": "Pet grooming business listed in the corridor inventory.",
+   "description": "Vanity Fur is a full-service pet grooming salon providing caring, personalized grooming for dogs and cats, with a focus on keeping pets healthy, comfortable, and looking their best.",
    "lat": 44.021543,
-   "lng": -92.492307
+   "lng": -92.492307,
+   "hoursText": "Monday - Wednesday 9:00 a.m. to 4:30 p.m.; Thursday 9:00 a.m. to 8:00 p.m.; Friday - Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       990
+      ]
+     ],
+     "2": [
+      [
+       540,
+       990
+      ]
+     ],
+     "3": [
+      [
+       540,
+       990
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1200
+      ]
+     ]
+    }
+   }
   },
   {
    "id": "west-end-salon-and-spa",
@@ -4827,9 +13776,168 @@ window.WHATS_OPEN_DATA = {
    ],
    "category": "Personal care and wellness",
    "subcategory": "Salon and spa",
-   "description": "Salon, medspa and wellness business.",
+   "description": "West End Salon MedSpa & Wellness Studio is an all-in-one beauty and wellness destination offering professional hair services, advanced skin and med spa treatments, restorative head spa experiences, massage, and fitness classes.",
    "lat": 44.02139,
-   "lng": -92.48408
+   "lng": -92.48408,
+   "hoursText": "Monday 9:00 a.m. to 4:00 p.m.; Tuesday 9:00 a.m. to 7:00 p.m.; Wednesday 10:00 a.m. to 4:00 p.m.; Thursday 9:00 a.m. to 7:00 p.m.; Friday 9:00 a.m. to 5:00 p.m.; Saturday 8:00 a.m. to 4:00 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       960
+      ]
+     ],
+     "2": [
+      [
+       540,
+       1140
+      ]
+     ],
+     "3": [
+      [
+       600,
+       960
+      ]
+     ],
+     "4": [
+      [
+       540,
+       1140
+      ]
+     ],
+     "5": [
+      [
+       540,
+       1020
+      ]
+     ],
+     "6": [
+      [
+       480,
+       960
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "associated-bank-2",
+   "name": "Associated Bank",
+   "status": "Open during construction",
+   "cats": [
+    "Retail & services"
+   ],
+   "category": "Financial",
+   "subcategory": "Bank",
+   "description": "Associated Bank offers convenient personal and business banking services, including checking, savings, loans, and financial solutions to help customers manage their money with confidence.",
+   "hoursText": "Monday - Friday 9 a.m. to 4 p.m.; Closed Saturday - Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       540,
+       960
+      ]
+     ],
+     "2": [
+      [
+       540,
+       960
+      ]
+     ],
+     "3": [
+      [
+       540,
+       960
+      ]
+     ],
+     "4": [
+      [
+       540,
+       960
+      ]
+     ],
+     "5": [
+      [
+       540,
+       960
+      ]
+     ]
+    }
+   },
+   "lat": 44.022605,
+   "lng": -92.464575
+  },
+  {
+   "id": "ell-boutique-2",
+   "name": "ELL Boutique",
+   "status": "Open during construction",
+   "cats": [
+    "Retail & services"
+   ],
+   "category": "Retail",
+   "subcategory": "Boutique",
+   "description": "ELL Botique is a stylish shop offering a thoughtfully curated selection of clothes, accessories, and unique finds for a fun and personalized shopping expereince.",
+   "hoursText": "Monday - Friday 10 a.m. to 6 p.m.; Saturday 10 a.m. to 4 p.m.; Closed Sunday",
+   "schedule": {
+    "type": "weekly",
+    "days": {
+     "1": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "2": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "3": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "4": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "5": [
+      [
+       600,
+       1080
+      ]
+     ],
+     "6": [
+      [
+       600,
+       960
+      ]
+     ]
+    }
+   },
+   "lat": 44.022605,
+   "lng": -92.464575
+  },
+  {
+   "id": "hanger-clinic-2",
+   "name": "Hanger Clinic",
+   "status": "Open during construction",
+   "cats": [
+    "Retail & services"
+   ],
+   "category": "Healthcare",
+   "subcategory": "Prosthetics and orthotics",
+   "description": "Hanger Clinic provides personalized prosthetic and orthotic care designed to help patients improve mobility, comfort, and independence.",
+   "lat": 44.022019,
+   "lng": -92.464582
   }
  ]
 };

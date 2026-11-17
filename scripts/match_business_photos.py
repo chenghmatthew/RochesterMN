@@ -1,7 +1,8 @@
 """Match the photo files in a folder to the businesses in the Business Inventory workbook, by business name.
 
-Photo filenames are informal ("franciscos.jpg", "kahler.png", "mayo clinic1-10 145024.png"), so matching is fuzzy
-and the result is a CSV to REVIEW, not something to trust blindly:
+The workbook's "Image URL" column is the source of truth: when a business row names a photo file there, that
+photo is used (confidence "sheet"). Only businesses with no Image URL, and photos no row names, are matched by
+name. Those filenames are informal ("franciscos.jpg", "kahler.png"), so fuzzy matches are a CSV to REVIEW:
 
     py scripts/match_business_photos.py "C:/.../Downtown Rochester Business Inventory 20261104.xlsm" "C:/.../Business Photos"
 
@@ -96,13 +97,20 @@ def read_businesses(workbook_path):
     headers = [str(c or "").strip().lower() for c in rows[head]]
     name_col = headers.index("business name")
     id_col = headers.index("business id") if "business id" in headers else None
-    seen, out = set(), []
+    image_col = headers.index("image url") if "image url" in headers else None
+    out = []
     for r in rows[head + 1:]:
         name = str(r[name_col] or "").strip()
-        if name and name not in seen:  # a few businesses appear on several rows; one entry is enough
-            seen.add(name)
-            out.append({"name": name, "id": str(r[id_col] or "").strip() if id_col is not None else "", "tok": tokens(name)})
+        if name:
+            cell = lambda col: str(r[col] or "").strip() if col is not None and col < len(r) else ""
+            out.append({"name": name, "id": cell(id_col), "image": cell(image_col), "tok": tokens(name)})
     return out
+
+
+def find_photo(image, by_name):
+    """Photo (relative path) for a workbook Image URL cell: exact file name, else same name with another extension."""
+    key = Path(image).name.lower()
+    return by_name.get(key) or by_name.get(Path(key).stem)
 
 
 def read_overrides():
@@ -121,16 +129,37 @@ def main():
     businesses = read_businesses(args.workbook)
     overrides = read_overrides()
     photos = sorted(p for p in args.photos.rglob("*") if p.suffix.lower() in IMAGE_EXTS)
+    by_name = {}  # lower-case file name (and bare stem) -> relative path
+    for p in photos:
+        rel = p.relative_to(args.photos).as_posix()
+        by_name.setdefault(p.name.lower(), rel)
+        by_name.setdefault(p.stem.lower(), rel)
+    named, claimed = [], set()  # businesses whose row names a photo, and those photos
+    for b in businesses:
+        rel = find_photo(b["image"], by_name) if b["image"] else None
+        if rel:
+            named.append((rel, b))
+            claimed.add(rel)
+        elif b["image"]:
+            print(f"  Image URL not found in the photo folder: {b['name']} -> {b['image']}")
+    named_ids = {b["name"] for _, b in named}
+    seen = set()  # name matching: one entry per name, only for businesses with no photo named in the sheet
+    candidates = [b for b in businesses if b["name"] not in named_ids and not (b["name"] in seen or seen.add(b["name"]))]
     print(f"{len(businesses)} businesses, {len(photos)} photos, {len(overrides)} overrides")
 
     OUT_PATH.parent.mkdir(exist_ok=True)
-    counts = {"high": 0, "review": 0, "none": 0, "override": 0}
+    counts = {"sheet": 0, "high": 0, "review": 0, "none": 0, "override": 0}
     with open(OUT_PATH, "w", newline="", encoding="utf-8-sig") as f:  # utf-8-sig so Excel opens it cleanly
         out = csv.writer(f)
         out.writerow(["photo", "business", "business_id", "score", "confidence", "also_considered"])
+        for rel, b in named:
+            out.writerow([rel, b["name"], b["id"], 1, "sheet", ""])
+            counts["sheet"] += 1
         for photo in photos:
             rel = photo.relative_to(args.photos).as_posix()
-            ranked = sorted(((score(photo_tokens(photo, args.photos), b["tok"]), b) for b in businesses),
+            if rel in claimed:
+                continue
+            ranked = sorted(((score(photo_tokens(photo, args.photos), b["tok"]), b) for b in candidates),
                             key=lambda x: -x[0])
             top_score, top = ranked[0]
             others = "; ".join(f"{b['name']} ({s})" for s, b in ranked[1:4] if s >= REVIEW)
@@ -146,7 +175,7 @@ def main():
             else:
                 out.writerow([rel, "", "", top_score, "none", f"closest: {top['name']}"])
                 counts["none"] += 1
-    print(f"high {counts['high']}, review {counts['review']}, no match {counts['none']}, override {counts['override']}")
+    print(f"from the sheet's Image URL {counts['sheet']}, high {counts['high']}, review {counts['review']}, no match {counts['none']}, override {counts['override']}")
     print(f"Wrote {OUT_PATH}")
 
 

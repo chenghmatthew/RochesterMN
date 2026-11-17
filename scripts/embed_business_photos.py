@@ -8,7 +8,7 @@ Run scripts/match_business_photos.py first and review data/photo-matches.csv. Th
 
 Each photo is shrunk (max 640px wide, JPEG) and embedded in index.html as window.BUSINESS_PHOTOS
 ({business id: data URI}), because the page is opened straight from disk where separate image files
-can't be loaded. One photo per business: the first matching row in the CSV. Re-running replaces the previous set.
+can't be loaded. One photo per business: the workbook's Image URL first, then overrides, then the best name match. Re-running replaces the previous set.
 """
 
 import argparse
@@ -63,17 +63,19 @@ def as_data_uri(path):
 
 
 def choose_photos(include_review):
-    ok = {"high", "override", "confirmed"} | ({"review"} if include_review else set())
-    ids, chosen = business_ids(), {}
+    rank = {"sheet": 0, "override": 1, "confirmed": 1, "high": 2, **({"review": 3} if include_review else {})}
+    by_name = business_ids()
+    on_map = set(by_name.values())
     with open(MATCHES_PATH, newline="", encoding="utf-8-sig") as f:
-        for row in csv.DictReader(f):
-            if row["confidence"] not in ok or not row["business"]:
-                continue
-            bid = ids.get(slug(row["business"]))
-            if bid is None:
-                print(f"  not on the map, skipped: {row['photo']} -> {row['business']}")
-            elif bid not in chosen:  # first photo wins
-                chosen[bid] = row["photo"]
+        rows = sorted((r for r in csv.DictReader(f) if r["confidence"] in rank and r["business"]),
+                      key=lambda r: rank[r["confidence"]])
+    chosen = {}
+    for row in rows:  # best-ranked photo wins; the workbook's own Image URL beats any guess
+        bid = row["business_id"] if row["business_id"] in on_map else by_name.get(slug(row["business"]))
+        if bid is None:
+            print(f"  not on the map, skipped: {row['photo']} -> {row['business']}")
+        elif bid not in chosen:
+            chosen[bid] = row["photo"]
     return chosen
 
 

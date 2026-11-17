@@ -8,12 +8,18 @@ Download the workbook from SharePoint first (the script reads a local file; it n
 Workbook categories are grouped into the map's three filter chips (Food & drink, Lodging, Retail & services).
 
 Only these workbook columns are read (header names are matched loosely, any column can be missing):
-    Business ID, Business name, Category, Subcategory, Description, Latitude, Longitude
+    Business ID, Business name, Category, Subcategory, Description, Latitude, Longitude,
+    Business hours from site, Hours verification status
 
-They are written into the matching business in data/whats-open-data.js (matched by ID, then by name).
-Every other field (hours, access notes, routes, ...) is left exactly as it is, so the page keeps working.
-Businesses that are not in the data yet are added when they have a name and coordinates.
-Empty cells never overwrite existing values. The same data is re-embedded in index.html so the page
+The workbook is the complete list. Each run makes the map's businesses match it:
+  - a business in data/whats-open-data.js that is not in the workbook is REMOVED (and stays gone: it only comes
+    back if it is put back in the workbook);
+  - a business in the workbook is matched by ID, then by name, and the columns above are copied onto it;
+  - a column the workbook leaves blank clears that value instead of keeping an older one;
+  - a business in the workbook that isn't in the data yet is added when it has a name and coordinates.
+The hours text is also turned into the schedule behind "Open now" (see parse_hours.py).
+Fields the loader does not read (access notes, routes, ...) are left as they are on businesses that stay.
+Coordinates are only replaced by a valid latitude/longitude pair. The same data is re-embedded in index.html so the page
 works when opened straight from disk.
 """
 
@@ -26,6 +32,7 @@ import sys
 from pathlib import Path
 
 from openpyxl import load_workbook
+from parse_hours import parse_hours
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_PATH = ROOT / "data" / "whats-open-data.js"
@@ -42,6 +49,8 @@ COLUMNS = {
     "description": ("description", "description from site"),
     "lat": ("latitude", "lat"),
     "lng": ("longitude", "lng", "long", "lon"),
+    "hours": ("business hours from site", "business hours", "hours"),
+    "hoursVerification": ("hours verification status",),
 }
 # The map has three filter chips. Workbook categories are grouped into them; the original wording is kept
 # in the business's "category" field for display and search.
@@ -107,31 +116,42 @@ def chips(text, existing):
     return found
 
 
-def find_business(businesses, record):
+def find_business(businesses, record, claimed):
+    """By ID, else by name. A business already matched to another workbook row is never reused, so two rows with
+    the same name but different IDs (two bank branches) stay two businesses."""
     wanted_id, wanted_name = clean(record.get("id")), clean(record["name"])
     for b in businesses:
-        if wanted_id and b["id"] == wanted_id:
+        if wanted_id and b["id"] == wanted_id and id(b) not in claimed:
             return b
     for b in businesses:
-        if slug(b["name"]) == slug(wanted_name):
+        if slug(b["name"]) == slug(wanted_name) and id(b) not in claimed:
             return b
     return None
 
 
 def apply_record(business, record):
-    """Copy non-empty workbook values onto the business. Returns the list of fields that changed."""
+    """Copy the workbook's values onto the business, blanks included. Returns the list of fields that changed."""
     updates = {}
-    for field in ("name", "category", "subcategory", "description"):
-        value = clean(record.get(field))
-        if value:
-            updates[field] = value
+    for field in ("name", "category", "subcategory", "description", "hoursVerification"):
+        if field in record:  # the column exists in the workbook: its value wins, even when blank
+            updates[field] = clean(record[field])
+    if "hours" in record:
+        updates["hoursText"] = clean(record["hours"])
+        updates["schedule"] = parse_hours(updates["hoursText"]) if updates["hoursText"] else ""
     if updates.get("category"):
         updates["cats"] = chips(updates["category"], business.get("cats", []))
     lat, lng = to_coord(record.get("lat"), -90, 90), to_coord(record.get("lng"), -180, 180)
     if lat is not None and lng is not None:  # only ever set the pair together
         updates["lat"], updates["lng"] = lat, lng
-    changed = [k for k, v in updates.items() if business.get(k) != v]
-    business.update(updates)
+    changed = []
+    for key, value in updates.items():
+        if value in ("", None):  # blank in the workbook: remove the field (the page then shows its defaults)
+            if key != "name" and key in business:
+                del business[key]
+                changed.append(key)
+        elif business.get(key) != value:
+            business[key] = value
+            changed.append(key)
     return changed
 
 
@@ -180,9 +200,11 @@ def main():
     header, data = load_data()
     businesses = data["businesses"]
     added = updated = skipped = 0
+    in_sheet = []  # businesses (by identity) that have a row in the workbook
     for record in read_sheet(workbook):
-        business = find_business(businesses, record)
+        business = find_business(businesses, record, {id(b) for b in in_sheet})
         if business:
+            in_sheet.append(business)
             changed = apply_record(business, record)
             if changed:
                 updated += 1
@@ -192,12 +214,18 @@ def main():
                         "status": "Open during construction", "cats": []}
             apply_record(business, record)
             businesses.append(business)
+            in_sheet.append(business)
             added += 1
             print(f"  added   {business['name']}")
         else:
             skipped += 1
             print(f"  skipped {clean(record['name'])}: new business without latitude/longitude (can't be placed on the map)")
-    print(f"{updated} updated, {added} added, {skipped} skipped, {len(businesses)} businesses total")
+    keep = {id(b) for b in in_sheet}
+    removed = [b for b in businesses if id(b) not in keep]
+    for b in removed:
+        print(f"  removed {b['name']}: not in the workbook")
+    businesses[:] = [b for b in businesses if id(b) in keep]
+    print(f"{updated} updated, {added} added, {len(removed)} removed, {skipped} skipped, {len(businesses)} businesses total")
     if args.dry_run:
         print("Dry run: no files written.")
         return
